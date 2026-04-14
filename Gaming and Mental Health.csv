@@ -1,0 +1,1001 @@
+record_id,age,gender,daily_gaming_hours,game_genre,primary_game,gaming_platform,sleep_hours,sleep_quality,sleep_disruption_frequency,academic_work_performance,grades_gpa,work_productivity_score,mood_state,mood_swing_frequency,withdrawal_symptoms,loss_of_other_interests,continued_despite_problems,eye_strain,back_neck_pain,weight_change_kg,exercise_hours_weekly,social_isolation_score,face_to_face_social_hours_weekly,monthly_game_spending_usd,years_gaming,gaming_addiction_risk_level
+GD0001,17,Male,11.1,Mobile Games,Clash of Clans,PC,3.7,Very Poor,Sometimes,Below Average,1.25,,Anxious,Never,TRUE,FALSE,TRUE,TRUE,FALSE,6.8,3.7,7,1.3,383.7,3,Severe
+GD0002,21,Male,3,MOBA,Dota 2,PC,7.2,Fair,Rarely,Good,3.75,2,Irritable,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.5,2,10.7,46.64,1,Low
+GD0003,23,Male,7.6,FPS,CS:GO,Multi-platform,4.4,Fair,Often,Poor,,9,Irritable,Rarely,TRUE,TRUE,TRUE,FALSE,TRUE,1.8,7.1,5,3.2,100.81,6,Severe
+GD0004,20,Female,7.2,RPG,Skyrim,Multi-platform,5.1,Fair,Often,Poor,1.62,2,Withdrawn,Daily,TRUE,TRUE,FALSE,TRUE,TRUE,0.2,5.2,4,9.1,51.6,7,High
+GD0005,18,Male,6.8,Battle Royale,Apex Legends,PC,3.4,Poor,Never,Average,2.44,,Angry,Daily,TRUE,FALSE,FALSE,FALSE,FALSE,0.5,6.1,4,4.5,32.57,1,Moderate
+GD0006,21,Male,2.1,Mobile Games,Clash of Clans,PC,7.5,Fair,Rarely,Good,3.81,4,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,10.8,1,9.6,8.63,4,Low
+GD0007,21,Male,2.7,FPS,Call of Duty,Multi-platform,7.2,Very Poor,Often,Below Average,1.82,6,Euphoric,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,10,2,10.1,35.25,3,Low
+GD0008,28,Female,10.3,Mobile Games,Clash of Clans,Console,5.2,Fair,Sometimes,Poor,,1,Anxious,Rarely,TRUE,TRUE,TRUE,TRUE,TRUE,2.4,5.6,6,0.2,299.28,13,Severe
+GD0009,18,Male,1.4,Mobile Games,Genshin Impact,PC,8.9,Poor,Always,Good,2.43,,Euphoric,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,10.1,1,12.9,49.4,6,Low
+GD0010,18,Male,7.6,MMO,Final Fantasy XIV,Multi-platform,3.5,Insomnia,Often,Average,1.13,,Anxious,Never,TRUE,TRUE,TRUE,TRUE,FALSE,3.3,4.5,6,4.6,135.2,6,Severe
+GD0011,16,Male,1.5,FPS,CS:GO,Multi-platform,8.4,Good,Often,Good,3.04,,Restless,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,10.1,1,11,28.23,4,Low
+GD0012,14,Male,3,Strategy,StarCraft II,PC,7.2,Good,Sometimes,Excellent,3.15,,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,9.4,1,13.9,46.36,3,Low
+GD0013,28,Male,9.5,Mobile Games,Genshin Impact,Mobile,3.6,Very Poor,Never,Poor,,8,Withdrawn,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,2.2,5.1,5,1.6,482.71,7,High
+GD0014,22,Male,5.1,RPG,Skyrim,Mobile,5.3,Fair,Never,Average,3.25,6,Anxious,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,0.9,7.6,3,6.3,36.07,5,Low
+GD0015,21,Male,5.8,RPG,Elden Ring,Console,5.2,Good,Often,Good,2.54,2,Restless,Rarely,FALSE,FALSE,FALSE,FALSE,TRUE,1.2,8.2,3,9,104.01,2,Low
+GD0016,25,Male,7.3,Mobile Games,Clash of Clans,Console,5.6,Poor,Often,Poor,,5,Anxious,Never,TRUE,TRUE,FALSE,TRUE,TRUE,3.3,6.9,6,6.8,68.25,7,High
+GD0017,19,Male,3,Mobile Games,Genshin Impact,Console,7.4,Fair,Sometimes,Poor,1.64,3,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,6.7,3,13.1,1.63,9,Low
+GD0018,22,Female,11.3,MOBA,League of Legends,Multi-platform,4.6,Poor,Sometimes,Poor,1.89,8,Anxious,Often,TRUE,FALSE,FALSE,TRUE,TRUE,5.7,4.9,9,0.9,77.24,10,High
+GD0019,20,Male,8.4,FPS,Call of Duty,Mobile,3.2,Very Poor,Always,Average,2.76,2,Angry,Sometimes,TRUE,TRUE,TRUE,TRUE,FALSE,0.4,7.1,7,8.1,118.79,6,Severe
+GD0020,20,Male,9.4,Battle Royale,Warzone,Console,5.5,Poor,Sometimes,Below Average,2.14,7,Anxious,Rarely,TRUE,TRUE,FALSE,FALSE,TRUE,1.7,4.8,7,2.2,120.16,1,Severe
+GD0021,22,Male,6.5,RPG,Cyberpunk 2077,Console,4.4,Poor,Always,Below Average,2.91,3,Normal,Never,FALSE,TRUE,FALSE,TRUE,FALSE,3.4,6.4,6,9.1,16.99,12,Moderate
+GD0022,16,Female,6.1,MOBA,League of Legends,Console,5.3,Fair,Sometimes,Good,1.12,,Anxious,Often,FALSE,TRUE,FALSE,FALSE,TRUE,1.8,5.8,1,9.3,53.52,4,Moderate
+GD0023,14,Female,6.3,RPG,Skyrim,Mobile,6.5,Good,Rarely,Average,3.27,,Anxious,Never,FALSE,TRUE,FALSE,TRUE,FALSE,0.2,7.5,4,4.8,126.54,4,Moderate
+GD0024,19,Female,8.9,Battle Royale,PUBG,Console,5.7,Very Poor,Never,Average,2.63,8,Irritable,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,1.9,5.7,5,5.2,66.37,6,High
+GD0025,22,Male,5.2,Mobile Games,Candy Crush,PC,7,Fair,Rarely,Good,1.94,1,Depressed,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.7,6.2,2,11.2,60.06,11,Low
+GD0026,22,Male,3.4,Mobile Games,Candy Crush,Console,8.7,Good,Always,Average,3.41,9,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,7.8,3,10.3,37.26,9,Low
+GD0027,18,Male,5.9,Battle Royale,Apex Legends,Multi-platform,6.6,Fair,Always,Below Average,3.91,,Anxious,Often,FALSE,FALSE,FALSE,TRUE,TRUE,0.9,8,3,6.8,55.47,7,Low
+GD0028,18,Male,8.2,MMO,Final Fantasy XIV,Mobile,5.4,Fair,Always,Poor,3.71,,Anxious,Rarely,FALSE,TRUE,FALSE,TRUE,TRUE,3.2,6.5,5,3.3,57.15,8,Moderate
+GD0029,21,Male,1.2,MMO,World of Warcraft,Mobile,7.1,Good,Always,Good,2.31,9,Depressed,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,8.6,2,16.7,34.91,6,Low
+GD0030,19,Female,4.7,RPG,Skyrim,Multi-platform,5.8,Fair,Rarely,Average,1.62,4,Irritable,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.5,5.6,3,10,126.85,8,Low
+GD0031,20,Male,1,RPG,Cyberpunk 2077,Mobile,7.3,Good,Sometimes,Average,1.21,5,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0,8.9,1,14.4,21.09,6,Low
+GD0032,17,Male,5.1,Mobile Games,Clash of Clans,Mobile,6.4,Poor,Always,Average,3.02,,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,2.2,8.9,2,8.3,36.53,5,Low
+GD0033,20,Male,5.9,MMO,Final Fantasy XIV,Console,6.8,Fair,Rarely,Poor,3.39,6,Anxious,Never,FALSE,FALSE,FALSE,FALSE,TRUE,0.3,7.5,3,7.1,147.6,7,Low
+GD0034,20,Male,5.2,Battle Royale,PUBG,Console,5.6,Very Poor,Often,Average,3.03,8,Angry,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,1.4,7.9,5,8.7,19.91,7,Low
+GD0035,18,Male,6.6,FPS,CS:GO,Console,4.1,Insomnia,Often,Poor,3.98,,Anxious,Sometimes,TRUE,TRUE,FALSE,FALSE,FALSE,0.1,5.5,5,8.4,93.68,2,High
+GD0036,22,Female,4.6,Mobile Games,PUBG Mobile,PC,5.4,Poor,Never,Average,1.15,6,Angry,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.6,8.4,4,8.3,80.92,12,Low
+GD0037,20,Male,2.8,MOBA,Mobile Legends,Mobile,8.3,Fair,Never,Excellent,3.54,9,Excited,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,8.3,3,14.3,45.96,9,Low
+GD0038,20,Male,7.6,Strategy,StarCraft II,Mobile,4.2,Very Poor,Never,Poor,2.7,9,Restless,Never,FALSE,TRUE,FALSE,TRUE,TRUE,3.6,5.2,6,2.6,123.45,2,Moderate
+GD0039,16,Female,2.3,MOBA,League of Legends,Mobile,8.4,Good,Often,Average,1.22,,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,7.2,2,12.3,42.43,4,Low
+GD0040,20,Male,4.4,RPG,Elden Ring,Mobile,6.4,Fair,Often,Excellent,1.38,2,Restless,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,9.1,4,8.5,26.63,2,Low
+GD0041,33,Male,3.1,MMO,Elder Scrolls Online,Multi-platform,8.4,Fair,Never,Average,,8,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.3,8.3,1,12.8,47.69,6,Low
+GD0042,16,Male,8,FPS,Valorant,Mobile,3.8,Poor,Sometimes,Failing,3.22,,Irritable,Sometimes,TRUE,TRUE,TRUE,TRUE,TRUE,0.9,6,8,6.3,61.37,1,Severe
+GD0043,20,Male,4.2,Strategy,StarCraft II,Mobile,5.4,Good,Sometimes,Average,2.21,7,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,7.1,1,8.8,9.18,1,Low
+GD0044,20,Male,7.9,Battle Royale,PUBG,Console,3.5,Poor,Never,Below Average,2.25,3,Angry,Rarely,TRUE,FALSE,TRUE,FALSE,TRUE,3.3,7,6,4.2,81.23,4,High
+GD0045,14,Female,3.9,Mobile Games,PUBG Mobile,Mobile,5.1,Poor,Sometimes,Good,2.88,,Euphoric,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.2,7.8,2,7.5,17.43,3,Low
+GD0046,26,Female,6.2,Strategy,Age of Empires,Multi-platform,5.7,Fair,Never,Average,,5,Depressed,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,0.4,5.5,3,4.9,48.84,8,Moderate
+GD0047,20,Male,3.4,MMO,Final Fantasy XIV,PC,7.1,Poor,Sometimes,Below Average,1.19,7,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.3,7.8,1,12.9,23.33,8,Low
+GD0048,29,Female,6.1,FPS,Call of Duty,Mobile,6.7,Poor,Often,Good,,5,Restless,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,0.8,7.7,2,10.7,110.74,14,Moderate
+GD0049,16,Female,5.9,RPG,Skyrim,Console,5.4,Fair,Often,Average,2.11,,Depressed,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,6,3,7.6,125.89,2,Low
+GD0050,15,Female,5.1,MMO,World of Warcraft,PC,6.5,Poor,Never,Below Average,3.87,,Angry,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,6.2,2,8.8,39.9,1,Low
+GD0051,24,Male,7,Strategy,Age of Empires,Console,4.7,Very Poor,Sometimes,Poor,,5,Angry,Often,TRUE,FALSE,FALSE,FALSE,FALSE,0.5,8,4,8.8,132.68,1,Moderate
+GD0052,20,Male,3.5,RPG,Skyrim,Mobile,7.8,Good,Never,Good,1.39,3,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.3,9.8,2,10.7,40.35,4,Low
+GD0053,20,Male,11.4,FPS,Call of Duty,Console,4.3,Very Poor,Never,Failing,2.02,5,Anxious,Never,TRUE,FALSE,FALSE,TRUE,TRUE,0.3,5,6,0.2,433.8,9,High
+GD0054,20,Female,0.5,Mobile Games,Genshin Impact,Multi-platform,7.2,Good,Sometimes,Excellent,3.39,4,Depressed,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,10,1,13.9,9.04,5,Low
+GD0055,22,Female,5.8,FPS,CS:GO,PC,6.7,Good,Rarely,Average,2.3,3,Euphoric,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.3,6.4,3,10.5,114.52,5,Low
+GD0056,19,Male,1.7,MOBA,Mobile Legends,Mobile,8.1,Good,Sometimes,Excellent,1.41,9,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0,9.3,1,12.6,47.53,5,Low
+GD0057,24,Male,6,Strategy,StarCraft II,Console,6.9,Good,Always,Good,,10,Euphoric,Sometimes,FALSE,TRUE,FALSE,FALSE,TRUE,0.1,8.2,4,9.3,133.31,3,Moderate
+GD0058,25,Male,7.1,RPG,Elden Ring,Console,5.2,Poor,Sometimes,Average,,1,Anxious,Sometimes,TRUE,FALSE,FALSE,FALSE,TRUE,4.3,7.2,4,6.6,136.21,8,Moderate
+GD0059,23,Male,0.6,Battle Royale,Warzone,Mobile,7.2,Good,Rarely,Good,,4,Excited,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0,8.8,1,11.1,39.51,10,Low
+GD0060,33,Female,7.2,Mobile Games,PUBG Mobile,Multi-platform,4.2,Fair,Rarely,Below Average,,9,Anxious,Often,FALSE,FALSE,FALSE,TRUE,TRUE,0.7,7.6,5,9,96.57,8,Low
+GD0061,22,Female,5.6,FPS,Call of Duty,Console,5.3,Good,Never,Average,2.08,4,Normal,Sometimes,FALSE,TRUE,FALSE,FALSE,TRUE,0.7,7.7,3,9.7,144.26,10,Moderate
+GD0062,13,Male,8.9,RPG,Cyberpunk 2077,Mobile,4.2,Very Poor,Sometimes,Below Average,3.91,,Restless,Never,TRUE,TRUE,FALSE,TRUE,TRUE,2.1,3.6,5,2.3,417.13,3,Severe
+GD0063,16,Other,12.4,MOBA,Mobile Legends,PC,4.7,Insomnia,Often,Below Average,2,,Irritable,Daily,TRUE,FALSE,FALSE,TRUE,TRUE,0.2,4.3,7,0.6,359.05,6,High
+GD0064,19,Female,6.6,FPS,Valorant,Mobile,3.3,Very Poor,Often,Below Average,3.09,10,Irritable,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,2.3,8,4,9.5,144.41,9,High
+GD0065,26,Female,4.9,Strategy,StarCraft II,Mobile,5.7,Fair,Often,Poor,,5,Irritable,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,1.2,8.8,3,9.5,60.06,10,Low
+GD0066,18,Male,4.4,Mobile Games,Candy Crush,PC,6.6,Poor,Often,Below Average,1.4,,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0,8.3,1,11.3,45.33,5,Low
+GD0067,23,Female,4.7,RPG,Skyrim,Multi-platform,5.1,Good,Sometimes,Average,,8,Angry,Never,FALSE,FALSE,FALSE,TRUE,FALSE,1.2,7,4,10.7,108,8,Low
+GD0068,22,Male,7,MMO,Elder Scrolls Online,Multi-platform,4,Very Poor,Sometimes,Poor,3.54,2,Irritable,Daily,TRUE,FALSE,FALSE,TRUE,TRUE,1,5.8,5,5.3,119.22,4,Moderate
+GD0069,20,Female,6.2,Mobile Games,Genshin Impact,Console,5.8,Very Poor,Never,Average,3.51,2,Irritable,Rarely,FALSE,TRUE,FALSE,TRUE,TRUE,3.3,6.7,5,9.6,42.1,8,Moderate
+GD0070,18,Female,15.1,MMO,World of Warcraft,PC,4.8,Fair,Often,Below Average,3.05,,Restless,Often,TRUE,FALSE,FALSE,TRUE,TRUE,0,4.2,10,0,209.75,6,High
+GD0071,25,Male,4.8,MMO,Elder Scrolls Online,Multi-platform,6.8,Fair,Never,Average,,7,Euphoric,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.6,5.8,2,10,132.26,11,Low
+GD0072,23,Male,2.6,Mobile Games,Clash of Clans,Console,8.8,Fair,Never,Good,,5,Excited,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.9,1,11.2,7.76,3,Low
+GD0073,17,Female,4,Mobile Games,Genshin Impact,Multi-platform,5.8,Fair,Sometimes,Good,3.1,,Angry,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,3.3,6.3,2,7.4,18.88,1,Low
+GD0074,20,Male,5,MMO,Final Fantasy XIV,Console,6.9,Poor,Sometimes,Excellent,1.55,9,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,7.7,4,6.8,85.67,8,Low
+GD0075,19,Male,3.5,Battle Royale,PUBG,Multi-platform,8,Good,Often,Average,1.87,4,Excited,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,6.7,2,11.4,39.95,3,Low
+GD0076,33,Male,5.2,Battle Royale,Apex Legends,Multi-platform,6.9,Fair,Often,Good,,3,Euphoric,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,2,9,6,6.9,73.02,8,Low
+GD0077,17,Male,9.4,Strategy,Civilization VI,PC,3.1,Poor,Often,Poor,1.01,,Depressed,Never,TRUE,FALSE,TRUE,TRUE,TRUE,1.3,4.7,6,1.8,364.97,1,Severe
+GD0078,16,Female,5.7,MOBA,League of Legends,Multi-platform,6.8,Poor,Sometimes,Average,2.48,,Restless,Sometimes,FALSE,FALSE,FALSE,TRUE,TRUE,1.5,8.4,4,8.5,136.3,2,Low
+GD0079,19,Other,8.3,MOBA,League of Legends,PC,5.5,Poor,Always,Average,1.17,8,Irritable,Never,TRUE,FALSE,FALSE,FALSE,FALSE,3,4,7,3.9,82.29,6,Moderate
+GD0080,16,Female,9,Mobile Games,Genshin Impact,Mobile,5.8,Poor,Never,Poor,2.32,,Restless,Often,TRUE,FALSE,TRUE,TRUE,TRUE,3.7,3.8,5,6,192.38,1,Severe
+GD0081,22,Female,7.2,Mobile Games,Genshin Impact,Multi-platform,3.6,Very Poor,Rarely,Poor,1.98,1,Irritable,Daily,TRUE,FALSE,FALSE,TRUE,FALSE,1.7,6.5,4,8,32.86,11,Moderate
+GD0082,17,Female,10.8,MMO,World of Warcraft,Multi-platform,5,Fair,Rarely,Poor,3.56,,Anxious,Often,TRUE,FALSE,TRUE,TRUE,TRUE,0.4,2.9,7,0.8,462.43,3,Severe
+GD0083,18,Male,9.3,RPG,Elden Ring,Multi-platform,5.5,Insomnia,Rarely,Poor,1.42,,Irritable,Sometimes,TRUE,FALSE,FALSE,FALSE,TRUE,0.9,6.3,6,1.5,404.23,2,High
+GD0084,20,Male,6.4,RPG,Elden Ring,Multi-platform,6.8,Fair,Rarely,Average,2.95,8,Normal,Never,FALSE,TRUE,FALSE,FALSE,TRUE,1.5,7.6,5,7.5,91.02,8,Moderate
+GD0085,26,Male,1.1,Mobile Games,PUBG Mobile,Multi-platform,7.6,Good,Sometimes,Good,,5,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,9.5,1,15.5,24.99,10,Low
+GD0086,22,Male,3,Battle Royale,Warzone,Mobile,8.8,Poor,Rarely,Good,2.4,5,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,7.1,2,8.5,34.92,11,Low
+GD0087,14,Male,7.5,MMO,Final Fantasy XIV,Multi-platform,4.8,Fair,Never,Poor,1.29,,Angry,Often,TRUE,TRUE,FALSE,TRUE,FALSE,0.7,7.9,5,6.6,123.8,3,High
+GD0088,17,Male,6.1,FPS,Call of Duty,PC,6.7,Fair,Often,Average,3.06,,Normal,Sometimes,FALSE,TRUE,FALSE,TRUE,TRUE,1.8,5.6,4,9.8,71.69,1,Moderate
+GD0089,18,Female,5.9,Strategy,StarCraft II,PC,6.5,Poor,Rarely,Average,2.46,,Normal,Never,FALSE,TRUE,FALSE,TRUE,FALSE,0.4,7.4,4,4.9,96.37,4,Moderate
+GD0090,22,Female,8.1,Mobile Games,Candy Crush,Mobile,3.1,Fair,Sometimes,Failing,3.21,6,Anxious,Sometimes,FALSE,TRUE,FALSE,TRUE,FALSE,0.3,6.8,5,5.1,67.48,1,Moderate
+GD0091,20,Male,10.3,MMO,World of Warcraft,PC,5.8,Poor,Rarely,Below Average,1.5,1,Angry,Sometimes,FALSE,FALSE,FALSE,FALSE,TRUE,4.5,3.6,8,1.6,499.27,4,Moderate
+GD0092,17,Female,8.9,Strategy,Civilization VI,PC,5.9,Fair,Never,Good,3.26,,Restless,Never,TRUE,FALSE,FALSE,TRUE,TRUE,5.7,5.3,5,2.7,254.42,5,High
+GD0093,26,Female,5.9,Mobile Games,Clash of Clans,Console,6.1,Good,Always,Good,,10,Excited,Sometimes,FALSE,TRUE,FALSE,FALSE,FALSE,0.5,5.2,5,8.4,83.67,14,Moderate
+GD0094,21,Female,4.9,Strategy,StarCraft II,Mobile,6.1,Fair,Always,Failing,3.53,5,Withdrawn,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,0.3,9.1,2,7.6,56.37,8,Low
+GD0095,22,Male,1.7,RPG,Skyrim,Console,7.3,Fair,Rarely,Average,1.41,7,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,10.8,1,14.1,24.1,5,Low
+GD0096,19,Male,7,Mobile Games,Candy Crush,Mobile,4.9,Poor,Often,Failing,3.92,4,Restless,Daily,TRUE,TRUE,FALSE,TRUE,TRUE,0.4,4.6,6,8.8,115.12,1,High
+GD0097,19,Male,3.2,MOBA,Mobile Legends,Mobile,7.3,Fair,Often,Average,2.05,9,Restless,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,9.1,2,14.4,15.77,1,Low
+GD0098,23,Male,10.4,RPG,Cyberpunk 2077,Mobile,5.6,Poor,Often,Poor,,10,Anxious,Rarely,FALSE,TRUE,TRUE,FALSE,FALSE,4.1,3.7,5,3.9,197.03,5,Severe
+GD0099,31,Male,5.1,MOBA,Mobile Legends,PC,6.5,Fair,Often,Average,,1,Angry,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.9,7.4,2,10.9,72.27,12,Low
+GD0100,27,Female,6.3,Mobile Games,Candy Crush,PC,6.3,Very Poor,Often,Average,,10,Depressed,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,1.3,8,2,10.2,21.12,2,Low
+GD0101,21,Male,5.4,FPS,Valorant,PC,6.6,Fair,Rarely,Failing,3.51,4,Normal,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,1.3,5.7,1,11.2,33.12,11,Low
+GD0102,19,Male,6.1,RPG,Elden Ring,Console,5.5,Good,Always,Average,3.22,7,Normal,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,0.6,8.1,5,7.9,110.19,3,Low
+GD0103,19,Female,7.1,MMO,Elder Scrolls Online,PC,5,Poor,Rarely,Good,2.66,1,Irritable,Sometimes,TRUE,TRUE,FALSE,FALSE,TRUE,0.1,5.3,4,6,112.86,8,High
+GD0104,19,Female,8,RPG,Elden Ring,PC,3.4,Very Poor,Never,Poor,2.53,6,Restless,Often,TRUE,TRUE,FALSE,TRUE,TRUE,0,6.6,4,2.6,26.81,3,High
+GD0105,21,Female,4.8,Battle Royale,Warzone,Mobile,6.6,Fair,Often,Below Average,1.08,5,Excited,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,3.6,6.1,2,10.9,48.19,1,Low
+GD0106,17,Female,9.8,Battle Royale,Warzone,PC,5,Very Poor,Always,Poor,3.66,,Anxious,Daily,TRUE,TRUE,FALSE,FALSE,FALSE,5.2,6.8,7,3.4,114.88,7,Severe
+GD0107,14,Female,2.9,FPS,Valorant,Mobile,7.9,Good,Never,Excellent,1.37,,Depressed,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,9.4,3,8.7,24.6,3,Low
+GD0108,19,Female,6.8,Battle Royale,PUBG,Multi-platform,3.7,Poor,Never,Failing,2.96,7,Angry,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,1.9,6.4,4,4.7,127,9,Moderate
+GD0109,19,Male,4.6,Battle Royale,Fortnite,Console,5.3,Fair,Sometimes,Excellent,2.21,4,Irritable,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,6.8,2,11.3,85.23,8,Low
+GD0110,26,Male,12,RPG,Cyberpunk 2077,PC,4.4,Poor,Never,Failing,,2,Irritable,Sometimes,TRUE,FALSE,TRUE,TRUE,TRUE,1.8,5.2,9,2.5,326.96,15,Severe
+GD0111,16,Female,5.4,Battle Royale,Fortnite,PC,6.7,Good,Rarely,Below Average,2.85,,Normal,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,0.4,7.9,3,11,147.65,3,Low
+GD0112,31,Female,5.5,MOBA,League of Legends,PC,6.8,Fair,Rarely,Good,,8,Normal,Never,FALSE,TRUE,FALSE,TRUE,TRUE,3.3,6.4,4,10.2,126.15,20,Moderate
+GD0113,16,Male,3.6,Strategy,Age of Empires,Multi-platform,6.9,Fair,Often,Below Average,3.82,,Irritable,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,9.9,1,9.6,40.4,5,Low
+GD0114,20,Female,9.2,Mobile Games,Genshin Impact,Multi-platform,5.8,Very Poor,Often,Below Average,2.98,6,Withdrawn,Daily,TRUE,FALSE,FALSE,TRUE,TRUE,0.3,7,6,3.6,177.45,5,High
+GD0115,23,Male,3.2,Mobile Games,Genshin Impact,Console,8.4,Fair,Rarely,Excellent,,9,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,10,3,11.7,49.01,5,Low
+GD0116,22,Female,8.4,MMO,World of Warcraft,Mobile,4.2,Very Poor,Always,Failing,2.57,3,Irritable,Never,FALSE,TRUE,TRUE,TRUE,FALSE,1.3,5.6,6,3.4,82.28,8,High
+GD0117,15,Male,13,Battle Royale,Apex Legends,Multi-platform,5.4,Very Poor,Sometimes,Below Average,2.6,,Depressed,Sometimes,FALSE,TRUE,TRUE,FALSE,TRUE,3.4,4,9,0.9,224.87,3,Severe
+GD0118,15,Male,5.7,RPG,Skyrim,Console,5.5,Poor,Never,Below Average,1.32,,Anxious,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,3,7.7,4,9.1,61.16,1,Moderate
+GD0119,16,Other,0.9,MMO,World of Warcraft,Mobile,8,Fair,Sometimes,Good,1.75,,Withdrawn,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,10.8,1,15.2,35.37,1,Low
+GD0120,19,Male,4.8,Mobile Games,Clash of Clans,Console,6.3,Poor,Sometimes,Average,2.86,6,Normal,Often,FALSE,FALSE,FALSE,TRUE,FALSE,3,6.9,4,9.9,29.59,1,Low
+GD0121,23,Male,11.8,Battle Royale,Fortnite,PC,3.8,Very Poor,Often,Poor,,6,Euphoric,Sometimes,TRUE,FALSE,FALSE,TRUE,TRUE,6.1,5.4,8,2.5,391.88,1,High
+GD0122,17,Male,6,FPS,Overwatch,Mobile,6.7,Poor,Sometimes,Excellent,3.71,,Angry,Often,FALSE,TRUE,FALSE,TRUE,TRUE,2.2,7.6,5,10.4,147.47,7,Moderate
+GD0123,18,Male,2.6,MOBA,Mobile Legends,Multi-platform,7.3,Fair,Often,Good,1.1,,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,7.8,2,12.6,37.3,1,Low
+GD0124,14,Female,7.7,RPG,Skyrim,Multi-platform,5.6,Poor,Never,Poor,1.96,,Restless,Never,TRUE,TRUE,FALSE,TRUE,TRUE,3.8,6.5,5,8.1,25.58,2,High
+GD0125,20,Female,10,MMO,Final Fantasy XIV,Console,5.5,Good,Always,Poor,2.19,4,Withdrawn,Sometimes,TRUE,FALSE,TRUE,FALSE,FALSE,4.4,3.6,6,2,358.72,5,Severe
+GD0126,19,Male,5,Mobile Games,Clash of Clans,Multi-platform,6.7,Poor,Always,Good,1.11,10,Normal,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,8.9,3,11.8,143.86,9,Low
+GD0127,22,Male,5.6,Battle Royale,Warzone,Console,5.1,Poor,Rarely,Below Average,1.69,4,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,4.4,8.3,5,5.7,44.63,1,Low
+GD0128,19,Female,4.3,MMO,World of Warcraft,Console,6.7,Very Poor,Sometimes,Average,3.31,8,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.5,9.6,2,13,48,6,Low
+GD0129,35,Male,3.1,MOBA,League of Legends,Console,7.6,Good,Always,Below Average,,9,Excited,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1.8,7.8,3,8.7,27.92,15,Low
+GD0130,18,Female,3.6,Mobile Games,Clash of Clans,Console,6.3,Fair,Never,Below Average,1.74,,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,6,2,8.7,13.53,3,Low
+GD0131,20,Female,6.9,RPG,Cyberpunk 2077,Multi-platform,4.9,Good,Often,Good,3.11,10,Anxious,Daily,FALSE,FALSE,FALSE,TRUE,TRUE,1,6.9,4,6.5,22.1,10,Low
+GD0132,16,Male,5.2,Mobile Games,Clash of Clans,PC,5.7,Fair,Sometimes,Average,1.03,,Anxious,Never,FALSE,FALSE,FALSE,TRUE,FALSE,0.4,9.1,2,6.7,20.36,4,Low
+GD0133,13,Male,4,Battle Royale,PUBG,Console,5.1,Poor,Always,Average,1.42,,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,6.4,2,12.1,27.46,1,Low
+GD0134,26,Male,8.3,RPG,Elden Ring,Multi-platform,5.4,Poor,Often,Average,,4,Withdrawn,Never,FALSE,TRUE,TRUE,TRUE,FALSE,4.4,7.6,5,3.5,49.13,1,High
+GD0135,16,Female,3.6,Strategy,Civilization VI,Mobile,5.5,Very Poor,Always,Good,4,,Euphoric,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,9.8,3,10.2,20.78,4,Low
+GD0136,24,Male,7.9,MMO,Final Fantasy XIV,Console,4.6,Good,Often,Average,,2,Withdrawn,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,0.9,5.3,5,5,30.7,11,High
+GD0137,19,Male,8,RPG,Cyberpunk 2077,Console,3.4,Poor,Often,Below Average,2.1,4,Restless,Often,TRUE,TRUE,TRUE,TRUE,FALSE,1.4,4.1,7,6.4,104.41,9,Severe
+GD0138,19,Male,9.3,Mobile Games,Clash of Clans,Multi-platform,4.8,Very Poor,Always,Below Average,3.59,2,Euphoric,Sometimes,TRUE,FALSE,TRUE,TRUE,TRUE,2.7,4,7,5.7,113.26,2,Severe
+GD0139,20,Male,10.2,RPG,Elden Ring,Mobile,5.1,Poor,Never,Poor,3.47,7,Irritable,Daily,FALSE,FALSE,FALSE,FALSE,TRUE,1.8,3,7,4.5,314.14,6,Moderate
+GD0140,24,Male,7.2,MOBA,Dota 2,Console,4.6,Insomnia,Sometimes,Poor,,1,Restless,Never,TRUE,TRUE,FALSE,TRUE,TRUE,3.4,7.5,5,6.7,83.77,5,High
+GD0141,15,Male,7,MOBA,League of Legends,PC,4.7,Fair,Never,Average,1.91,,Anxious,Never,TRUE,FALSE,FALSE,TRUE,TRUE,3.2,6.3,4,8.9,80.95,4,Moderate
+GD0142,21,Male,8.2,Mobile Games,Clash of Clans,Multi-platform,3.7,Poor,Often,Poor,1.78,8,Angry,Often,TRUE,FALSE,FALSE,TRUE,TRUE,0.8,4,4,5.5,52.5,1,Moderate
+GD0143,22,Male,4.4,FPS,CS:GO,Mobile,5.2,Poor,Often,Good,1.85,7,Restless,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.4,9.3,3,8,21.43,5,Low
+GD0144,20,Male,5.8,MOBA,League of Legends,Multi-platform,6,Fair,Sometimes,Good,1.08,5,Normal,Daily,FALSE,TRUE,FALSE,FALSE,TRUE,2.6,6,5,6.6,111.06,10,Moderate
+GD0145,21,Male,9.7,Battle Royale,PUBG,Mobile,4.5,Insomnia,Never,Below Average,3.37,8,Euphoric,Sometimes,TRUE,FALSE,FALSE,FALSE,FALSE,0.5,3.7,8,2.5,276.24,7,High
+GD0146,17,Other,3.2,MOBA,League of Legends,Mobile,7.2,Fair,Never,Average,2.58,,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1.5,7.6,1,9.2,39.13,2,Low
+GD0147,18,Male,8.9,Strategy,Civilization VI,Console,3.5,Good,Always,Good,1.34,,Angry,Never,TRUE,FALSE,FALSE,TRUE,TRUE,2.7,4.9,5,5.1,342.1,2,High
+GD0148,30,Female,6.6,MMO,Final Fantasy XIV,PC,5.2,Very Poor,Rarely,Poor,,7,Excited,Never,TRUE,FALSE,FALSE,TRUE,TRUE,1.3,6.5,5,6.8,11.24,15,Moderate
+GD0149,18,Male,3.9,RPG,Cyberpunk 2077,Multi-platform,6.5,Poor,Never,Below Average,2.73,,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,9.4,3,10.9,23.79,6,Low
+GD0150,19,Male,10.4,Strategy,StarCraft II,Mobile,5.1,Very Poor,Often,Failing,1.76,3,Withdrawn,Sometimes,TRUE,TRUE,FALSE,FALSE,TRUE,5,5.6,8,5.9,412.09,5,Severe
+GD0151,19,Male,5.3,MOBA,League of Legends,Multi-platform,6.4,Poor,Rarely,Average,1.43,8,Irritable,Never,FALSE,FALSE,FALSE,TRUE,FALSE,2.4,7.9,4,9.6,39.82,1,Low
+GD0152,16,Male,4.8,MOBA,League of Legends,Console,5.3,Fair,Never,Excellent,1.61,,Depressed,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,0.9,7.5,4,9.4,69.97,2,Low
+GD0153,16,Female,6.4,MOBA,Mobile Legends,PC,5.4,Fair,Rarely,Below Average,3.34,,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,8.3,3,8,34.14,6,Low
+GD0154,17,Male,10.6,RPG,Elden Ring,Mobile,4.1,Insomnia,Often,Poor,1.06,,Angry,Often,FALSE,TRUE,TRUE,FALSE,TRUE,1.8,6.2,8,3,247.77,1,Severe
+GD0155,17,Male,6.7,FPS,Call of Duty,Mobile,5.3,Insomnia,Often,Average,1.21,,Restless,Never,FALSE,FALSE,FALSE,TRUE,TRUE,1.4,8.1,4,8.6,34.13,1,Low
+GD0156,20,Male,6.9,Battle Royale,Fortnite,Console,4.7,Insomnia,Always,Below Average,3.29,2,Restless,Sometimes,TRUE,FALSE,FALSE,FALSE,FALSE,1.1,8,4,6.4,59.03,10,Moderate
+GD0157,16,Female,2.2,FPS,Call of Duty,Multi-platform,7.7,Fair,Sometimes,Excellent,1.45,,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,8.6,1,11.1,31.73,6,Low
+GD0158,22,Male,9,MOBA,Mobile Legends,Console,5.3,Poor,Sometimes,Poor,1.11,2,Depressed,Never,TRUE,FALSE,FALSE,FALSE,TRUE,3.3,7.2,5,1.6,168.77,12,High
+GD0159,25,Other,4.7,RPG,Cyberpunk 2077,Multi-platform,7,Good,Never,Average,,1,Irritable,Never,FALSE,FALSE,FALSE,TRUE,FALSE,0.6,7.4,4,9.1,110.14,9,Low
+GD0160,18,Male,10.4,MOBA,Mobile Legends,PC,4.7,Poor,Never,Poor,3.55,,Anxious,Daily,TRUE,TRUE,FALSE,TRUE,TRUE,1,6.6,6,5.7,326.87,5,Severe
+GD0161,19,Male,12.2,MOBA,Dota 2,Mobile,5.9,Fair,Often,Below Average,3.72,10,Depressed,Sometimes,TRUE,TRUE,FALSE,FALSE,TRUE,2.1,4.7,7,0.5,473.21,5,Severe
+GD0162,27,Male,4.3,Strategy,StarCraft II,PC,5.3,Very Poor,Rarely,Good,,5,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,2.8,7.9,2,8,44.35,7,Low
+GD0163,22,Female,6.3,MOBA,Mobile Legends,Console,5.5,Fair,Sometimes,Below Average,3.98,4,Restless,Never,FALSE,FALSE,FALSE,TRUE,TRUE,0.2,9,2,9.7,53.06,7,Low
+GD0164,18,Male,7.7,Strategy,Civilization VI,Multi-platform,5.6,Poor,Sometimes,Below Average,3.22,,Anxious,Daily,FALSE,TRUE,TRUE,TRUE,TRUE,0.3,4.8,7,5.6,110.52,5,High
+GD0165,21,Female,8.4,RPG,Elden Ring,Console,5.7,Poor,Often,Failing,3.14,9,Anxious,Rarely,TRUE,TRUE,FALSE,TRUE,FALSE,0.6,4.8,5,6.3,128.87,2,High
+GD0166,18,Male,7.2,Strategy,Civilization VI,PC,3.9,Poor,Often,Below Average,3.97,,Depressed,Never,TRUE,FALSE,FALSE,TRUE,TRUE,0.4,4.6,6,5.2,130.82,7,Moderate
+GD0167,21,Male,5.1,RPG,Skyrim,Multi-platform,5.8,Fair,Never,Good,2.72,10,Irritable,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,7.3,3,11.3,20.68,5,Low
+GD0168,25,Male,5.8,MOBA,Dota 2,Mobile,5.3,Fair,Rarely,Below Average,,3,Excited,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,0.5,6.6,5,9.2,55.18,11,Moderate
+GD0169,21,Male,7.6,FPS,Overwatch,Mobile,5.6,Very Poor,Often,Poor,1.5,9,Euphoric,Rarely,TRUE,FALSE,TRUE,TRUE,TRUE,0.7,4.7,6,4.6,38.69,6,High
+GD0170,23,Male,2.6,FPS,Call of Duty,Mobile,8.3,Poor,Always,Good,,4,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.8,1,14,6.45,3,Low
+GD0171,21,Male,1.3,Battle Royale,Warzone,PC,8.4,Fair,Rarely,Good,1.44,5,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,9.6,1,12.6,15.07,8,Low
+GD0172,24,Male,6.2,RPG,Cyberpunk 2077,Multi-platform,5.9,Fair,Often,Average,,10,Anxious,Rarely,FALSE,TRUE,FALSE,FALSE,FALSE,0.8,6.5,6,4.9,135.88,14,Moderate
+GD0173,21,Male,9.1,RPG,Elden Ring,PC,3.2,Very Poor,Never,Average,2.92,1,Irritable,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,1.4,4.9,7,3.8,396.01,1,Severe
+GD0174,22,Male,10.1,MOBA,Dota 2,Multi-platform,3.4,Poor,Sometimes,Below Average,1.1,2,Angry,Sometimes,TRUE,TRUE,FALSE,TRUE,FALSE,2.8,4.2,8,2,358.37,3,Severe
+GD0175,25,Male,7.9,FPS,Valorant,Multi-platform,5.1,Fair,Sometimes,Average,,6,Angry,Rarely,TRUE,FALSE,FALSE,TRUE,FALSE,0.5,7.4,5,3.3,53.96,7,Moderate
+GD0176,19,Female,2.9,Strategy,Civilization VI,Multi-platform,8,Good,Always,Excellent,3.29,10,Angry,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0,8.8,1,9.7,35.81,9,Low
+GD0177,19,Male,4.6,Strategy,StarCraft II,PC,5.9,Fair,Rarely,Below Average,2.1,6,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1,8.5,3,9,10.06,1,Low
+GD0178,21,Male,5.7,MMO,Final Fantasy XIV,Multi-platform,5.7,Good,Always,Average,3.84,4,Angry,Never,FALSE,TRUE,FALSE,FALSE,TRUE,2.4,7.3,3,9.4,123.33,8,Moderate
+GD0179,22,Female,8.2,MOBA,League of Legends,Multi-platform,4.2,Poor,Rarely,Poor,2.27,6,Withdrawn,Rarely,FALSE,TRUE,FALSE,TRUE,TRUE,1.9,4.2,5,7.8,77.94,5,Moderate
+GD0180,19,Female,3.1,MOBA,League of Legends,Mobile,7.2,Good,Sometimes,Excellent,3.51,1,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.2,9.1,1,9.7,15.06,1,Low
+GD0181,22,Female,7.3,Strategy,Age of Empires,Mobile,3,Poor,Never,Excellent,2.15,5,Angry,Sometimes,TRUE,FALSE,FALSE,TRUE,TRUE,0.7,7.9,4,8.8,31.57,12,Moderate
+GD0182,17,Female,10.9,MMO,Elder Scrolls Online,Mobile,3.8,Poor,Often,Below Average,3.21,,Irritable,Daily,TRUE,TRUE,TRUE,TRUE,TRUE,3.5,3.7,6,1.1,232.94,2,Severe
+GD0183,28,Male,11,RPG,Skyrim,Multi-platform,3.3,Very Poor,Sometimes,Average,,7,Anxious,Daily,TRUE,TRUE,TRUE,TRUE,FALSE,2.4,5.5,5,0.3,207.35,4,Severe
+GD0184,19,Male,11,Mobile Games,PUBG Mobile,PC,3.7,Fair,Often,Poor,3.52,8,Irritable,Never,TRUE,FALSE,FALSE,FALSE,FALSE,8,6.3,8,0.4,484.09,8,High
+GD0185,24,Male,10.5,MMO,Final Fantasy XIV,Multi-platform,4.5,Very Poor,Often,Poor,,4,Anxious,Often,TRUE,TRUE,FALSE,FALSE,TRUE,3.1,3.3,6,3.6,240.74,10,Severe
+GD0186,19,Female,7,Strategy,Age of Empires,Multi-platform,4.1,Very Poor,Rarely,Below Average,1.42,4,Restless,Sometimes,TRUE,FALSE,FALSE,TRUE,FALSE,0,8.4,4,5.4,45.66,8,Moderate
+GD0187,16,Female,2,RPG,Elden Ring,Mobile,7.6,Fair,Rarely,Excellent,1.23,,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9.9,3,12.7,23.53,5,Low
+GD0188,24,Male,11.2,MMO,Final Fantasy XIV,Mobile,4,Very Poor,Never,Poor,,10,Angry,Daily,TRUE,TRUE,TRUE,TRUE,FALSE,3.5,5,8,0.7,246.83,8,Severe
+GD0189,21,Male,4.4,FPS,Call of Duty,Multi-platform,6.6,Fair,Rarely,Below Average,3.23,9,Angry,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.7,9,3,8.8,45.31,8,Low
+GD0190,17,Male,6.3,Mobile Games,PUBG Mobile,Mobile,5,Poor,Rarely,Average,3.5,,Withdrawn,Never,FALSE,FALSE,FALSE,TRUE,TRUE,0.3,7.6,3,8.2,41.6,5,Low
+GD0191,18,Male,4.2,FPS,Valorant,Mobile,6.1,Poor,Never,Average,1.64,,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,7.2,1,9.5,6.99,7,Low
+GD0192,20,Male,3.9,MMO,Elder Scrolls Online,Console,6.3,Good,Never,Good,3.5,9,Angry,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0,7.9,2,9,36.21,2,Low
+GD0193,18,Female,1.5,Strategy,StarCraft II,Mobile,7,Good,Never,Average,1.24,,Irritable,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,11.5,1,13.6,32,7,Low
+GD0194,24,Male,8.8,Strategy,Civilization VI,Mobile,4.1,Very Poor,Sometimes,Good,,6,Irritable,Never,TRUE,TRUE,TRUE,TRUE,TRUE,0.9,4.4,7,2.6,67.73,11,Severe
+GD0195,21,Female,3.7,Battle Royale,Apex Legends,Multi-platform,5.8,Poor,Never,Poor,2.84,8,Angry,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8,3,7.4,24.63,10,Low
+GD0196,19,Male,5.2,MOBA,Mobile Legends,Multi-platform,6.5,Poor,Never,Good,1.85,8,Angry,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,1.8,8.8,1,6.2,89.91,2,Low
+GD0197,20,Male,6.6,FPS,Overwatch,Mobile,5.1,Very Poor,Often,Failing,1.77,5,Irritable,Never,TRUE,TRUE,FALSE,TRUE,TRUE,1.6,7.4,6,5.5,56.6,5,High
+GD0198,24,Female,6.2,Strategy,StarCraft II,PC,5.9,Fair,Always,Average,,4,Anxious,Rarely,FALSE,FALSE,FALSE,FALSE,TRUE,0.7,7.8,2,7.3,129.73,12,Low
+GD0199,18,Male,3.6,MOBA,Dota 2,Console,6.1,Poor,Always,Below Average,2.02,,Restless,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,7.1,3,10.1,8.29,1,Low
+GD0200,21,Female,6,MOBA,Mobile Legends,Mobile,6.7,Fair,Always,Excellent,2.41,3,Irritable,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,6.1,3,10.3,108.18,3,Low
+GD0201,27,Male,4.3,Battle Royale,Warzone,Multi-platform,5.5,Fair,Never,Below Average,,2,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.2,8.8,3,12.6,4.81,2,Low
+GD0202,16,Male,8.7,RPG,Elden Ring,Console,3.6,Poor,Sometimes,Below Average,1.3,,Depressed,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,0.9,6.9,7,6.4,178.36,6,High
+GD0203,21,Male,12,Mobile Games,Genshin Impact,Mobile,3.8,Very Poor,Sometimes,Average,1.31,5,Depressed,Rarely,FALSE,FALSE,FALSE,TRUE,TRUE,0.9,2.8,9,1.1,389.7,2,Moderate
+GD0204,22,Male,5.4,MMO,World of Warcraft,Mobile,5.5,Good,Often,Below Average,1.07,1,Excited,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,6.4,3,10.9,39.77,3,Low
+GD0205,19,Female,4,Strategy,StarCraft II,PC,6.9,Fair,Often,Average,1.85,1,Angry,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,6.6,2,8.2,46.13,4,Low
+GD0206,14,Female,4.7,MOBA,Dota 2,Mobile,5.5,Poor,Sometimes,Good,3.44,,Withdrawn,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.1,7.3,3,8.3,87.51,4,Low
+GD0207,21,Male,2.7,MMO,Elder Scrolls Online,PC,8.2,Good,Often,Good,3.69,3,Angry,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,6.8,1,12,12.31,11,Low
+GD0208,20,Male,7.2,Strategy,Civilization VI,Mobile,4.3,Very Poor,Always,Failing,2.58,8,Irritable,Sometimes,TRUE,TRUE,FALSE,FALSE,TRUE,0.6,8,5,3.6,123.4,1,High
+GD0209,27,Male,3.9,Strategy,StarCraft II,Multi-platform,6.9,Poor,Always,Below Average,,6,Excited,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,6.1,1,11.2,18.05,7,Low
+GD0210,24,Other,12.9,Mobile Games,Clash of Clans,Console,5.5,Fair,Rarely,Failing,,10,Irritable,Daily,TRUE,FALSE,FALSE,TRUE,FALSE,2.6,4.9,7,1.4,189.43,5,High
+GD0211,21,Male,5.1,MOBA,Dota 2,PC,6.7,Fair,Always,Good,1.28,1,Irritable,Never,FALSE,FALSE,FALSE,TRUE,FALSE,1.4,9.2,4,7.2,47.43,7,Low
+GD0212,21,Male,8.8,MMO,Elder Scrolls Online,Multi-platform,5.6,Poor,Rarely,Below Average,3.2,10,Angry,Never,FALSE,TRUE,TRUE,TRUE,TRUE,3.6,5.9,5,5.7,462.75,4,Severe
+GD0213,19,Male,5.2,Strategy,StarCraft II,Mobile,6.3,Good,Rarely,Good,3.7,2,Restless,Often,FALSE,FALSE,FALSE,TRUE,FALSE,2,7.9,2,8.5,60.25,1,Low
+GD0214,20,Male,6.2,Mobile Games,PUBG Mobile,Console,5.3,Fair,Never,Good,2.19,3,Angry,Never,FALSE,FALSE,FALSE,TRUE,TRUE,0.1,6.7,3,10.6,109.33,1,Low
+GD0215,19,Female,4.3,MMO,Final Fantasy XIV,Mobile,5.3,Fair,Sometimes,Average,3.09,3,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.3,6.3,3,8.1,12.63,5,Low
+GD0216,19,Male,9.3,Mobile Games,Genshin Impact,Multi-platform,5.2,Very Poor,Sometimes,Poor,2.92,8,Restless,Rarely,FALSE,FALSE,TRUE,TRUE,TRUE,0.6,5.9,5,2.7,371.68,2,High
+GD0217,20,Male,11.3,Strategy,StarCraft II,Mobile,5.9,Fair,Rarely,Poor,2.86,2,Anxious,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,4.4,2.6,6,3.7,485.6,3,High
+GD0218,22,Male,11,FPS,Overwatch,Mobile,4.3,Very Poor,Rarely,Poor,3.23,4,Anxious,Often,TRUE,FALSE,TRUE,FALSE,TRUE,3.6,3.5,10,0,96.98,9,Severe
+GD0219,17,Other,7.1,Mobile Games,PUBG Mobile,Mobile,5.4,Fair,Sometimes,Poor,2.41,,Anxious,Rarely,FALSE,FALSE,FALSE,TRUE,TRUE,1.3,4.8,3,5.3,104.49,5,Low
+GD0220,17,Male,4.6,RPG,Skyrim,PC,5.7,Fair,Always,Average,3.24,,Normal,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.4,7.2,3,9.1,17.42,2,Low
+GD0221,20,Male,3.2,MOBA,Dota 2,Multi-platform,7.2,Good,Often,Good,3.65,9,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1.4,9.4,3,12.2,17.98,2,Low
+GD0222,16,Male,5.1,MMO,Final Fantasy XIV,Multi-platform,6.6,Good,Sometimes,Average,1.35,,Restless,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,2.6,8,3,7.2,130.26,1,Low
+GD0223,17,Male,2.7,MOBA,Dota 2,Console,8.6,Good,Rarely,Excellent,1.44,,Depressed,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,9.1,1,11.6,43.38,4,Low
+GD0224,20,Female,2.7,Battle Royale,Warzone,PC,7.1,Fair,Rarely,Good,3.38,2,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,6.6,2,13.9,37.91,7,Low
+GD0225,18,Male,4.1,Strategy,StarCraft II,Multi-platform,5.8,Fair,Never,Excellent,3.01,,Anxious,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,8.9,3,9.9,34.75,1,Low
+GD0226,20,Female,0.5,Strategy,Age of Empires,Mobile,8.7,Good,Never,Good,3.88,3,Irritable,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,10.4,1,15,22.38,10,Low
+GD0227,19,Male,7.1,MMO,Final Fantasy XIV,Console,4.3,Very Poor,Always,Below Average,2.45,4,Euphoric,Often,FALSE,TRUE,FALSE,FALSE,TRUE,0.1,8.5,5,3.7,79,5,Moderate
+GD0228,19,Female,7.8,MOBA,League of Legends,Mobile,4.2,Fair,Sometimes,Poor,2.89,6,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,4.7,4,8.3,135.38,6,Low
+GD0229,20,Female,3.5,MOBA,Mobile Legends,Console,5,Poor,Never,Average,3.22,3,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1,10,2,8.5,48.25,10,Low
+GD0230,19,Male,8.7,Battle Royale,Fortnite,Console,3.3,Poor,Rarely,Below Average,3.47,2,Normal,Rarely,TRUE,FALSE,FALSE,FALSE,FALSE,1.6,6.4,5,3.2,362.26,6,High
+GD0231,19,Male,8.2,Battle Royale,PUBG,Multi-platform,5.9,Poor,Often,Poor,2.47,7,Depressed,Sometimes,TRUE,FALSE,TRUE,FALSE,TRUE,0.9,5.4,5,4,18.61,6,High
+GD0232,19,Female,8.7,RPG,Cyberpunk 2077,PC,4.2,Fair,Always,Poor,1.97,10,Anxious,Daily,FALSE,TRUE,FALSE,FALSE,FALSE,5.5,4.8,6,7.2,428.62,4,High
+GD0233,27,Male,6,MOBA,Dota 2,PC,5.7,Good,Often,Below Average,,3,Depressed,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,1.2,5.3,5,5,74.07,8,Low
+GD0234,18,Female,5.9,FPS,Overwatch,Mobile,5.2,Fair,Always,Average,2.37,,Euphoric,Often,FALSE,TRUE,FALSE,TRUE,TRUE,3.1,6.2,3,6.1,25.16,6,Moderate
+GD0235,23,Male,5.2,Mobile Games,Clash of Clans,Mobile,5.9,Fair,Sometimes,Excellent,,2,Excited,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,8.4,2,9.6,103.9,2,Low
+GD0236,21,Male,5.5,MMO,Final Fantasy XIV,PC,5.3,Good,Rarely,Excellent,2.35,10,Restless,Often,FALSE,TRUE,FALSE,FALSE,FALSE,3.9,8.7,3,5.3,121.44,11,Moderate
+GD0237,17,Male,7.5,MOBA,League of Legends,Mobile,3.4,Very Poor,Rarely,Below Average,2.62,,Anxious,Never,FALSE,FALSE,TRUE,TRUE,FALSE,0.2,7.7,5,4.5,145.06,4,Moderate
+GD0238,26,Female,8.8,MMO,Elder Scrolls Online,PC,4.9,Poor,Often,Average,,9,Euphoric,Rarely,TRUE,TRUE,TRUE,FALSE,TRUE,3.5,5.9,6,1.6,430.82,14,Severe
+GD0239,20,Female,5.7,RPG,Elden Ring,Mobile,5.5,Fair,Sometimes,Average,2.25,3,Euphoric,Daily,FALSE,TRUE,FALSE,FALSE,TRUE,0.3,8.7,5,8.5,60.72,2,Moderate
+GD0240,22,Female,10.9,FPS,Call of Duty,PC,5.2,Very Poor,Never,Poor,3.74,9,Irritable,Never,TRUE,TRUE,FALSE,TRUE,TRUE,3,5.2,8,0,247.59,7,Severe
+GD0241,17,Male,2.3,FPS,Overwatch,Mobile,8.7,Good,Often,Good,1.39,,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,7,4,12.7,35.91,4,Low
+GD0242,24,Male,0.7,FPS,Valorant,Multi-platform,8.3,Good,Often,Average,,5,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,9.5,1,11,6.93,7,Low
+GD0243,20,Male,6.6,MMO,Elder Scrolls Online,Console,3.8,Very Poor,Often,Poor,3.02,3,Angry,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,0.1,8.1,3,7.5,50.22,9,High
+GD0244,19,Female,9.3,FPS,CS:GO,Multi-platform,3,Poor,Sometimes,Poor,3.51,5,Irritable,Daily,TRUE,FALSE,FALSE,TRUE,FALSE,2.3,6.1,5,4.6,195.86,3,High
+GD0245,33,Female,2.7,FPS,Overwatch,Mobile,8.7,Good,Rarely,Good,,6,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1,8.3,2,10.7,31.35,20,Low
+GD0246,14,Male,1,MMO,World of Warcraft,Multi-platform,7.2,Fair,Often,Below Average,2.33,,Restless,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,10.1,1,13.4,35.39,2,Low
+GD0247,20,Female,8.9,Strategy,Civilization VI,Mobile,4.3,Fair,Rarely,Poor,3.28,1,Angry,Rarely,TRUE,FALSE,TRUE,TRUE,TRUE,3.4,6.9,5,4.7,131.33,2,Severe
+GD0248,20,Male,8.2,FPS,CS:GO,Console,3.2,Poor,Never,Failing,2.33,8,Anxious,Rarely,FALSE,FALSE,TRUE,FALSE,TRUE,3.6,5.8,5,5.2,103.72,2,Moderate
+GD0249,18,Male,7.8,MMO,Final Fantasy XIV,Mobile,3.7,Very Poor,Sometimes,Poor,3.65,,Euphoric,Never,TRUE,TRUE,TRUE,FALSE,TRUE,1.4,5.8,6,6.3,89.41,6,Severe
+GD0250,25,Female,3.9,Battle Royale,PUBG,Console,6.3,Poor,Always,Average,,2,Irritable,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,8.2,2,12.4,17.57,9,Low
+GD0251,16,Male,4.6,Battle Royale,PUBG,Multi-platform,6,Very Poor,Sometimes,Below Average,3.2,,Restless,Often,FALSE,FALSE,FALSE,TRUE,FALSE,1.6,6.9,3,8.9,37.4,5,Low
+GD0252,20,Male,8.2,MOBA,Dota 2,PC,5,Poor,Often,Below Average,2.21,6,Restless,Sometimes,TRUE,FALSE,TRUE,FALSE,TRUE,3.1,6.6,6,6.4,66.44,4,High
+GD0253,18,Female,7.3,Mobile Games,Candy Crush,Mobile,4.7,Very Poor,Always,Excellent,2.27,,Irritable,Never,TRUE,TRUE,FALSE,TRUE,FALSE,2.8,6.4,5,5,81.74,6,High
+GD0254,23,Female,2,MOBA,Mobile Legends,Console,8.7,Fair,Sometimes,Excellent,,10,Excited,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,10.6,1,13.7,20.74,11,Low
+GD0255,19,Male,5.5,RPG,Cyberpunk 2077,Mobile,6.1,Fair,Rarely,Poor,1.05,1,Irritable,Daily,FALSE,TRUE,FALSE,FALSE,FALSE,2.8,7.7,3,9.7,149.11,7,Moderate
+GD0256,23,Male,4.4,Mobile Games,PUBG Mobile,PC,6.3,Fair,Often,Average,,1,Depressed,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,8.9,3,9.7,14.36,8,Low
+GD0257,20,Male,7.9,FPS,Overwatch,Console,4.7,Good,Often,Below Average,1.94,6,Withdrawn,Never,TRUE,TRUE,FALSE,FALSE,TRUE,3.9,5.6,5,8,89.96,6,High
+GD0258,27,Male,14.2,Strategy,StarCraft II,Multi-platform,3.4,Very Poor,Rarely,Failing,,7,Anxious,Rarely,FALSE,FALSE,FALSE,TRUE,TRUE,4.4,2.9,9,0,73.8,10,Moderate
+GD0259,15,Male,15.1,Strategy,Age of Empires,Multi-platform,5.7,Fair,Sometimes,Poor,3.72,,Restless,Never,FALSE,FALSE,FALSE,TRUE,TRUE,1.5,0.7,9,0,435.38,2,Moderate
+GD0260,13,Female,5.2,Mobile Games,PUBG Mobile,Multi-platform,5.5,Fair,Always,Average,3.1,,Normal,Never,FALSE,FALSE,FALSE,TRUE,FALSE,1.3,8.9,3,8.8,92.86,3,Low
+GD0261,19,Male,10.6,MOBA,League of Legends,Console,5.5,Good,Always,Failing,3.07,7,Anxious,Often,TRUE,TRUE,FALSE,FALSE,FALSE,2.2,2.5,5,0.3,435.3,1,Severe
+GD0262,26,Male,3.7,Mobile Games,PUBG Mobile,PC,5,Fair,Always,Good,,1,Restless,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1.8,6.2,3,7.4,18.82,1,Low
+GD0263,26,Female,8.2,Mobile Games,Clash of Clans,Multi-platform,4.1,Very Poor,Often,Average,,9,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,TRUE,0.2,7,5,8,134.24,14,Low
+GD0264,20,Male,10.3,MMO,Elder Scrolls Online,Mobile,3.2,Very Poor,Often,Below Average,1.53,9,Euphoric,Sometimes,FALSE,TRUE,FALSE,FALSE,TRUE,0.1,4.3,7,4.2,266.35,7,High
+GD0265,17,Male,9.3,RPG,Elden Ring,Console,4.8,Very Poor,Often,Average,1.6,,Anxious,Rarely,TRUE,FALSE,TRUE,TRUE,TRUE,3.2,6.6,8,4.1,366.44,4,Severe
+GD0266,16,Male,11.8,Mobile Games,PUBG Mobile,PC,3.3,Very Poor,Rarely,Poor,2.69,,Restless,Often,TRUE,TRUE,FALSE,TRUE,FALSE,2.7,4.8,10,1.1,270.57,5,Severe
+GD0267,13,Male,9.8,RPG,Cyberpunk 2077,Console,4.5,Poor,Sometimes,Below Average,2.05,,Restless,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,4.6,6.2,8,2.7,418.07,1,Severe
+GD0268,20,Female,7.5,Mobile Games,Candy Crush,Multi-platform,4.3,Very Poor,Rarely,Poor,1.41,2,Withdrawn,Daily,TRUE,TRUE,FALSE,TRUE,FALSE,5,7.5,4,3.6,83.3,7,High
+GD0269,32,Female,6.6,FPS,CS:GO,PC,3.7,Poor,Rarely,Average,,3,Irritable,Often,TRUE,TRUE,FALSE,TRUE,TRUE,0.9,5.2,6,9.4,77.47,6,High
+GD0270,20,Female,2.8,FPS,Valorant,Console,8,Good,Never,Below Average,1.18,4,Excited,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1.3,6.5,3,10,13.4,9,Low
+GD0271,25,Female,12.6,Battle Royale,Warzone,PC,4.8,Very Poor,Sometimes,Average,,2,Euphoric,Rarely,TRUE,TRUE,TRUE,TRUE,TRUE,0.5,4.5,7,0,438.13,3,Severe
+GD0272,30,Male,5,MOBA,Mobile Legends,Multi-platform,6.9,Fair,Rarely,Average,,9,Irritable,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1,7.1,4,10.5,106.3,12,Low
+GD0273,27,Female,5.4,FPS,CS:GO,Multi-platform,5.3,Good,Sometimes,Average,,7,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1,9.5,3,11.3,106.06,8,Low
+GD0274,17,Male,5.3,FPS,CS:GO,Mobile,6.5,Fair,Sometimes,Average,2.18,,Euphoric,Never,FALSE,FALSE,FALSE,TRUE,FALSE,2,6.1,1,6.5,122.21,3,Low
+GD0275,25,Female,9.4,RPG,Cyberpunk 2077,Mobile,4.8,Poor,Sometimes,Below Average,,9,Depressed,Rarely,FALSE,FALSE,FALSE,TRUE,TRUE,1.7,7.4,6,4.4,469.94,3,Moderate
+GD0276,24,Male,7.8,Mobile Games,Clash of Clans,Mobile,4.8,Poor,Always,Below Average,,10,Irritable,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,0.2,5.2,5,7.6,93.67,5,Low
+GD0277,22,Female,5.1,RPG,Skyrim,Console,6.7,Good,Rarely,Average,2.54,2,Angry,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.4,5.7,3,9.8,24.45,1,Low
+GD0278,19,Female,1.9,RPG,Cyberpunk 2077,Mobile,7.4,Good,Sometimes,Good,1.14,8,Angry,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,7.4,2,15.3,23.64,2,Low
+GD0279,15,Male,8.8,Mobile Games,Genshin Impact,PC,5.4,Fair,Always,Below Average,2.6,,Depressed,Often,TRUE,TRUE,FALSE,FALSE,TRUE,0.7,7,7,7.1,83.42,1,Severe
+GD0280,16,Male,1.8,RPG,Skyrim,Mobile,8.5,Fair,Always,Good,2.01,,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,10.1,1,11.8,35,6,Low
+GD0281,26,Female,2.9,Battle Royale,PUBG,PC,9,Fair,Always,Good,,6,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,9.7,3,14.3,33.83,14,Low
+GD0282,28,Male,3.5,Battle Royale,PUBG,Multi-platform,6.5,Fair,Always,Average,,10,Withdrawn,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,7.6,1,7.7,2.01,7,Low
+GD0283,16,Male,9.9,FPS,CS:GO,PC,3.7,Good,Often,Below Average,3.99,,Withdrawn,Never,FALSE,FALSE,TRUE,TRUE,FALSE,1.9,4.5,5,3.4,257,4,High
+GD0284,17,Male,6.3,FPS,Call of Duty,Console,5,Fair,Rarely,Below Average,3.66,,Angry,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,1.8,7.3,6,10.1,33.48,3,Moderate
+GD0285,19,Male,8,MOBA,League of Legends,Mobile,5.4,Fair,Sometimes,Poor,1.09,6,Withdrawn,Often,TRUE,FALSE,FALSE,TRUE,TRUE,1,7.1,4,2.9,18.98,8,Moderate
+GD0286,22,Male,3.8,Battle Royale,Warzone,Console,5.4,Good,Always,Average,1.69,5,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1,10,3,9.4,31.5,8,Low
+GD0287,20,Male,2.2,MMO,Elder Scrolls Online,Mobile,8.1,Good,Never,Good,1.15,5,Excited,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.2,8.8,2,12.5,0.65,8,Low
+GD0288,17,Male,3.6,FPS,Overwatch,PC,6.1,Very Poor,Rarely,Good,1.08,,Restless,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,6.4,3,10.2,15.92,5,Low
+GD0289,21,Male,3.7,FPS,CS:GO,PC,6.9,Fair,Often,Excellent,2.74,4,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,6.1,3,7.5,44.68,3,Low
+GD0290,21,Female,1.9,FPS,Valorant,Multi-platform,8.7,Good,Rarely,Good,3.9,3,Withdrawn,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9.7,1,14.5,16.75,7,Low
+GD0291,18,Male,6.7,FPS,Call of Duty,PC,3.6,Poor,Never,Poor,1.39,,Withdrawn,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,7.5,4,5.4,148.22,5,Low
+GD0292,19,Male,4.1,Battle Royale,PUBG,Multi-platform,5.3,Fair,Often,Below Average,2.36,5,Irritable,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.1,2,11.5,36.57,3,Low
+GD0293,20,Male,3.9,MOBA,League of Legends,Mobile,6.7,Good,Never,Below Average,3.88,8,Irritable,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,7,3,12.1,42.46,2,Low
+GD0294,34,Male,2.8,Strategy,StarCraft II,PC,7.1,Good,Sometimes,Excellent,,2,Anxious,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,9.9,2,13.5,4.35,16,Low
+GD0295,20,Male,8.4,MMO,World of Warcraft,Mobile,4.3,Fair,Sometimes,Below Average,2,4,Angry,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,0.9,4.1,5,3,18.07,1,High
+GD0296,19,Female,5.4,MOBA,Mobile Legends,Console,6.4,Fair,Rarely,Average,2.94,3,Irritable,Never,FALSE,FALSE,FALSE,TRUE,FALSE,0.2,6.7,3,11.1,144.36,7,Low
+GD0297,13,Male,6.2,MMO,Elder Scrolls Online,Console,5.7,Very Poor,Always,Average,2.61,,Irritable,Often,FALSE,FALSE,FALSE,TRUE,TRUE,1.1,6.6,4,10.4,75.94,3,Low
+GD0298,21,Male,8.6,MOBA,Dota 2,PC,3.2,Very Poor,Sometimes,Below Average,3.75,6,Restless,Daily,TRUE,TRUE,TRUE,TRUE,FALSE,2.8,6.5,8,4.7,394.83,6,Severe
+GD0299,20,Male,7.6,Battle Royale,Apex Legends,Mobile,5.2,Fair,Rarely,Poor,1.45,7,Depressed,Rarely,TRUE,FALSE,TRUE,TRUE,FALSE,2.1,5.7,7,3.7,49.2,7,High
+GD0300,24,Female,8.6,RPG,Cyberpunk 2077,PC,3.8,Poor,Never,Good,,7,Irritable,Daily,TRUE,TRUE,FALSE,TRUE,TRUE,1.7,5,7,6.9,142.09,12,Severe
+GD0301,22,Female,3.8,RPG,Cyberpunk 2077,Multi-platform,5.4,Poor,Never,Average,1.25,8,Irritable,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1.5,6.4,2,12.9,16.03,8,Low
+GD0302,17,Male,6.2,MMO,Final Fantasy XIV,PC,6.4,Good,Never,Average,3.16,,Anxious,Sometimes,FALSE,TRUE,FALSE,FALSE,TRUE,1.5,5.9,5,10.2,144.07,5,Moderate
+GD0303,18,Male,4.9,Strategy,Age of Empires,Mobile,6.3,Poor,Sometimes,Good,3.45,,Irritable,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.3,7.8,4,10.3,65.41,6,Low
+GD0304,20,Female,7,Strategy,StarCraft II,Console,3.7,Insomnia,Rarely,Poor,1.73,5,Anxious,Never,TRUE,TRUE,FALSE,TRUE,FALSE,0.5,6.2,5,4.9,99.51,8,High
+GD0305,19,Male,6.1,RPG,Elden Ring,Console,6.6,Fair,Sometimes,Below Average,1.15,1,Euphoric,Never,FALSE,TRUE,FALSE,TRUE,FALSE,0.1,8.9,3,5.9,96.25,4,Moderate
+GD0306,22,Male,6,Battle Royale,Warzone,PC,7,Poor,Sometimes,Good,3.24,5,Anxious,Never,FALSE,FALSE,FALSE,TRUE,TRUE,1.6,7,4,7,41.72,10,Low
+GD0307,19,Male,7.8,MMO,World of Warcraft,Multi-platform,3.5,Poor,Often,Good,3.5,10,Withdrawn,Rarely,TRUE,FALSE,TRUE,FALSE,FALSE,1.5,5.5,4,7.5,58.16,1,High
+GD0308,19,Male,8.2,RPG,Cyberpunk 2077,Mobile,4.4,Insomnia,Always,Average,3.66,6,Irritable,Never,TRUE,TRUE,TRUE,TRUE,TRUE,3.2,5.1,5,7.8,54.27,6,Severe
+GD0309,25,Female,6.6,Mobile Games,Candy Crush,Multi-platform,5.3,Poor,Often,Poor,,9,Restless,Rarely,TRUE,TRUE,FALSE,FALSE,TRUE,2.9,6.4,4,9.2,33.83,2,High
+GD0310,16,Male,1.9,Mobile Games,PUBG Mobile,Console,7.2,Fair,Always,Good,3.14,,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.2,1,12.6,17.48,3,Low
+GD0311,19,Female,4.8,MMO,World of Warcraft,PC,6.5,Very Poor,Never,Good,2.02,3,Euphoric,Never,FALSE,FALSE,FALSE,TRUE,FALSE,2,7.9,4,7,111.95,5,Low
+GD0312,19,Male,7.1,MOBA,Dota 2,PC,3.3,Fair,Rarely,Failing,3.78,4,Irritable,Rarely,TRUE,FALSE,FALSE,TRUE,FALSE,1.8,5.7,3,6.6,117.05,6,Moderate
+GD0313,19,Female,2.3,MMO,Final Fantasy XIV,Mobile,8.3,Very Poor,Rarely,Below Average,1.48,7,Irritable,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9.7,1,11.5,13.66,9,Low
+GD0314,30,Male,3.5,MMO,Elder Scrolls Online,PC,5.1,Fair,Sometimes,Average,,3,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,6.2,3,8.6,45.36,4,Low
+GD0315,19,Male,6.2,Strategy,Age of Empires,Mobile,6.4,Poor,Often,Below Average,1.77,1,Anxious,Rarely,FALSE,FALSE,FALSE,FALSE,TRUE,2.4,8.4,3,9.4,36.33,3,Low
+GD0316,15,Female,6.8,MOBA,Dota 2,PC,5.3,Good,Sometimes,Below Average,3.27,,Anxious,Never,FALSE,FALSE,FALSE,FALSE,TRUE,1.7,6.6,3,6.1,125.63,5,Low
+GD0317,18,Male,3.8,RPG,Elden Ring,PC,5.2,Fair,Always,Good,3.74,,Anxious,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,9.4,2,13,3.71,8,Low
+GD0318,21,Male,5.3,Mobile Games,Clash of Clans,Multi-platform,6.2,Very Poor,Rarely,Average,2.24,2,Restless,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,1.4,7.9,3,8.2,11.59,11,Low
+GD0319,23,Male,9.4,Battle Royale,Fortnite,PC,3.5,Fair,Often,Poor,,6,Normal,Rarely,FALSE,TRUE,TRUE,TRUE,FALSE,4.1,6.7,6,3.1,230.02,4,Severe
+GD0320,30,Male,8.3,MOBA,Dota 2,PC,3.4,Very Poor,Sometimes,Average,,1,Angry,Daily,FALSE,TRUE,FALSE,TRUE,FALSE,1.6,7,6,3.1,28.19,1,Moderate
+GD0321,13,Male,9.4,Mobile Games,Candy Crush,PC,5.3,Poor,Sometimes,Average,3.66,,Depressed,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,0.8,5.7,7,3.6,209.9,1,Severe
+GD0322,20,Female,5.2,FPS,Valorant,Multi-platform,5.3,Good,Often,Below Average,2.76,7,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.2,7.2,4,6.5,38.79,2,Low
+GD0323,16,Male,8.3,RPG,Elden Ring,Multi-platform,5.4,Poor,Never,Poor,1.8,,Euphoric,Never,TRUE,TRUE,TRUE,TRUE,TRUE,3.1,6.9,3,8.1,15.74,4,Severe
+GD0324,30,Male,4.4,Strategy,Civilization VI,Multi-platform,6.3,Good,Sometimes,Average,,2,Anxious,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.6,7.5,2,10.4,38.23,11,Low
+GD0325,20,Male,10.3,MMO,Final Fantasy XIV,Mobile,5,Poor,Never,Poor,1.12,4,Anxious,Rarely,TRUE,TRUE,FALSE,FALSE,TRUE,1.9,4.2,6,4.5,420.51,7,Severe
+GD0326,20,Male,9.8,RPG,Elden Ring,PC,3.6,Poor,Never,Below Average,3.74,4,Irritable,Rarely,TRUE,TRUE,FALSE,FALSE,FALSE,0.6,3.6,8,2.9,362.82,7,Severe
+GD0327,14,Female,12.2,Battle Royale,PUBG,Console,4,Good,Sometimes,Average,3.98,,Depressed,Often,TRUE,FALSE,FALSE,TRUE,TRUE,1.3,2.4,7,0,98.66,2,High
+GD0328,25,Male,0.5,Strategy,Civilization VI,Multi-platform,7.7,Fair,Always,Good,,1,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,8,1,14.1,34.47,3,Low
+GD0329,20,Female,5.5,FPS,Call of Duty,Multi-platform,6.3,Fair,Sometimes,Poor,3.78,8,Normal,Often,FALSE,FALSE,FALSE,TRUE,FALSE,2.5,7.3,3,6,88.16,1,Low
+GD0330,24,Male,6.8,Battle Royale,PUBG,Mobile,3.6,Insomnia,Always,Average,,3,Irritable,Sometimes,TRUE,TRUE,FALSE,FALSE,FALSE,2.1,4.9,6,6.6,99.36,6,High
+GD0331,27,Female,0.6,Strategy,Age of Empires,Console,7.1,Very Poor,Never,Below Average,,9,Euphoric,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,8,1,13.6,43.71,12,Low
+GD0332,20,Female,4.4,Mobile Games,PUBG Mobile,Mobile,6.2,Fair,Often,Below Average,1.76,3,Angry,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1,6.2,2,8.6,40.73,6,Low
+GD0333,15,Male,6.6,Battle Royale,Warzone,Console,5,Poor,Never,Failing,3.68,,Restless,Rarely,TRUE,TRUE,FALSE,TRUE,FALSE,0.4,7.4,5,6.2,31.87,2,High
+GD0334,26,Male,0.8,Mobile Games,Genshin Impact,Multi-platform,7.9,Good,Rarely,Average,,1,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,9.9,1,15.4,36.55,9,Low
+GD0335,18,Female,6.5,Strategy,Civilization VI,PC,5.3,Very Poor,Never,Below Average,1.71,,Anxious,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,0.7,7.8,5,9.1,143.92,4,Low
+GD0336,26,Male,10.4,RPG,Elden Ring,Mobile,4.2,Fair,Always,Poor,,2,Anxious,Never,FALSE,FALSE,TRUE,TRUE,FALSE,2.2,6.5,7,2.6,65.47,14,High
+GD0337,18,Male,3.2,Battle Royale,PUBG,Multi-platform,8.2,Good,Never,Average,2.45,,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,10.2,1,13.9,34.09,2,Low
+GD0338,23,Female,7,Strategy,StarCraft II,Mobile,3.3,Very Poor,Often,Poor,,4,Anxious,Never,FALSE,TRUE,FALSE,TRUE,TRUE,0,6.1,5,8.8,134.49,13,Moderate
+GD0339,19,Male,2.6,RPG,Skyrim,Console,8.7,Good,Often,Good,2.62,7,Euphoric,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,6.6,2,9.1,27.14,5,Low
+GD0340,32,Male,7.4,RPG,Elden Ring,Multi-platform,4.7,Poor,Never,Poor,,3,Withdrawn,Often,FALSE,TRUE,FALSE,TRUE,FALSE,1.8,7.3,5,4.1,110.37,7,Moderate
+GD0341,24,Male,4,Battle Royale,Apex Legends,Multi-platform,6.7,Poor,Rarely,Poor,,5,Irritable,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1.5,9.1,3,12.6,1.34,12,Low
+GD0342,33,Male,4.3,MMO,Elder Scrolls Online,Mobile,5.5,Fair,Often,Average,,10,Angry,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,6.1,3,9.6,2.87,5,Low
+GD0343,26,Male,10.7,Battle Royale,Fortnite,Multi-platform,5.6,Poor,Sometimes,Failing,,7,Restless,Sometimes,TRUE,FALSE,TRUE,FALSE,FALSE,5.6,4.3,7,0.6,129.73,5,Severe
+GD0344,19,Male,5.3,FPS,Call of Duty,Multi-platform,6.1,Good,Often,Poor,1.18,10,Restless,Never,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,6.3,5,6,116.49,6,Low
+GD0345,27,Female,0.6,RPG,Elden Ring,Mobile,9,Fair,Rarely,Excellent,,10,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,9.1,1,11.7,36.67,11,Low
+GD0346,25,Male,5.1,FPS,Valorant,Multi-platform,6,Very Poor,Sometimes,Below Average,,7,Depressed,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.7,9,3,11.5,76.51,10,Low
+GD0347,17,Male,4.2,Strategy,Civilization VI,Console,6.2,Poor,Sometimes,Average,3.36,,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,6.7,3,7.6,10.39,3,Low
+GD0348,17,Female,10.6,Strategy,Civilization VI,Console,3.6,Fair,Rarely,Poor,2.62,,Depressed,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,3.6,6,3.8,53.97,3,Moderate
+GD0349,23,Female,4.4,FPS,CS:GO,Multi-platform,7,Very Poor,Always,Below Average,,9,Irritable,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,9.6,3,9.6,22.6,12,Low
+GD0350,20,Male,5.8,Strategy,Age of Empires,PC,6.8,Fair,Rarely,Average,3.2,2,Anxious,Daily,FALSE,TRUE,FALSE,TRUE,FALSE,0.9,7.2,4,10.7,131.01,9,Moderate
+GD0351,30,Male,8.7,Battle Royale,Fortnite,Multi-platform,4.6,Fair,Sometimes,Below Average,,5,Euphoric,Never,TRUE,TRUE,TRUE,FALSE,TRUE,2.4,4.5,5,3.5,189.93,6,Severe
+GD0352,17,Male,4.7,Mobile Games,Candy Crush,PC,5.9,Fair,Often,Average,1.47,,Restless,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,2,8.8,3,10.5,21.16,2,Low
+GD0353,19,Male,2.1,FPS,Overwatch,Mobile,7.8,Good,Rarely,Below Average,2.47,9,Angry,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,8.8,1,10,14.14,1,Low
+GD0354,20,Female,6.3,MMO,Final Fantasy XIV,Console,6.6,Good,Rarely,Average,3.3,3,Euphoric,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,1.8,8.5,3,7.6,12.48,5,Moderate
+GD0355,15,Male,6.2,Battle Royale,Apex Legends,PC,6.6,Fair,Rarely,Good,1.34,,Normal,Often,FALSE,FALSE,FALSE,TRUE,FALSE,1.1,6.5,3,4.9,132.44,4,Low
+GD0356,19,Female,5,Battle Royale,PUBG,PC,5.4,Poor,Rarely,Average,2.59,9,Irritable,Often,FALSE,FALSE,FALSE,TRUE,FALSE,2,8.4,2,8.7,36.55,4,Low
+GD0357,19,Male,5.5,MOBA,Dota 2,Mobile,5.2,Poor,Rarely,Average,3.78,7,Irritable,Sometimes,FALSE,TRUE,FALSE,TRUE,TRUE,1.6,7.4,4,6.2,100.99,4,Moderate
+GD0358,21,Male,1.7,RPG,Cyberpunk 2077,PC,7.9,Good,Often,Excellent,1.28,4,Depressed,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,9.3,1,10.9,11.94,1,Low
+GD0359,23,Female,4.6,MMO,World of Warcraft,Multi-platform,5.9,Good,Never,Failing,,2,Depressed,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.6,7.2,5,11.8,90.9,7,Low
+GD0360,18,Male,6.5,RPG,Cyberpunk 2077,Console,3.2,Very Poor,Rarely,Failing,2.7,,Angry,Rarely,TRUE,FALSE,FALSE,FALSE,FALSE,0.9,7.6,4,4.3,90.46,3,Moderate
+GD0361,19,Male,6.6,MOBA,Dota 2,PC,5.8,Very Poor,Sometimes,Average,3.91,3,Depressed,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,0.2,8.3,4,5.3,111.93,7,Moderate
+GD0362,22,Male,6.6,MOBA,League of Legends,Mobile,3.9,Poor,Never,Poor,1.74,9,Irritable,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,3.4,7.6,5,6.2,22.27,10,Moderate
+GD0363,26,Male,8.7,MMO,World of Warcraft,Console,3.1,Poor,Often,Poor,,3,Irritable,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,0.9,7.2,7,1.6,423.75,12,Severe
+GD0364,20,Male,5.8,Battle Royale,Warzone,Console,6.1,Poor,Rarely,Average,3.99,9,Restless,Often,FALSE,FALSE,FALSE,TRUE,TRUE,2.1,8.2,4,7.4,50.13,5,Low
+GD0365,17,Male,9.9,Strategy,StarCraft II,Multi-platform,4.7,Poor,Never,Poor,1.4,,Euphoric,Sometimes,TRUE,FALSE,FALSE,TRUE,TRUE,0.7,6.4,6,3.2,162.18,4,High
+GD0366,15,Male,10.4,Strategy,Civilization VI,Multi-platform,3.1,Very Poor,Often,Below Average,3.03,,Restless,Daily,TRUE,FALSE,FALSE,TRUE,TRUE,2.5,4.9,7,3,157.76,2,High
+GD0367,22,Female,3.9,FPS,CS:GO,Mobile,6.7,Poor,Sometimes,Average,2.05,1,Anxious,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,7.6,1,7.5,7.34,1,Low
+GD0368,14,Female,9.4,MOBA,Dota 2,Multi-platform,4,Poor,Often,Failing,3.48,,Angry,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,3.3,6.2,5,4.8,497.21,2,Severe
+GD0369,19,Male,4.7,RPG,Skyrim,PC,6.3,Good,Never,Average,2.5,3,Restless,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.1,8.1,2,8.7,123.43,5,Low
+GD0370,21,Female,8.4,Battle Royale,PUBG,Mobile,4.8,Poor,Rarely,Excellent,3.34,9,Depressed,Often,TRUE,FALSE,FALSE,TRUE,FALSE,3.1,7.5,4,6.3,21.6,2,Moderate
+GD0371,20,Female,2.1,Strategy,StarCraft II,PC,8.5,Good,Never,Good,1.85,8,Excited,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,9.3,1,13,5.6,2,Low
+GD0372,18,Female,4.1,Battle Royale,PUBG,PC,6.6,Poor,Often,Poor,3.98,,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1,9.6,3,12.5,9.84,3,Low
+GD0373,21,Male,10.9,MOBA,Mobile Legends,Multi-platform,4.2,Poor,Rarely,Poor,3.19,4,Normal,Sometimes,TRUE,FALSE,TRUE,TRUE,TRUE,4.3,5.2,7,1.6,259.23,1,Severe
+GD0374,21,Female,6.8,Battle Royale,Fortnite,Console,3.6,Fair,Sometimes,Poor,1.49,8,Euphoric,Rarely,TRUE,TRUE,FALSE,TRUE,FALSE,0.9,4.7,5,5.7,113.4,1,High
+GD0375,15,Male,2.9,Strategy,StarCraft II,Mobile,8.5,Fair,Never,Good,3.68,,Excited,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,9,2,13.3,34.24,5,Low
+GD0376,23,Male,7.4,Mobile Games,Candy Crush,Mobile,4.3,Insomnia,Often,Below Average,,8,Anxious,Rarely,TRUE,FALSE,FALSE,FALSE,TRUE,3.7,5.9,2,6.5,65.5,2,Moderate
+GD0377,22,Male,6.4,Mobile Games,Genshin Impact,Console,6.5,Good,Often,Excellent,3.49,2,Restless,Rarely,FALSE,TRUE,FALSE,FALSE,TRUE,0.1,7.2,3,5.3,138.19,2,Moderate
+GD0378,18,Male,6.4,RPG,Elden Ring,PC,6,Poor,Always,Average,2.09,,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,2.1,8.1,3,7.5,122.38,4,Low
+GD0379,19,Female,5.9,RPG,Skyrim,Mobile,6.3,Fair,Rarely,Average,3.28,10,Normal,Daily,FALSE,FALSE,FALSE,FALSE,TRUE,0.5,8.8,3,10.2,89.49,4,Low
+GD0380,18,Male,6.5,Strategy,StarCraft II,Mobile,4.6,Poor,Always,Failing,3.7,,Angry,Sometimes,FALSE,TRUE,FALSE,TRUE,FALSE,3.3,8,3,8.7,117.74,8,Moderate
+GD0381,17,Male,5.2,FPS,CS:GO,Multi-platform,6.4,Fair,Often,Excellent,2.22,,Angry,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.9,7.8,2,9.1,115.04,4,Low
+GD0382,17,Female,8.9,Battle Royale,Warzone,Mobile,5.2,Insomnia,Always,Below Average,2.43,,Irritable,Daily,TRUE,TRUE,TRUE,TRUE,FALSE,0.9,4.7,5,4.6,206.91,6,Severe
+GD0383,18,Male,7.1,Strategy,Age of Empires,Mobile,4.3,Poor,Often,Below Average,3.79,,Irritable,Daily,TRUE,FALSE,FALSE,TRUE,TRUE,0.7,8.1,5,7.2,70.71,6,Moderate
+GD0384,21,Female,6.1,Mobile Games,PUBG Mobile,PC,5.6,Poor,Always,Good,2.35,8,Normal,Daily,FALSE,TRUE,FALSE,FALSE,TRUE,0.9,8.2,4,10.7,143.21,6,Moderate
+GD0385,18,Male,4.5,MMO,World of Warcraft,PC,5,Fair,Always,Average,2.29,,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,3.4,9.5,1,11.2,2.07,6,Low
+GD0386,19,Female,6.6,Mobile Games,Clash of Clans,Console,4,Poor,Never,Failing,3.2,6,Normal,Daily,TRUE,TRUE,FALSE,FALSE,TRUE,1,8.1,5,7.8,68.84,7,High
+GD0387,19,Female,6.8,Battle Royale,Apex Legends,Mobile,5,Very Poor,Rarely,Failing,1.87,7,Angry,Rarely,TRUE,TRUE,FALSE,FALSE,TRUE,1.1,5.2,4,7.6,20.72,3,High
+GD0388,18,Male,5.2,MOBA,Dota 2,Mobile,5.7,Fair,Never,Good,3.09,,Irritable,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0,7.6,4,11.4,67.5,5,Low
+GD0389,19,Female,5.2,MOBA,Dota 2,Console,5.1,Very Poor,Often,Failing,1.45,6,Normal,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.7,6.9,2,10.8,148.41,9,Low
+GD0390,22,Female,3.8,FPS,CS:GO,Console,6,Fair,Sometimes,Below Average,3.83,4,Angry,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1,6.7,1,10.6,48.79,8,Low
+GD0391,14,Female,5.8,Strategy,StarCraft II,PC,5.9,Poor,Often,Average,2.4,,Restless,Sometimes,FALSE,FALSE,FALSE,FALSE,TRUE,2.7,8.5,5,9.4,86.15,4,Low
+GD0392,26,Male,7.4,MOBA,Mobile Legends,Mobile,4.1,Poor,Sometimes,Below Average,,7,Euphoric,Daily,TRUE,TRUE,FALSE,TRUE,TRUE,1.8,8.4,3,8.5,61.67,16,High
+GD0393,19,Male,9.3,FPS,Overwatch,Multi-platform,3,Poor,Always,Poor,1.42,8,Depressed,Sometimes,FALSE,FALSE,FALSE,TRUE,TRUE,4.5,7.2,5,2.4,232.19,8,Moderate
+GD0394,19,Female,5.9,Battle Royale,PUBG,Multi-platform,6.4,Fair,Rarely,Below Average,2.47,7,Restless,Often,FALSE,TRUE,FALSE,TRUE,FALSE,0.9,5.3,5,6.5,120.38,7,Moderate
+GD0395,26,Female,13.9,Mobile Games,Clash of Clans,Console,4.5,Poor,Often,Poor,,5,Irritable,Sometimes,TRUE,TRUE,FALSE,TRUE,FALSE,2.9,4.9,10,0,247.18,13,Severe
+GD0396,19,Male,5.8,Mobile Games,Genshin Impact,Mobile,5.7,Fair,Always,Average,2.61,5,Anxious,Sometimes,FALSE,TRUE,FALSE,TRUE,TRUE,0.5,6.5,4,5,96.56,5,Moderate
+GD0397,13,Male,6.4,MMO,World of Warcraft,Multi-platform,5.5,Good,Sometimes,Average,3.75,,Irritable,Often,FALSE,TRUE,FALSE,FALSE,TRUE,0.3,5.3,4,5.1,65.67,2,Moderate
+GD0398,21,Male,12.6,Strategy,StarCraft II,Mobile,5.7,Very Poor,Rarely,Below Average,3.67,1,Anxious,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,1.9,4.1,9,0,242.51,10,High
+GD0399,23,Male,8.9,Strategy,StarCraft II,Multi-platform,3.5,Poor,Always,Poor,,1,Anxious,Never,FALSE,FALSE,TRUE,FALSE,TRUE,0,6.7,5,6.7,277.78,3,High
+GD0400,26,Female,8.2,Strategy,Civilization VI,Console,3.9,Poor,Often,Average,,1,Normal,Rarely,TRUE,FALSE,FALSE,FALSE,TRUE,2.9,5.2,5,5.5,44.07,10,Moderate
+GD0401,20,Male,7.7,MOBA,League of Legends,Mobile,4.7,Very Poor,Always,Failing,2.46,7,Restless,Often,FALSE,TRUE,TRUE,TRUE,FALSE,2.5,4.9,3,3,65.22,2,High
+GD0402,21,Female,1.2,MOBA,Dota 2,Mobile,7.2,Good,Never,Excellent,3.52,5,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,11.2,1,15.2,41.12,10,Low
+GD0403,19,Male,4.6,Strategy,Civilization VI,Console,5.9,Fair,Always,Good,2.32,9,Euphoric,Never,FALSE,FALSE,FALSE,TRUE,FALSE,2.4,6.3,3,7.6,18.38,6,Low
+GD0404,23,Male,6.4,MMO,World of Warcraft,PC,6.7,Poor,Sometimes,Poor,,4,Irritable,Sometimes,FALSE,FALSE,FALSE,TRUE,TRUE,2.7,5.5,3,7.9,22.81,7,Low
+GD0405,15,Male,10,Battle Royale,Fortnite,PC,3.8,Very Poor,Often,Average,1.3,,Anxious,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,3.2,5.7,5,5.9,226.85,5,Severe
+GD0406,20,Male,13.3,MMO,Final Fantasy XIV,Console,5,Poor,Never,Poor,1.11,2,Irritable,Daily,TRUE,FALSE,FALSE,TRUE,TRUE,2.8,3.8,8,0.6,434.02,4,High
+GD0407,18,Male,10.4,RPG,Elden Ring,Mobile,4.7,Very Poor,Often,Below Average,3.15,,Anxious,Never,TRUE,FALSE,TRUE,TRUE,TRUE,0.3,6,8,0.1,246.69,8,Severe
+GD0408,31,Female,3.6,MOBA,League of Legends,Mobile,6.3,Good,Rarely,Average,,2,Depressed,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,8.2,1,12.4,23.15,5,Low
+GD0409,17,Female,1.6,Battle Royale,PUBG,Console,8.3,Good,Rarely,Excellent,1.48,,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,7.1,1,11.9,7.58,6,Low
+GD0410,35,Female,3.1,Battle Royale,Warzone,Mobile,7.1,Fair,Sometimes,Average,,8,Excited,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,7.1,2,9.1,45.22,15,Low
+GD0411,22,Female,6,RPG,Cyberpunk 2077,Console,6.4,Poor,Rarely,Poor,2.99,9,Normal,Sometimes,FALSE,TRUE,FALSE,TRUE,FALSE,2.5,6.1,3,5.5,109.8,8,Moderate
+GD0412,25,Female,10.3,Battle Royale,Apex Legends,Console,4.8,Poor,Never,Average,,3,Euphoric,Never,TRUE,TRUE,TRUE,FALSE,TRUE,0.7,3.5,6,5.8,348.04,7,Severe
+GD0413,16,Male,4.8,FPS,Call of Duty,PC,6.8,Fair,Sometimes,Below Average,2.17,,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,2,6.5,5,11.4,101.85,4,Low
+GD0414,19,Female,4.6,FPS,CS:GO,PC,6.5,Good,Never,Average,2.46,1,Anxious,Often,FALSE,FALSE,FALSE,TRUE,FALSE,1.8,8.5,5,9.5,83.38,5,Low
+GD0415,18,Female,7.3,Mobile Games,Clash of Clans,Mobile,5.8,Poor,Always,Good,2.13,,Anxious,Rarely,FALSE,TRUE,FALSE,FALSE,TRUE,3.6,6.6,4,7.4,31.02,5,Moderate
+GD0416,17,Male,7.5,FPS,Valorant,PC,5,Poor,Rarely,Poor,1.24,,Restless,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,1.1,6.9,2,6.7,135.83,2,Moderate
+GD0417,17,Male,6.2,MOBA,League of Legends,Multi-platform,5.5,Good,Never,Below Average,1.68,,Depressed,Never,FALSE,FALSE,FALSE,FALSE,TRUE,1.7,7.6,4,9,145.5,3,Low
+GD0418,16,Male,8.3,MOBA,Dota 2,Console,5.5,Poor,Sometimes,Poor,2.24,,Anxious,Often,FALSE,TRUE,TRUE,TRUE,TRUE,2,6.9,4,8,14.14,1,High
+GD0419,31,Female,7.7,RPG,Elden Ring,Multi-platform,3.4,Poor,Rarely,Below Average,,8,Anxious,Sometimes,TRUE,TRUE,TRUE,TRUE,FALSE,2.8,6.4,5,3.2,38.14,1,Severe
+GD0420,16,Male,4,MMO,World of Warcraft,Multi-platform,6.4,Good,Never,Excellent,2.79,,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1.7,6.5,3,10,37.75,5,Low
+GD0421,19,Male,1.3,Strategy,Age of Empires,PC,8.2,Fair,Never,Excellent,2.8,2,Withdrawn,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9.4,1,15.9,18.98,5,Low
+GD0422,23,Male,8.6,Mobile Games,PUBG Mobile,Multi-platform,5.7,Poor,Never,Average,,5,Angry,Never,TRUE,FALSE,TRUE,TRUE,FALSE,4.9,7.2,5,3.4,96.61,9,Severe
+GD0423,21,Other,5.2,MMO,World of Warcraft,Mobile,6.9,Fair,Always,Below Average,1.46,6,Restless,Never,FALSE,FALSE,FALSE,TRUE,FALSE,0.3,7,3,8.7,144.76,2,Low
+GD0424,16,Female,4.7,MOBA,Mobile Legends,Multi-platform,5.7,Fair,Rarely,Poor,1.93,,Irritable,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,0.9,9.3,3,10.1,36.45,1,Low
+GD0425,20,Male,7.3,MMO,Elder Scrolls Online,Multi-platform,3.1,Very Poor,Sometimes,Poor,3.71,6,Irritable,Daily,FALSE,TRUE,FALSE,TRUE,FALSE,0.7,5.5,4,4.9,30.38,2,Moderate
+GD0426,17,Female,10.2,MOBA,League of Legends,Mobile,5.3,Good,Sometimes,Poor,3.91,,Restless,Rarely,FALSE,TRUE,TRUE,FALSE,FALSE,3,3.6,5,2.3,263.64,1,Severe
+GD0427,29,Male,4.2,FPS,Call of Duty,Console,6.6,Good,Often,Good,,3,Depressed,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,8.6,1,7.5,28.17,8,Low
+GD0428,22,Male,2.5,MOBA,League of Legends,PC,7.4,Good,Never,Excellent,1.17,1,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,2,10.4,3,12.8,40.43,12,Low
+GD0429,26,Female,5.1,MMO,World of Warcraft,Mobile,5.9,Very Poor,Always,Average,,6,Normal,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,0.4,6.9,2,7.1,33.99,8,Low
+GD0430,29,Male,6,Mobile Games,Genshin Impact,PC,6.5,Good,Never,Below Average,,1,Euphoric,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.5,6,1,5.8,109.61,16,Low
+GD0431,22,Male,5,Mobile Games,Genshin Impact,Console,5.8,Fair,Never,Average,3.16,4,Restless,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,6,4,9,89.73,5,Low
+GD0432,20,Female,3.9,Mobile Games,Candy Crush,Console,5.3,Good,Rarely,Average,3.17,7,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,7.4,2,10.8,49.48,7,Low
+GD0433,20,Male,4.5,FPS,CS:GO,PC,5.8,Fair,Often,Excellent,3.73,9,Normal,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,0.8,7.2,5,6.3,135.01,6,Low
+GD0434,18,Male,3.8,Mobile Games,Clash of Clans,Mobile,5.2,Fair,Often,Average,3.04,,Restless,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,9.9,2,8,21.62,6,Low
+GD0435,17,Male,7.8,Mobile Games,PUBG Mobile,Mobile,5.7,Insomnia,Never,Below Average,2.53,,Normal,Often,TRUE,FALSE,TRUE,TRUE,TRUE,0.9,6.2,6,4.5,147.2,4,High
+GD0436,20,Male,5.3,FPS,Overwatch,Mobile,6.9,Fair,Never,Good,3.49,5,Normal,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.7,5.6,3,9.6,97.04,7,Low
+GD0437,23,Male,4.6,MOBA,League of Legends,Multi-platform,5.4,Fair,Never,Good,,5,Restless,Never,FALSE,FALSE,FALSE,TRUE,FALSE,6.5,9,4,9.7,74.83,7,Low
+GD0438,22,Male,3.7,Battle Royale,PUBG,PC,5.3,Good,Always,Average,2.31,9,Anxious,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,2.5,7.1,1,12.2,13.27,2,Low
+GD0439,17,Female,3.9,Battle Royale,Fortnite,PC,6,Fair,Never,Good,1.67,,Restless,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,6.1,2,12.5,34.03,7,Low
+GD0440,32,Female,1,FPS,CS:GO,Mobile,7.4,Good,Sometimes,Below Average,,9,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,8,1,14.3,49.46,3,Low
+GD0441,18,Female,4.6,Strategy,StarCraft II,Multi-platform,6.9,Fair,Sometimes,Average,1.05,,Angry,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.2,2,6.2,100.04,2,Low
+GD0442,17,Female,5.8,Battle Royale,PUBG,PC,6.4,Fair,Always,Good,3.6,,Angry,Often,FALSE,FALSE,FALSE,TRUE,FALSE,3.6,6.4,4,7,87.25,5,Low
+GD0443,14,Male,11.4,FPS,Call of Duty,Multi-platform,4.8,Very Poor,Sometimes,Failing,2.61,,Euphoric,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,5.3,3.2,6,3.2,237.13,3,High
+GD0444,17,Male,2.5,FPS,Overwatch,Mobile,8.4,Fair,Rarely,Excellent,2.61,,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,8.7,1,9.9,14.02,6,Low
+GD0445,25,Female,5.2,Battle Royale,Fortnite,Mobile,6,Fair,Always,Excellent,,4,Angry,Never,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,8.1,3,10.4,54.39,1,Low
+GD0446,18,Male,8.1,Mobile Games,Genshin Impact,Multi-platform,4.2,Poor,Always,Below Average,3.21,,Angry,Daily,TRUE,TRUE,FALSE,FALSE,FALSE,0.8,4.8,4,6.1,67.44,6,High
+GD0447,18,Female,1.6,RPG,Elden Ring,Mobile,7,Good,Often,Average,3.63,,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9.5,1,13,9.19,8,Low
+GD0448,19,Female,2.1,MMO,Elder Scrolls Online,PC,8.9,Good,Always,Good,1.32,10,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,7.6,2,14.5,33.11,5,Low
+GD0449,21,Male,9.1,Strategy,Age of Empires,Multi-platform,5.3,Very Poor,Never,Poor,1.88,4,Anxious,Daily,FALSE,TRUE,TRUE,TRUE,TRUE,1.5,3.8,4,7.1,493.27,11,Severe
+GD0450,20,Female,4.1,MOBA,Mobile Legends,PC,6.9,Poor,Always,Excellent,2.52,4,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0,8.5,2,7.8,38.82,2,Low
+GD0451,15,Female,9.5,MMO,Final Fantasy XIV,Multi-platform,3.8,Very Poor,Rarely,Below Average,3.53,,Angry,Rarely,FALSE,TRUE,TRUE,TRUE,TRUE,1.5,3.7,5,5.8,229.59,1,Severe
+GD0452,21,Male,5,Strategy,Age of Empires,PC,6.6,Good,Rarely,Good,1.65,8,Depressed,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.4,8.8,3,6.8,25.71,1,Low
+GD0453,15,Male,3.7,MOBA,League of Legends,PC,6.6,Very Poor,Rarely,Good,1.51,,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,7.1,2,10.3,19.24,1,Low
+GD0454,20,Female,6.2,Mobile Games,Clash of Clans,Console,5.3,Poor,Often,Good,1.95,10,Euphoric,Sometimes,FALSE,TRUE,FALSE,TRUE,TRUE,1.1,8.4,4,7.8,47.33,3,Moderate
+GD0455,26,Male,5.4,RPG,Elden Ring,Console,5.7,Poor,Rarely,Average,,2,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,9.1,3,11.4,118.39,12,Low
+GD0456,15,Male,6.8,MOBA,Dota 2,PC,4.5,Poor,Often,Poor,1.93,,Irritable,Often,FALSE,FALSE,FALSE,TRUE,FALSE,1.4,6.3,4,8.5,25.24,5,Low
+GD0457,20,Male,4.1,Strategy,Age of Empires,Multi-platform,5.3,Fair,Rarely,Average,1.04,2,Angry,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,2,7.2,1,9.1,39.06,3,Low
+GD0458,30,Male,5.9,Mobile Games,PUBG Mobile,PC,5.3,Good,Always,Average,,1,Irritable,Never,FALSE,FALSE,FALSE,TRUE,FALSE,0.3,6.1,4,9.5,32.6,8,Low
+GD0459,16,Male,8.5,Battle Royale,Fortnite,Mobile,3.3,Poor,Never,Average,1.52,,Angry,Sometimes,FALSE,FALSE,TRUE,TRUE,TRUE,0.9,5.8,5,7.4,97.89,3,Moderate
+GD0460,21,Male,7.7,RPG,Elden Ring,PC,3.3,Very Poor,Often,Below Average,2.28,9,Anxious,Often,TRUE,TRUE,FALSE,TRUE,TRUE,1.2,4.4,5,3.3,93.4,8,High
+GD0461,16,Male,6,RPG,Elden Ring,PC,6.6,Good,Rarely,Average,3.61,,Restless,Sometimes,FALSE,FALSE,FALSE,TRUE,TRUE,1.6,6,3,8.7,35.94,4,Low
+GD0462,21,Male,5.5,MMO,Final Fantasy XIV,Console,5.5,Good,Always,Poor,1.07,3,Restless,Sometimes,FALSE,TRUE,FALSE,TRUE,FALSE,2.4,6.7,3,7.8,96.1,2,Moderate
+GD0463,21,Female,6,MMO,World of Warcraft,Mobile,5.3,Poor,Never,Good,1.82,1,Angry,Never,FALSE,TRUE,FALSE,TRUE,FALSE,0.9,7.3,5,5,27.43,7,Moderate
+GD0464,25,Female,12.5,MOBA,Mobile Legends,Mobile,3.5,Fair,Never,Failing,,6,Restless,Daily,TRUE,FALSE,FALSE,TRUE,FALSE,1.1,3.8,10,0,120.1,1,High
+GD0465,14,Female,11.7,MMO,Elder Scrolls Online,Multi-platform,4.3,Poor,Sometimes,Failing,3.22,,Depressed,Never,FALSE,TRUE,TRUE,TRUE,TRUE,1.5,2.5,7,0,339.9,4,Severe
+GD0466,18,Male,5.7,Strategy,StarCraft II,Mobile,6.9,Fair,Always,Below Average,1.87,,Irritable,Sometimes,FALSE,TRUE,FALSE,TRUE,TRUE,0.7,7.1,4,6.4,30.5,4,Moderate
+GD0467,17,Female,6,MOBA,Dota 2,Multi-platform,5.2,Very Poor,Sometimes,Average,1.28,,Restless,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,1,5.5,2,7.4,32.23,2,Moderate
+GD0468,14,Male,2.9,MOBA,Mobile Legends,Mobile,8.8,Poor,Sometimes,Good,3.59,,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1,8.9,1,11.7,36.59,4,Low
+GD0469,14,Male,9.7,Mobile Games,Candy Crush,Multi-platform,3.6,Very Poor,Rarely,Poor,3.53,,Irritable,Sometimes,FALSE,FALSE,FALSE,TRUE,TRUE,1.4,5.4,6,2.8,302.88,3,Moderate
+GD0470,16,Male,1.9,RPG,Elden Ring,Console,7.5,Good,Rarely,Excellent,3.01,,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,7,1,11.5,28.1,6,Low
+GD0471,27,Female,0.7,MMO,Final Fantasy XIV,Mobile,8.4,Poor,Always,Good,,10,Euphoric,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,8.3,1,16.5,16.4,12,Low
+GD0472,14,Male,5.5,Battle Royale,Warzone,Mobile,5.4,Fair,Rarely,Average,2.44,,Anxious,Never,FALSE,TRUE,FALSE,TRUE,FALSE,2.4,7,4,7.5,57.54,2,Moderate
+GD0473,26,Male,1,RPG,Cyberpunk 2077,Mobile,8.9,Good,Sometimes,Good,,8,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,8.3,1,13.8,1.31,8,Low
+GD0474,20,Male,9.3,MOBA,Dota 2,Multi-platform,5.3,Insomnia,Always,Poor,1.8,10,Restless,Often,TRUE,TRUE,TRUE,TRUE,FALSE,4.1,5.9,6,1.9,323.47,1,Severe
+GD0475,30,Male,11.6,MMO,Elder Scrolls Online,PC,4.5,Insomnia,Sometimes,Average,,3,Anxious,Daily,TRUE,TRUE,FALSE,TRUE,FALSE,5.4,2.6,7,2.5,317.18,10,Severe
+GD0476,21,Female,4.8,MOBA,Dota 2,Multi-platform,5.1,Poor,Sometimes,Good,1.4,4,Euphoric,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,2.5,9,3,8.2,46.29,4,Low
+GD0477,25,Male,1.1,MMO,Elder Scrolls Online,Multi-platform,8,Good,Never,Excellent,,6,Excited,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,7.7,1,12.2,47.51,4,Low
+GD0478,19,Male,4,MMO,World of Warcraft,Mobile,6.7,Fair,Sometimes,Average,2.89,10,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,7,2,10.5,8.23,7,Low
+GD0479,23,Male,4,FPS,Valorant,Mobile,5.6,Poor,Never,Good,,5,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.6,7.1,2,12.3,41.19,7,Low
+GD0480,17,Female,7.3,MOBA,League of Legends,PC,3.4,Very Poor,Never,Average,3.36,,Restless,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,1.5,5.5,2,4.6,95.15,7,High
+GD0481,22,Female,9.9,RPG,Skyrim,Mobile,3.7,Poor,Sometimes,Below Average,1.67,6,Irritable,Sometimes,TRUE,FALSE,TRUE,TRUE,TRUE,0.6,4.6,6,5.9,426.59,6,Severe
+GD0482,24,Male,2.1,MOBA,Mobile Legends,PC,9,Fair,Often,Good,,10,Irritable,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,7.4,1,12,48.98,9,Low
+GD0483,22,Male,1.8,RPG,Cyberpunk 2077,Multi-platform,7.5,Fair,Never,Good,3.3,10,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9.4,1,15,15.91,7,Low
+GD0484,22,Male,8.1,FPS,Call of Duty,Multi-platform,5.5,Fair,Never,Below Average,3.18,4,Angry,Never,FALSE,TRUE,FALSE,TRUE,TRUE,1,4.8,5,5.8,121.33,10,Moderate
+GD0485,15,Male,11.2,Battle Royale,Fortnite,Console,3.9,Poor,Never,Below Average,3.62,,Restless,Never,TRUE,TRUE,TRUE,TRUE,TRUE,1.1,3.6,6,1.1,352.98,5,Severe
+GD0486,21,Male,11.6,MMO,Final Fantasy XIV,Mobile,5.4,Very Poor,Always,Poor,2.57,3,Anxious,Never,TRUE,FALSE,FALSE,FALSE,FALSE,3.5,3.8,10,0,426.48,3,High
+GD0487,30,Male,12.4,Strategy,Civilization VI,Console,5.3,Very Poor,Rarely,Average,,4,Restless,Sometimes,TRUE,TRUE,FALSE,FALSE,TRUE,2.1,4.7,9,0,238.32,3,Severe
+GD0488,14,Female,3.9,MMO,Final Fantasy XIV,Multi-platform,5.2,Poor,Rarely,Good,3.55,,Anxious,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.3,9.3,5,8,38.56,2,Low
+GD0489,16,Female,5.5,Battle Royale,PUBG,Multi-platform,6.6,Poor,Never,Average,3.16,,Depressed,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,2.4,7.3,3,5.3,128.87,4,Moderate
+GD0490,28,Male,0.9,Battle Royale,Fortnite,Multi-platform,8.4,Good,Rarely,Average,,2,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,7.9,1,12,7.57,8,Low
+GD0491,20,Female,5.7,Battle Royale,Fortnite,Mobile,5.5,Good,Always,Good,1.53,5,Angry,Rarely,FALSE,FALSE,FALSE,FALSE,TRUE,1.9,5.4,5,4.9,75.19,8,Low
+GD0492,24,Male,14.1,Battle Royale,Fortnite,Multi-platform,3.9,Insomnia,Often,Below Average,,2,Anxious,Often,TRUE,TRUE,TRUE,TRUE,TRUE,2.2,4.8,10,0,394.74,14,Severe
+GD0493,19,Female,5.8,MOBA,League of Legends,PC,6.8,Good,Never,Average,2.43,6,Euphoric,Daily,FALSE,TRUE,FALSE,FALSE,FALSE,2.6,6.9,4,10.4,70.73,2,Moderate
+GD0494,20,Male,6,FPS,CS:GO,Console,6.5,Very Poor,Often,Below Average,3.43,9,Angry,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,1.2,6.4,5,10.7,95.85,10,Moderate
+GD0495,20,Female,3.8,Battle Royale,PUBG,Console,6,Fair,Sometimes,Excellent,3.16,2,Irritable,Often,FALSE,FALSE,FALSE,FALSE,FALSE,2.2,9.2,4,8.7,9.48,1,Low
+GD0496,16,Male,7.9,MMO,World of Warcraft,PC,5.1,Fair,Often,Average,3.47,,Irritable,Rarely,FALSE,TRUE,FALSE,FALSE,TRUE,3,7.8,5,5.5,136.26,4,Moderate
+GD0497,27,Male,9.1,MMO,Final Fantasy XIV,PC,5.9,Very Poor,Never,Failing,,8,Anxious,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,0.2,6.4,6,5.1,224.46,5,High
+GD0498,22,Male,9.5,Battle Royale,Fortnite,PC,3.7,Fair,Always,Average,1.14,4,Angry,Rarely,FALSE,TRUE,FALSE,TRUE,TRUE,2.2,5.7,6,3.3,207.65,4,High
+GD0499,20,Male,5.9,Battle Royale,PUBG,Multi-platform,6.7,Good,Always,Average,2.14,8,Restless,Often,FALSE,FALSE,FALSE,FALSE,TRUE,0.3,5.4,3,10.7,131.7,6,Low
+GD0500,20,Female,7.1,Battle Royale,Fortnite,Console,4.7,Poor,Sometimes,Below Average,1.02,3,Irritable,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,3.6,5.5,3,5,142.02,3,High
+GD0501,18,Male,9.6,Battle Royale,Apex Legends,Multi-platform,3.7,Very Poor,Always,Poor,3.97,,Restless,Rarely,FALSE,FALSE,FALSE,TRUE,TRUE,6.7,5.6,6,2.3,82.52,4,Moderate
+GD0502,23,Female,4.1,RPG,Skyrim,Mobile,5.6,Poor,Rarely,Below Average,,1,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,2.5,6.6,2,11.9,34.53,8,Low
+GD0503,19,Male,7.5,RPG,Skyrim,PC,3.3,Insomnia,Sometimes,Average,1.78,4,Depressed,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1,8,5,7.3,70.7,5,Low
+GD0504,14,Male,3.5,MMO,Elder Scrolls Online,Multi-platform,7.9,Poor,Never,Good,2.45,,Restless,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,7.9,3,11.2,10.74,2,Low
+GD0505,27,Female,0.8,RPG,Cyberpunk 2077,Multi-platform,8.2,Good,Often,Good,,6,Anxious,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,10.5,1,14.3,27.33,17,Low
+GD0506,18,Female,9.4,MMO,Elder Scrolls Online,Mobile,3.6,Very Poor,Rarely,Below Average,3.04,,Irritable,Daily,FALSE,FALSE,TRUE,FALSE,FALSE,4.7,7.1,4,5.3,470.19,2,High
+GD0507,21,Male,5.5,FPS,Valorant,Multi-platform,6.3,Fair,Sometimes,Below Average,3.86,4,Irritable,Often,FALSE,FALSE,FALSE,TRUE,FALSE,1.6,9.1,3,6,91.49,11,Low
+GD0508,18,Male,4.6,FPS,Overwatch,PC,6.8,Good,Always,Poor,3.77,,Angry,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,2.4,8.5,2,7.1,96.69,7,Low
+GD0509,18,Male,3.5,FPS,Overwatch,Multi-platform,8.4,Good,Never,Good,3.76,,Excited,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1,10,1,12.8,38.67,6,Low
+GD0510,19,Male,5.7,Battle Royale,Warzone,PC,6.4,Good,Always,Below Average,2.06,7,Euphoric,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,4.3,6.6,6,10,89.3,6,Moderate
+GD0511,22,Male,1,Strategy,Age of Empires,Console,8,Fair,Sometimes,Good,3.87,9,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,11.3,1,14.9,7.33,6,Low
+GD0512,19,Female,6.7,Mobile Games,PUBG Mobile,Console,3.1,Fair,Never,Below Average,2.79,9,Euphoric,Never,FALSE,FALSE,FALSE,FALSE,TRUE,1.2,8.2,2,5,103.77,5,Low
+GD0513,14,Male,2.1,MOBA,Dota 2,Console,7.3,Fair,Sometimes,Excellent,3.63,,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,8.2,3,12.1,41.89,3,Low
+GD0514,24,Female,3.7,Strategy,Civilization VI,Mobile,6.1,Good,Often,Good,,1,Restless,Never,FALSE,FALSE,FALSE,FALSE,FALSE,2.1,6.1,3,10.8,7.4,3,Low
+GD0515,15,Male,11.2,Strategy,StarCraft II,Multi-platform,3.4,Very Poor,Sometimes,Below Average,2.41,,Irritable,Never,TRUE,FALSE,FALSE,FALSE,FALSE,3,4.6,8,0.6,436.35,5,High
+GD0516,17,Male,6.3,Battle Royale,Warzone,Multi-platform,6.2,Poor,Often,Average,2.2,,Normal,Rarely,FALSE,TRUE,FALSE,FALSE,TRUE,0.1,7.1,4,9.9,85.83,3,Moderate
+GD0517,20,Male,12.2,Battle Royale,Apex Legends,Console,5.3,Very Poor,Rarely,Below Average,3.3,9,Irritable,Daily,TRUE,FALSE,FALSE,TRUE,TRUE,1.2,4.1,7,0.5,343.9,8,High
+GD0518,20,Male,5.4,MMO,Final Fantasy XIV,Mobile,5.9,Very Poor,Often,Poor,1.63,10,Anxious,Never,FALSE,FALSE,FALSE,TRUE,FALSE,0.2,6.9,3,9.9,114.75,9,Low
+GD0519,16,Male,7.8,MOBA,Mobile Legends,Mobile,3.1,Fair,Never,Good,1.33,,Irritable,Often,TRUE,FALSE,TRUE,TRUE,TRUE,0.5,4.5,5,6,50.64,2,High
+GD0520,21,Male,3.1,Mobile Games,Clash of Clans,Console,8.7,Poor,Often,Average,3.87,1,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,7,1,11.2,1.5,8,Low
+GD0521,24,Male,8.2,Strategy,StarCraft II,Multi-platform,3.6,Fair,Sometimes,Poor,,10,Angry,Rarely,FALSE,FALSE,TRUE,TRUE,TRUE,2.1,4.1,6,5.9,29,2,Moderate
+GD0522,20,Male,6.6,MMO,Final Fantasy XIV,Console,4.9,Poor,Always,Below Average,2.86,1,Normal,Rarely,TRUE,TRUE,FALSE,TRUE,FALSE,2.5,6.8,5,6.9,35.07,6,High
+GD0523,21,Female,9.1,MOBA,League of Legends,Mobile,4.7,Poor,Never,Poor,3.33,5,Anxious,Often,FALSE,FALSE,TRUE,FALSE,TRUE,0.3,4.3,6,4.1,479.29,7,High
+GD0524,17,Male,4.6,FPS,Valorant,Multi-platform,6.2,Good,Sometimes,Average,1.61,,Restless,Never,FALSE,FALSE,FALSE,FALSE,FALSE,2.5,9.1,6,8.6,40.53,4,Low
+GD0525,19,Male,7.3,Strategy,Civilization VI,Console,3.2,Fair,Rarely,Poor,3.31,3,Anxious,Daily,TRUE,TRUE,FALSE,TRUE,TRUE,1.4,5.3,4,7.1,84.52,4,High
+GD0526,16,Male,1.7,FPS,Valorant,Multi-platform,8.2,Poor,Sometimes,Excellent,3.03,,Excited,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,7.6,1,9.7,12.32,4,Low
+GD0527,18,Male,4.3,FPS,Overwatch,Console,6.9,Fair,Sometimes,Below Average,3.2,,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0,9.5,4,9,32.71,5,Low
+GD0528,21,Male,1.3,FPS,Overwatch,Multi-platform,8.5,Fair,Often,Average,3.92,8,Excited,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9.2,1,12.2,44.99,11,Low
+GD0529,25,Male,10.4,MMO,World of Warcraft,Console,4.3,Fair,Often,Poor,,3,Restless,Sometimes,TRUE,TRUE,FALSE,TRUE,FALSE,5,6.4,5,0.6,61.9,11,Severe
+GD0530,20,Female,10.1,MOBA,Dota 2,Mobile,5.7,Very Poor,Always,Below Average,2.09,1,Depressed,Often,TRUE,TRUE,TRUE,TRUE,TRUE,8.9,3.6,8,5.2,350.42,6,Severe
+GD0531,20,Female,5.8,Mobile Games,Genshin Impact,Console,6.3,Very Poor,Rarely,Average,1.63,3,Euphoric,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,2.4,8.8,5,7.8,124.29,7,Low
+GD0532,18,Male,2.5,Mobile Games,Clash of Clans,Mobile,8.9,Good,Often,Average,1.57,,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,10.4,1,12.3,30.97,5,Low
+GD0533,18,Male,2.6,MMO,Final Fantasy XIV,Mobile,8.8,Good,Never,Excellent,2.58,,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,10.1,2,12.4,26.71,7,Low
+GD0534,19,Male,10.2,MOBA,League of Legends,PC,3.3,Very Poor,Rarely,Failing,3.44,10,Euphoric,Daily,TRUE,FALSE,FALSE,FALSE,FALSE,0.8,6.9,7,3,207.43,1,High
+GD0535,14,Male,5.8,FPS,CS:GO,Console,6.2,Fair,Never,Poor,2.69,,Restless,Never,FALSE,TRUE,FALSE,TRUE,TRUE,0.4,7.1,4,9.4,88.33,1,Moderate
+GD0536,17,Female,1.9,MMO,Final Fantasy XIV,PC,7.1,Good,Always,Average,1.78,,Withdrawn,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,10.9,1,11.5,23.78,6,Low
+GD0537,18,Male,8,RPG,Elden Ring,PC,5,Poor,Never,Poor,3.81,,Angry,Rarely,FALSE,TRUE,TRUE,TRUE,TRUE,0.1,7.7,5,5.3,85.28,4,High
+GD0538,18,Male,3.4,MMO,Elder Scrolls Online,Multi-platform,7.4,Poor,Never,Average,2.15,,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,9,1,9.6,30.22,4,Low
+GD0539,24,Male,1.2,Strategy,Age of Empires,PC,7.6,Fair,Often,Average,,1,Irritable,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,8.6,1,14.2,32.34,10,Low
+GD0540,19,Male,4.3,MMO,Elder Scrolls Online,PC,6.3,Good,Rarely,Below Average,2.46,10,Restless,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,9.2,3,11.9,43.72,4,Low
+GD0541,18,Male,10.7,Battle Royale,Apex Legends,Mobile,5.3,Fair,Never,Below Average,3.11,,Depressed,Sometimes,TRUE,TRUE,TRUE,TRUE,TRUE,4.8,4.3,7,4.3,115.6,1,Severe
+GD0542,27,Male,3.3,Battle Royale,PUBG,Console,8.9,Poor,Often,Below Average,,6,Anxious,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,9.3,3,9,11.66,15,Low
+GD0543,31,Male,10.4,Strategy,Civilization VI,Console,3.2,Poor,Sometimes,Average,,10,Normal,Often,FALSE,TRUE,TRUE,FALSE,FALSE,4.1,7,7,1.8,339.48,7,Severe
+GD0544,22,Female,6.7,Mobile Games,Candy Crush,PC,4.6,Poor,Rarely,Poor,1.18,5,Angry,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,1.4,6.5,5,6.5,37,4,High
+GD0545,16,Male,6.3,MMO,Elder Scrolls Online,Mobile,5.1,Poor,Sometimes,Excellent,1.91,,Irritable,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,7.7,3,4.8,33.58,4,Low
+GD0546,19,Male,6.2,MMO,World of Warcraft,Mobile,6.7,Fair,Often,Average,3.56,6,Depressed,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,3.6,5.9,3,7.4,138.86,6,Moderate
+GD0547,22,Male,3.2,MMO,World of Warcraft,Multi-platform,8.7,Poor,Sometimes,Average,3.82,6,Withdrawn,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,8.4,4,8.7,42.64,3,Low
+GD0548,24,Male,7.1,FPS,Call of Duty,Console,3.8,Good,Never,Below Average,,8,Depressed,Daily,TRUE,TRUE,FALSE,FALSE,FALSE,2.2,6,5,4.9,96.9,13,High
+GD0549,18,Male,8.4,MOBA,Dota 2,Mobile,5.2,Poor,Rarely,Poor,3.2,,Restless,Sometimes,FALSE,FALSE,FALSE,TRUE,TRUE,0.7,4.7,5,7.2,73.02,1,Low
+GD0550,21,Female,7.2,Battle Royale,Fortnite,PC,5.9,Fair,Never,Excellent,1.41,2,Irritable,Sometimes,TRUE,FALSE,FALSE,TRUE,TRUE,0.6,6.2,4,5,99.01,9,Moderate
+GD0551,19,Male,9.5,Strategy,Age of Empires,Multi-platform,3.2,Poor,Always,Excellent,1.94,5,Irritable,Daily,TRUE,TRUE,TRUE,TRUE,FALSE,0.6,4.6,6,2.4,90.31,6,Severe
+GD0552,19,Male,6,Mobile Games,PUBG Mobile,Console,5.3,Fair,Rarely,Average,1.42,9,Restless,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,3.5,5.4,4,10.2,35.25,6,Low
+GD0553,19,Female,2.3,MOBA,Mobile Legends,Console,8.9,Good,Often,Good,3.61,10,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,9.8,2,14.5,39.46,5,Low
+GD0554,27,Male,4.2,Strategy,Age of Empires,PC,5.9,Good,Always,Excellent,,2,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.3,8.9,3,12.6,18.36,5,Low
+GD0555,19,Female,4.6,RPG,Cyberpunk 2077,Console,6.1,Good,Always,Average,3.24,2,Angry,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,1.3,7.3,5,11.3,70.56,5,Low
+GD0556,19,Male,4.8,Strategy,Age of Empires,Console,7,Poor,Often,Poor,2.78,1,Euphoric,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,3.2,8.1,2,8.6,97.99,6,Low
+GD0557,20,Male,11.7,Mobile Games,PUBG Mobile,Console,5.5,Very Poor,Always,Average,2.69,7,Euphoric,Daily,TRUE,TRUE,TRUE,TRUE,FALSE,0.1,5.4,7,0.2,360.29,3,Severe
+GD0558,26,Male,2.5,MOBA,Dota 2,PC,7.6,Good,Always,Good,,4,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,8.8,1,13.5,0.43,11,Low
+GD0559,33,Male,5.2,MOBA,Mobile Legends,Console,5.3,Good,Rarely,Excellent,,10,Irritable,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.7,8.2,2,9.2,102.88,19,Low
+GD0560,19,Male,4.6,MOBA,Mobile Legends,Multi-platform,5.4,Fair,Rarely,Average,1.85,9,Restless,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,5.5,1,11.2,37.92,7,Low
+GD0561,18,Male,4,MOBA,Mobile Legends,Multi-platform,5.8,Poor,Always,Excellent,3.29,,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,8.7,3,13.2,26.29,4,Low
+GD0562,20,Female,1.7,Mobile Games,Clash of Clans,Console,8.7,Good,Rarely,Excellent,3.88,7,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,7.6,1,10.4,2.01,3,Low
+GD0563,16,Male,7.6,FPS,Valorant,Mobile,3.3,Insomnia,Always,Poor,1.73,,Withdrawn,Daily,TRUE,FALSE,FALSE,FALSE,TRUE,4.6,6.9,3,4.1,42.16,1,Moderate
+GD0564,22,Male,4.5,MMO,Final Fantasy XIV,Mobile,6.9,Poor,Sometimes,Below Average,1.54,10,Euphoric,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,2.7,7.1,2,11.8,92.49,8,Low
+GD0565,23,Other,4.6,MMO,World of Warcraft,Mobile,6.3,Fair,Often,Below Average,,6,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,6.8,4,10.9,134.52,11,Low
+GD0566,18,Male,2.3,Strategy,Civilization VI,Console,7.3,Good,Sometimes,Average,1.63,,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,9.8,1,13.1,35.89,2,Low
+GD0567,25,Female,5.3,MOBA,Mobile Legends,Mobile,6,Poor,Never,Below Average,,3,Depressed,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,0.6,8.8,2,6.3,123.9,6,Low
+GD0568,20,Male,8,MOBA,Dota 2,Multi-platform,5.8,Poor,Rarely,Below Average,2.75,6,Euphoric,Often,TRUE,TRUE,TRUE,FALSE,TRUE,1.2,4.7,5,6.2,42.42,3,Severe
+GD0569,13,Male,2.3,MOBA,League of Legends,Mobile,8.2,Fair,Always,Below Average,2.99,,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,10.6,1,10.7,13.49,1,Low
+GD0570,34,Male,3.9,MOBA,Dota 2,PC,5.1,Fair,Sometimes,Excellent,,2,Irritable,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,6.5,2,8.8,23.55,17,Low
+GD0571,28,Female,7.8,Battle Royale,Warzone,Mobile,4.7,Fair,Rarely,Poor,,1,Anxious,Rarely,TRUE,TRUE,TRUE,TRUE,TRUE,0.8,4,6,2.7,88.65,14,Severe
+GD0572,17,Male,8.4,MMO,World of Warcraft,Console,3.4,Poor,Always,Average,3.69,,Angry,Sometimes,TRUE,FALSE,TRUE,FALSE,FALSE,2.7,7.9,3,2.7,76.72,1,High
+GD0573,20,Male,5.3,Strategy,Civilization VI,Multi-platform,5.5,Very Poor,Sometimes,Poor,2.34,6,Irritable,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.3,8.5,4,8.7,140.81,5,Low
+GD0574,23,Male,3.5,Battle Royale,Warzone,Multi-platform,6.9,Very Poor,Often,Below Average,,2,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,9.4,3,12.1,11.59,2,Low
+GD0575,23,Male,4.3,RPG,Elden Ring,PC,5.5,Poor,Often,Average,,1,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,2.4,6.4,1,12.6,6.68,6,Low
+GD0576,21,Male,6.5,RPG,Skyrim,Mobile,5.7,Poor,Sometimes,Failing,1.76,7,Anxious,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,1,6.2,4,5.4,132.29,4,High
+GD0577,19,Female,1.3,RPG,Skyrim,Console,9,Good,Never,Excellent,3.45,10,Excited,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,11.3,1,11.5,25.35,5,Low
+GD0578,17,Female,7.1,Battle Royale,Warzone,PC,5.2,Very Poor,Sometimes,Below Average,3.36,,Irritable,Often,TRUE,FALSE,FALSE,FALSE,TRUE,2.8,4.5,5,9.2,86.64,5,Moderate
+GD0579,21,Female,2.7,Mobile Games,Clash of Clans,Console,8.2,Good,Always,Excellent,3.63,9,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,10,2,13.2,34.35,3,Low
+GD0580,21,Male,5.9,Strategy,StarCraft II,Console,5.1,Poor,Sometimes,Poor,2.78,7,Normal,Never,FALSE,FALSE,FALSE,TRUE,TRUE,2.2,5.7,2,6.4,57.6,8,Low
+GD0581,18,Female,6.4,Battle Royale,Fortnite,Mobile,6.2,Very Poor,Often,Below Average,1.23,,Anxious,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,0.9,5.9,4,10.7,34.21,4,Moderate
+GD0582,17,Female,8.3,FPS,Call of Duty,Console,3.7,Poor,Often,Good,3.97,,Angry,Rarely,TRUE,TRUE,TRUE,TRUE,TRUE,0.2,4,6,6.7,40.05,5,Severe
+GD0583,18,Male,9.5,RPG,Cyberpunk 2077,Console,4.6,Poor,Always,Average,3.66,,Anxious,Rarely,FALSE,FALSE,FALSE,TRUE,TRUE,0.5,7,4,3.8,327.63,3,Moderate
+GD0584,17,Female,7.8,RPG,Skyrim,Mobile,5.7,Poor,Never,Average,2.75,,Angry,Rarely,TRUE,TRUE,FALSE,TRUE,FALSE,2.2,5.5,4,5.7,80.16,4,High
+GD0585,21,Male,8.3,MMO,Elder Scrolls Online,PC,3.8,Fair,Often,Poor,1.36,4,Angry,Never,TRUE,TRUE,TRUE,FALSE,FALSE,2.8,7.9,5,4.9,76.85,7,Severe
+GD0586,16,Male,1,RPG,Skyrim,Multi-platform,7.4,Good,Often,Excellent,2.61,,Excited,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,7.6,1,13.7,4.9,6,Low
+GD0587,19,Female,8.4,RPG,Skyrim,PC,3.8,Poor,Sometimes,Poor,1.69,7,Restless,Often,FALSE,TRUE,FALSE,TRUE,TRUE,1.9,5.4,6,2.6,94.45,9,Moderate
+GD0588,16,Male,6.9,MMO,Elder Scrolls Online,Multi-platform,4.7,Poor,Always,Below Average,2.13,,Angry,Daily,FALSE,FALSE,FALSE,FALSE,TRUE,0.2,8.2,4,8.4,11.92,2,Low
+GD0589,24,Female,8.4,Battle Royale,Fortnite,Console,5.2,Very Poor,Rarely,Poor,,4,Irritable,Rarely,TRUE,TRUE,FALSE,FALSE,TRUE,0.7,5.5,5,4.5,144.35,14,High
+GD0590,22,Male,1.7,MMO,Elder Scrolls Online,Mobile,7.1,Good,Sometimes,Average,1.77,7,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,7.6,1,11.1,42.67,11,Low
+GD0591,18,Female,6.3,MMO,World of Warcraft,PC,5.2,Fair,Rarely,Good,1.96,,Excited,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,1.8,6.5,3,7.4,29.37,3,Moderate
+GD0592,20,Male,5.8,RPG,Elden Ring,Multi-platform,5.4,Good,Never,Below Average,1.5,3,Euphoric,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.2,5.1,4,8.3,125.21,4,Low
+GD0593,17,Female,1.5,MMO,Elder Scrolls Online,PC,9,Good,Always,Good,3.35,,Restless,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,8,1,12.2,4.91,2,Low
+GD0594,21,Male,8.6,Strategy,StarCraft II,PC,5,Fair,Sometimes,Below Average,2.71,3,Anxious,Daily,TRUE,FALSE,TRUE,TRUE,TRUE,4,6,5,1.6,314.32,1,Severe
+GD0595,21,Female,6.5,MMO,World of Warcraft,Multi-platform,6.9,Fair,Never,Below Average,1.4,9,Irritable,Often,FALSE,TRUE,FALSE,TRUE,TRUE,1.3,5.9,3,9.9,119.21,2,Moderate
+GD0596,27,Female,3.9,MOBA,Mobile Legends,Multi-platform,5.6,Fair,Rarely,Below Average,,2,Anxious,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,8.8,2,10.7,37.27,15,Low
+GD0597,22,Male,6,Mobile Games,Candy Crush,PC,7,Fair,Never,Average,3.21,7,Depressed,Daily,FALSE,TRUE,FALSE,TRUE,FALSE,3.1,8.3,4,8,114.69,3,Moderate
+GD0598,16,Female,9.3,Strategy,Civilization VI,Multi-platform,4.7,Poor,Often,Below Average,3.22,,Normal,Daily,FALSE,TRUE,TRUE,TRUE,FALSE,3,6.9,5,6.7,69.4,6,Severe
+GD0599,19,Male,7.5,RPG,Cyberpunk 2077,Console,3.2,Poor,Sometimes,Failing,1.89,1,Depressed,Rarely,TRUE,TRUE,TRUE,TRUE,TRUE,0.9,6.9,7,6,128.77,4,Severe
+GD0600,21,Female,5.8,Battle Royale,Fortnite,Mobile,5.3,Fair,Often,Average,3.36,3,Euphoric,Never,FALSE,FALSE,FALSE,FALSE,TRUE,0.8,6.9,4,7.4,88.08,7,Low
+GD0601,20,Male,1.1,RPG,Elden Ring,PC,8.4,Poor,Rarely,Excellent,2.65,10,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,9.4,1,15.4,44.51,7,Low
+GD0602,16,Male,4.2,Strategy,Civilization VI,Console,5.8,Good,Always,Below Average,2.21,,Depressed,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1.3,6.6,2,12,34.04,2,Low
+GD0603,14,Female,7.4,Strategy,Civilization VI,Mobile,3.4,Very Poor,Always,Below Average,2.18,,Withdrawn,Often,FALSE,TRUE,FALSE,TRUE,TRUE,0,7.1,4,8.7,87.18,3,Moderate
+GD0604,21,Male,4.8,Mobile Games,Candy Crush,PC,6.9,Fair,Often,Below Average,2.28,5,Euphoric,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,1,6.4,4,6.4,29.12,10,Low
+GD0605,19,Male,7.4,MOBA,League of Legends,Mobile,5.8,Very Poor,Never,Good,3.54,5,Restless,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,3.2,7.1,5,6.6,130.69,6,Moderate
+GD0606,22,Female,11.4,Battle Royale,Warzone,Multi-platform,4.3,Poor,Never,Poor,1.95,5,Restless,Daily,TRUE,TRUE,FALSE,FALSE,TRUE,2.1,4.5,6,3.7,90.88,11,Severe
+GD0607,15,Male,13.2,RPG,Cyberpunk 2077,Multi-platform,4.2,Insomnia,Rarely,Poor,3.63,,Irritable,Rarely,TRUE,FALSE,FALSE,FALSE,FALSE,6.5,5.5,8,0,475.36,2,High
+GD0608,16,Male,4.6,MMO,World of Warcraft,Console,6.5,Fair,Always,Good,1.25,,Euphoric,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,0.8,6.5,5,6,70.11,5,Low
+GD0609,17,Male,8.7,Battle Royale,PUBG,Console,4.7,Poor,Often,Average,3.48,,Excited,Never,FALSE,FALSE,FALSE,TRUE,FALSE,1.9,6.6,6,1.8,119.98,3,Moderate
+GD0610,26,Female,4.8,Battle Royale,Apex Legends,Multi-platform,6.7,Good,Sometimes,Below Average,,2,Anxious,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,2.7,8.1,3,9.3,75.94,13,Low
+GD0611,20,Male,6.4,FPS,Call of Duty,Console,5.4,Poor,Never,Average,1.28,6,Normal,Never,FALSE,FALSE,FALSE,TRUE,TRUE,3.9,5.9,2,7.2,80.75,6,Low
+GD0612,20,Male,5.4,MMO,Final Fantasy XIV,Mobile,6,Poor,Always,Excellent,2.81,6,Normal,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.1,6.7,3,10.2,98.4,4,Low
+GD0613,19,Male,2.6,Battle Royale,PUBG,Mobile,8.6,Fair,Always,Poor,2.48,1,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,8.2,2,11.2,19.48,7,Low
+GD0614,17,Male,1.3,MOBA,Mobile Legends,PC,8.4,Good,Rarely,Average,3.15,,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,11.1,1,16.1,1.18,5,Low
+GD0615,18,Female,3.7,FPS,Overwatch,Multi-platform,5,Poor,Often,Below Average,3.55,,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,2,9.4,2,11.5,46.28,6,Low
+GD0616,18,Female,4.7,Battle Royale,Warzone,Mobile,6,Good,Always,Average,2.82,,Restless,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.1,6.6,2,6.6,127.9,4,Low
+GD0617,24,Male,8.4,MMO,Final Fantasy XIV,Multi-platform,4.2,Insomnia,Often,Failing,,8,Anxious,Never,FALSE,FALSE,TRUE,TRUE,TRUE,1.8,5.5,4,7.8,111.33,7,Moderate
+GD0618,30,Male,7.2,MOBA,Mobile Legends,Mobile,4,Poor,Sometimes,Below Average,,3,Irritable,Sometimes,TRUE,TRUE,FALSE,FALSE,TRUE,1.8,6.3,5,6.3,74.44,12,High
+GD0619,21,Male,6.4,Mobile Games,PUBG Mobile,Multi-platform,5.6,Good,Never,Excellent,2.43,5,Restless,Often,FALSE,TRUE,FALSE,TRUE,TRUE,1.2,7.6,4,8.9,112.63,4,Moderate
+GD0620,15,Male,2.6,Mobile Games,Genshin Impact,Multi-platform,7.8,Good,Always,Good,2.19,,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,6.6,1,9.7,32.91,3,Low
+GD0621,27,Male,3.4,FPS,Overwatch,Multi-platform,8.4,Good,Never,Excellent,,2,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,8.5,1,12.2,29.73,12,Low
+GD0622,15,Female,7,Mobile Games,Clash of Clans,Multi-platform,4.7,Poor,Often,Poor,3.52,,Anxious,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,0.8,5.9,6,7.6,54.93,5,Low
+GD0623,27,Female,1.6,FPS,Call of Duty,Multi-platform,7.5,Fair,Never,Average,,9,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,9,2,15.5,24.49,11,Low
+GD0624,19,Male,7.7,MOBA,Dota 2,Multi-platform,3.5,Very Poor,Sometimes,Average,1.1,6,Irritable,Often,FALSE,TRUE,FALSE,TRUE,FALSE,3.6,7.8,6,6,33.95,6,Moderate
+GD0625,20,Male,4.8,MOBA,Dota 2,Mobile,5.5,Poor,Always,Average,2.5,2,Depressed,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.8,8.8,4,6.8,94.88,2,Low
+GD0626,35,Male,6.9,Strategy,StarCraft II,Mobile,5.2,Very Poor,Often,Failing,,8,Normal,Never,TRUE,TRUE,FALSE,TRUE,FALSE,2.3,7.8,5,5.7,105.61,7,High
+GD0627,22,Female,4.8,Strategy,Age of Empires,Multi-platform,6,Fair,Rarely,Good,1.74,8,Irritable,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.9,7.5,4,7.9,19.11,12,Low
+GD0628,16,Male,4.5,MMO,Final Fantasy XIV,PC,5.6,Poor,Sometimes,Below Average,2.23,,Anxious,Often,FALSE,FALSE,FALSE,FALSE,FALSE,2,7,3,8.9,77.9,2,Low
+GD0629,21,Female,3.6,FPS,Overwatch,Mobile,5.4,Good,Often,Good,3.09,3,Withdrawn,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.9,6.1,3,8,40.97,11,Low
+GD0630,27,Female,12,Battle Royale,Apex Legends,Console,5.2,Very Poor,Always,Average,,4,Restless,Sometimes,TRUE,FALSE,TRUE,TRUE,TRUE,3.2,4.9,9,0,348.26,16,Severe
+GD0631,16,Female,5.4,FPS,CS:GO,Console,5.8,Poor,Always,Poor,2.81,,Irritable,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.3,2,6,34.87,4,Low
+GD0632,23,Male,7,Mobile Games,Clash of Clans,PC,3.8,Poor,Never,Average,,9,Depressed,Often,TRUE,TRUE,FALSE,TRUE,FALSE,6.2,4.8,5,9.5,128.77,5,High
+GD0633,25,Male,6.2,Strategy,Age of Empires,Console,5.9,Fair,Often,Below Average,,8,Restless,Daily,FALSE,TRUE,FALSE,FALSE,TRUE,0,8,6,10.2,30.42,4,Moderate
+GD0634,24,Male,5.7,MMO,Elder Scrolls Online,Mobile,5.7,Poor,Sometimes,Good,,1,Anxious,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,0.1,6.5,3,8.6,76.37,5,Moderate
+GD0635,16,Female,6.2,MOBA,Mobile Legends,Multi-platform,5.8,Poor,Sometimes,Good,3.53,,Restless,Rarely,FALSE,TRUE,FALSE,FALSE,TRUE,1.2,5.4,4,8.7,57.17,2,Moderate
+GD0636,19,Male,9.6,RPG,Elden Ring,Console,3.6,Poor,Sometimes,Good,2.57,8,Restless,Sometimes,FALSE,TRUE,FALSE,FALSE,TRUE,4.7,7,7,0.5,451.73,8,High
+GD0637,19,Male,11.1,MMO,Elder Scrolls Online,Multi-platform,5.9,Fair,Rarely,Excellent,1.58,9,Angry,Sometimes,FALSE,TRUE,FALSE,FALSE,TRUE,5.3,3.8,8,0.8,80.87,8,High
+GD0638,24,Male,7.8,Mobile Games,Clash of Clans,Console,5.9,Insomnia,Often,Poor,,6,Angry,Daily,FALSE,TRUE,TRUE,TRUE,TRUE,0,7,3,8,143.11,10,High
+GD0639,20,Male,6,Battle Royale,PUBG,Console,5.5,Good,Often,Failing,3.88,8,Restless,Never,FALSE,TRUE,FALSE,TRUE,TRUE,0.2,6,6,10.7,33.26,4,Moderate
+GD0640,14,Female,3.1,MOBA,Dota 2,Mobile,7,Good,Often,Excellent,2.8,,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1.5,8.4,1,13.4,37.55,1,Low
+GD0641,25,Female,7.2,Strategy,Civilization VI,Console,4.4,Fair,Always,Below Average,,1,Irritable,Never,TRUE,TRUE,FALSE,TRUE,FALSE,1.4,7.3,4,6.8,135.46,5,High
+GD0642,22,Male,6.9,Mobile Games,Genshin Impact,Mobile,6,Fair,Rarely,Below Average,3.05,8,Euphoric,Sometimes,TRUE,FALSE,FALSE,TRUE,TRUE,0.2,7.7,4,5,140.64,11,Moderate
+GD0643,22,Male,2.5,FPS,Valorant,Mobile,8.1,Fair,Always,Below Average,3.54,2,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0,8.7,3,10.5,28.41,3,Low
+GD0644,28,Female,5.9,RPG,Skyrim,Mobile,6.6,Good,Rarely,Excellent,,3,Anxious,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,0,5.6,3,10.3,97.31,5,Moderate
+GD0645,26,Male,5.9,RPG,Skyrim,PC,6.3,Fair,Never,Good,,6,Restless,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.7,7.3,3,10.6,112.85,9,Low
+GD0646,19,Male,4.8,Strategy,Age of Empires,Multi-platform,5.9,Poor,Often,Good,1.51,9,Normal,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,3.7,5.5,4,8.2,115.72,7,Low
+GD0647,17,Female,4.6,MOBA,Dota 2,Multi-platform,6,Fair,Rarely,Average,2.23,,Irritable,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,1.3,8.1,4,10.5,20.94,6,Low
+GD0648,16,Female,5.2,Strategy,StarCraft II,PC,6.3,Fair,Often,Good,2.22,,Irritable,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,3.2,8.9,2,9.1,10.52,5,Low
+GD0649,30,Female,5.2,MMO,Final Fantasy XIV,PC,6.5,Good,Often,Good,,9,Irritable,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.8,8.5,4,8.3,126.54,18,Low
+GD0650,22,Male,5.6,MMO,World of Warcraft,Mobile,6.3,Poor,Rarely,Average,3.42,2,Anxious,Often,FALSE,TRUE,FALSE,TRUE,FALSE,0.3,5.9,4,10.2,130,4,Moderate
+GD0651,16,Female,5,MMO,World of Warcraft,Console,5.9,Poor,Never,Poor,2.26,,Normal,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,2.1,5.5,3,10.4,145.08,4,Low
+GD0652,21,Male,7,MOBA,League of Legends,Mobile,4.8,Very Poor,Often,Poor,3.57,4,Angry,Rarely,FALSE,TRUE,FALSE,TRUE,TRUE,1,8.2,3,5.1,142.25,3,Moderate
+GD0653,19,Male,1.7,RPG,Cyberpunk 2077,Console,8.7,Good,Often,Excellent,2.23,10,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,10.4,2,9.8,36.8,2,Low
+GD0654,22,Female,6.4,Battle Royale,Warzone,Multi-platform,5.4,Poor,Rarely,Average,3.24,4,Irritable,Never,FALSE,TRUE,FALSE,TRUE,FALSE,0.3,6.1,2,9.5,145.93,1,Moderate
+GD0655,20,Female,3.3,Mobile Games,PUBG Mobile,Mobile,8.3,Good,Sometimes,Excellent,2.74,3,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1.2,9.1,1,10.7,13.68,6,Low
+GD0656,16,Female,9.3,Strategy,StarCraft II,Multi-platform,3.1,Fair,Always,Below Average,1.82,,Irritable,Sometimes,FALSE,TRUE,TRUE,FALSE,TRUE,0.5,3.7,6,4.5,90.17,4,Severe
+GD0657,20,Female,6.3,MMO,Final Fantasy XIV,Mobile,6.2,Poor,Rarely,Average,2.54,5,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,TRUE,3.1,8.5,6,9.5,80.72,6,Low
+GD0658,24,Male,13.4,MMO,Final Fantasy XIV,PC,3.9,Very Poor,Never,Below Average,,3,Depressed,Daily,FALSE,TRUE,FALSE,TRUE,FALSE,6.3,5.2,9,1.6,64.52,14,High
+GD0659,18,Male,6.6,Battle Royale,Apex Legends,Mobile,5.4,Insomnia,Often,Poor,2.34,,Restless,Often,FALSE,FALSE,FALSE,TRUE,TRUE,0.8,5.6,5,7,80.91,4,Low
+GD0660,20,Female,5.3,MMO,World of Warcraft,Console,6.8,Fair,Never,Poor,3.93,2,Irritable,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,0.4,9,2,7.1,128.13,8,Low
+GD0661,16,Male,7.4,RPG,Elden Ring,Console,5.2,Fair,Sometimes,Below Average,3.68,,Irritable,Often,TRUE,TRUE,FALSE,TRUE,TRUE,2.1,5.8,3,8.7,67.44,4,High
+GD0662,22,Female,1.8,Strategy,Age of Empires,Multi-platform,8,Good,Rarely,Excellent,3.17,10,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,8.9,2,14.2,40.78,6,Low
+GD0663,20,Male,4.4,RPG,Elden Ring,Multi-platform,6.3,Fair,Rarely,Good,1.51,2,Euphoric,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,7.6,4,8.7,38.47,9,Low
+GD0664,16,Male,4.5,FPS,Valorant,Console,5.1,Poor,Never,Average,3.45,,Depressed,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,7,4,6.2,104.97,6,Low
+GD0665,33,Female,3.7,Battle Royale,Fortnite,Console,6.5,Poor,Never,Average,,10,Depressed,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9.3,3,11.5,23.14,14,Low
+GD0666,18,Female,1.5,RPG,Elden Ring,PC,7.1,Fair,Rarely,Good,1.91,,Withdrawn,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,8.1,1,11.9,0.1,7,Low
+GD0667,19,Male,6.7,Battle Royale,Apex Legends,Mobile,3.8,Very Poor,Sometimes,Below Average,3.61,5,Withdrawn,Daily,TRUE,TRUE,FALSE,TRUE,FALSE,0.4,6.6,2,7.5,117.79,8,High
+GD0668,15,Male,6.5,MMO,World of Warcraft,Mobile,4.7,Very Poor,Always,Good,3.57,,Anxious,Sometimes,TRUE,FALSE,FALSE,TRUE,FALSE,4.2,5,2,6.9,109.59,1,Moderate
+GD0669,31,Male,1.4,RPG,Skyrim,Console,8.8,Good,Always,Poor,,1,Irritable,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,10.5,1,14.6,24.22,3,Low
+GD0670,14,Male,8.3,Mobile Games,Genshin Impact,Multi-platform,6,Very Poor,Always,Poor,1.19,,Restless,Rarely,TRUE,FALSE,FALSE,FALSE,FALSE,4.4,5.5,6,8.2,37.2,4,Moderate
+GD0671,24,Male,9.3,Strategy,Age of Empires,Multi-platform,4,Fair,Never,Poor,,8,Anxious,Daily,TRUE,TRUE,TRUE,TRUE,FALSE,4.3,6.6,6,3.2,170.31,12,Severe
+GD0672,19,Male,4,RPG,Skyrim,Console,6.9,Poor,Always,Excellent,3.33,3,Irritable,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,9.1,1,11.4,29.01,9,Low
+GD0673,15,Male,8,MMO,World of Warcraft,Multi-platform,5.4,Very Poor,Often,Poor,2.83,,Depressed,Rarely,TRUE,FALSE,TRUE,TRUE,TRUE,4,6.3,5,7.3,80.45,4,High
+GD0674,26,Male,6,Strategy,Civilization VI,PC,6,Poor,Always,Poor,,7,Anxious,Never,FALSE,TRUE,FALSE,TRUE,TRUE,1.6,6.2,4,7.9,24.29,14,Moderate
+GD0675,33,Male,4.2,MMO,World of Warcraft,PC,5.9,Fair,Sometimes,Excellent,,7,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0,6.2,2,10.5,17.42,18,Low
+GD0676,14,Male,4,Mobile Games,Genshin Impact,Mobile,6.8,Poor,Sometimes,Good,1.44,,Depressed,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.5,7.8,2,9.6,15.49,3,Low
+GD0677,16,Female,6.5,Mobile Games,PUBG Mobile,PC,5.6,Insomnia,Always,Below Average,1.86,,Euphoric,Never,TRUE,FALSE,FALSE,TRUE,TRUE,2.3,7.1,4,5.9,83.36,2,Moderate
+GD0678,18,Female,8,RPG,Cyberpunk 2077,Mobile,3.2,Poor,Often,Below Average,3.11,,Withdrawn,Daily,TRUE,TRUE,FALSE,TRUE,FALSE,4.8,5.9,6,3.6,41.3,7,High
+GD0679,18,Male,3.5,Strategy,Civilization VI,Mobile,8.8,Fair,Sometimes,Below Average,2.01,,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,7.5,1,11.2,24.33,5,Low
+GD0680,15,Female,6.4,Mobile Games,Clash of Clans,PC,5.7,Poor,Often,Average,1.46,,Restless,Daily,FALSE,FALSE,FALSE,FALSE,TRUE,0.9,5.1,5,5.5,84.7,2,Low
+GD0681,19,Male,8.2,FPS,Valorant,Mobile,4,Poor,Sometimes,Below Average,1.1,4,Euphoric,Often,FALSE,FALSE,TRUE,FALSE,TRUE,1.1,5.2,4,4.5,41.81,1,Moderate
+GD0682,15,Male,0.7,MOBA,Dota 2,PC,7.5,Good,Often,Good,3.68,,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0,10.6,1,16.5,15.58,2,Low
+GD0683,17,Female,3.7,RPG,Skyrim,PC,5.6,Very Poor,Often,Average,1.27,,Angry,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,9.7,3,10.9,23.73,1,Low
+GD0684,20,Female,2,MOBA,Dota 2,Mobile,7.9,Good,Always,Average,3.82,4,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,10.4,2,12.2,10.61,10,Low
+GD0685,23,Female,9.7,FPS,Call of Duty,Multi-platform,5.7,Very Poor,Always,Below Average,,3,Normal,Sometimes,FALSE,FALSE,TRUE,TRUE,FALSE,1,3.2,6,3.1,118.63,11,High
+GD0686,15,Female,4.3,Mobile Games,Clash of Clans,Multi-platform,5,Poor,Never,Poor,3.12,,Angry,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,7.6,4,8.6,8.15,2,Low
+GD0687,22,Male,3.5,FPS,CS:GO,Console,8.9,Good,Always,Average,2.17,8,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,8.1,1,8.6,44.2,3,Low
+GD0688,19,Female,12.3,FPS,Valorant,PC,3.5,Fair,Sometimes,Poor,2.55,2,Restless,Never,TRUE,TRUE,FALSE,FALSE,TRUE,1.6,4.4,9,1.6,413.29,9,Severe
+GD0689,16,Male,3.8,FPS,CS:GO,Mobile,5,Poor,Rarely,Good,1.68,,Excited,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,9.2,2,9.8,34.33,4,Low
+GD0690,16,Male,10.9,RPG,Cyberpunk 2077,Console,5.3,Poor,Never,Below Average,1.71,,Depressed,Often,TRUE,TRUE,FALSE,FALSE,TRUE,5,5.9,9,0,52.19,2,Severe
+GD0691,26,Male,4.8,FPS,Valorant,Multi-platform,6.3,Good,Rarely,Average,,10,Anxious,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,2.3,9.2,4,6.6,107.55,3,Low
+GD0692,23,Male,3.8,RPG,Skyrim,PC,5.5,Poor,Rarely,Failing,,1,Excited,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,7.5,3,10.6,32.76,10,Low
+GD0693,19,Male,12.5,FPS,CS:GO,Multi-platform,5.7,Insomnia,Rarely,Average,1.55,3,Irritable,Daily,FALSE,FALSE,FALSE,TRUE,TRUE,1.3,2.4,9,0,376.05,6,Moderate
+GD0694,22,Other,4.4,Battle Royale,Warzone,Console,6.6,Poor,Often,Below Average,1.66,9,Angry,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,6.4,2,10.2,17.3,4,Low
+GD0695,16,Male,11.4,Strategy,Age of Empires,Console,3.3,Poor,Often,Poor,1.49,,Euphoric,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,2.9,3.9,7,2.3,233.11,4,High
+GD0696,27,Male,8.9,RPG,Elden Ring,Mobile,4.4,Poor,Never,Poor,,9,Anxious,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,5.8,6,3.3,258.94,1,Moderate
+GD0697,24,Male,2.3,Battle Royale,Apex Legends,Console,8.5,Fair,Never,Good,,5,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,9.5,1,14.1,6.27,2,Low
+GD0698,16,Other,4.7,MMO,World of Warcraft,Console,6.2,Fair,Never,Excellent,3.71,,Angry,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9.2,2,7.1,24.44,1,Low
+GD0699,15,Female,5,Strategy,Civilization VI,PC,6.4,Good,Always,Good,1.54,,Normal,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.3,5.8,2,11.5,10.19,2,Low
+GD0700,17,Male,3,FPS,CS:GO,Mobile,8.4,Poor,Sometimes,Average,1.99,,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,3.4,9.1,1,12.2,30.68,1,Low
+GD0701,17,Male,7.1,RPG,Cyberpunk 2077,Console,5,Poor,Never,Failing,2.91,,Anxious,Sometimes,FALSE,FALSE,FALSE,TRUE,TRUE,0.6,6.4,6,5.4,49.26,4,Low
+GD0702,19,Female,8.5,MOBA,Dota 2,Mobile,3.3,Poor,Sometimes,Excellent,1.77,8,Depressed,Never,TRUE,TRUE,FALSE,TRUE,TRUE,1.2,4.7,5,3.8,354.28,6,Severe
+GD0703,25,Female,4.8,MOBA,Mobile Legends,Mobile,6,Fair,Rarely,Below Average,,3,Irritable,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,9.2,2,9.7,35.97,13,Low
+GD0704,27,Male,1.7,RPG,Cyberpunk 2077,Console,7.7,Fair,Rarely,Excellent,,6,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,7,1,10.9,15.3,14,Low
+GD0705,20,Male,8.3,MOBA,Mobile Legends,Multi-platform,5.9,Very Poor,Often,Excellent,1.09,10,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,4,6,3.6,69.71,2,Low
+GD0706,17,Male,12.1,Mobile Games,Genshin Impact,PC,5.6,Insomnia,Rarely,Below Average,1.75,,Normal,Rarely,TRUE,FALSE,TRUE,TRUE,TRUE,6,3,8,2.6,380.39,4,Severe
+GD0707,17,Female,5.8,Battle Royale,Warzone,Multi-platform,6.8,Very Poor,Always,Below Average,2.7,,Angry,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,0.3,5.2,3,9.5,123.39,3,Moderate
+GD0708,17,Female,8.5,Mobile Games,PUBG Mobile,Multi-platform,3.9,Poor,Always,Poor,1.42,,Restless,Daily,TRUE,TRUE,FALSE,FALSE,FALSE,1.5,3.6,8,3.8,200.6,4,Severe
+GD0709,19,Male,3.9,Battle Royale,Warzone,Mobile,5.3,Very Poor,Never,Good,1.56,1,Depressed,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,7.9,1,9.5,27.46,5,Low
+GD0710,24,Female,3.7,MOBA,Mobile Legends,Mobile,5.5,Fair,Always,Good,,9,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1,7.7,1,9.7,30.53,7,Low
+GD0711,21,Male,10.4,MOBA,Dota 2,Multi-platform,5.7,Very Poor,Never,Failing,2.21,10,Depressed,Never,TRUE,TRUE,FALSE,TRUE,TRUE,1.1,3.9,6,5.8,380.83,4,Severe
+GD0712,28,Female,6.4,RPG,Cyberpunk 2077,Mobile,6.5,Very Poor,Sometimes,Below Average,,1,Irritable,Daily,FALSE,TRUE,FALSE,FALSE,TRUE,1.5,8.2,4,8.9,86.39,3,Moderate
+GD0713,19,Male,10,RPG,Elden Ring,Multi-platform,5.4,Good,Rarely,Failing,3.7,9,Anxious,Daily,FALSE,FALSE,TRUE,TRUE,FALSE,1,5.8,5,3.9,270.84,6,High
+GD0714,20,Male,11.1,FPS,Valorant,Mobile,5.6,Fair,Rarely,Poor,1.98,6,Restless,Sometimes,TRUE,TRUE,TRUE,FALSE,TRUE,0.4,5.8,6,2,396,4,Severe
+GD0715,19,Male,6.7,Mobile Games,Candy Crush,Console,4.9,Fair,Often,Good,3.55,4,Anxious,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,3.4,6.4,5,8.2,56.05,5,Moderate
+GD0716,24,Male,5.9,FPS,CS:GO,PC,6.8,Good,Rarely,Average,,3,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,6.6,4,6.7,37.44,14,Low
+GD0717,30,Male,3,RPG,Cyberpunk 2077,Multi-platform,8.3,Good,Always,Good,,6,Excited,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1,7.4,1,12.2,13.32,11,Low
+GD0718,17,Male,6.6,MOBA,Dota 2,Console,4.8,Fair,Never,Average,3.92,,Angry,Daily,TRUE,TRUE,FALSE,TRUE,FALSE,0.3,6.8,3,5.2,17,3,High
+GD0719,21,Male,11.7,FPS,Overwatch,Mobile,6,Very Poor,Never,Poor,3.05,5,Depressed,Often,FALSE,TRUE,FALSE,TRUE,TRUE,0.8,5.1,7,0,303.54,1,High
+GD0720,23,Female,13,RPG,Elden Ring,Console,5.2,Insomnia,Sometimes,Below Average,,7,Anxious,Daily,TRUE,TRUE,FALSE,TRUE,FALSE,6.4,5.1,8,0,239.25,6,Severe
+GD0721,14,Male,4.3,Mobile Games,Candy Crush,Mobile,5.6,Fair,Rarely,Average,2.63,,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0,6.6,2,9.7,27.9,3,Low
+GD0722,21,Male,4.8,MOBA,Dota 2,Multi-platform,7,Poor,Often,Poor,2.42,3,Angry,Never,FALSE,FALSE,FALSE,TRUE,FALSE,2.7,6,2,7.7,110.49,10,Low
+GD0723,23,Male,3.9,Strategy,Civilization VI,Multi-platform,6.7,Poor,Always,Poor,,8,Angry,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,7.2,2,10.4,29.56,5,Low
+GD0724,17,Female,5.1,Mobile Games,Clash of Clans,PC,7,Good,Often,Below Average,3.96,,Normal,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.3,5.8,1,10.6,97.92,6,Low
+GD0725,19,Male,7.8,MOBA,Mobile Legends,Mobile,4.1,Very Poor,Sometimes,Poor,1.74,4,Anxious,Daily,TRUE,TRUE,TRUE,FALSE,TRUE,1.5,7.2,6,7.1,106.73,2,Severe
+GD0726,18,Female,2.1,Battle Royale,Fortnite,Multi-platform,8.6,Good,Sometimes,Average,1.86,,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,9.3,1,9.8,49.39,5,Low
+GD0727,17,Female,6.2,Mobile Games,Genshin Impact,Mobile,5.7,Fair,Sometimes,Below Average,2.22,,Angry,Often,FALSE,TRUE,FALSE,TRUE,TRUE,2.2,5.2,4,5.2,37,6,Moderate
+GD0728,17,Male,6.3,MOBA,Mobile Legends,Console,6.6,Fair,Often,Average,3.01,,Anxious,Never,FALSE,TRUE,FALSE,TRUE,TRUE,2,6.9,2,8.6,147.26,2,Moderate
+GD0729,21,Male,8.4,FPS,Valorant,Multi-platform,5.1,Poor,Never,Below Average,2.38,10,Anxious,Rarely,TRUE,TRUE,TRUE,FALSE,TRUE,1.8,5.8,6,2.8,73.12,8,Severe
+GD0730,22,Male,10.3,Strategy,Age of Empires,PC,5.8,Poor,Sometimes,Poor,2.9,10,Irritable,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,3.9,4.1,6,2.9,446.66,11,Severe
+GD0731,17,Female,3.2,Battle Royale,Fortnite,PC,7.2,Good,Never,Poor,3.6,,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,7.9,1,13.8,12.37,3,Low
+GD0732,28,Female,8.6,MOBA,League of Legends,Multi-platform,4.2,Fair,Rarely,Average,,2,Anxious,Sometimes,FALSE,TRUE,TRUE,FALSE,TRUE,3.7,5.3,6,4.8,309.02,9,Severe
+GD0733,19,Female,4.3,Battle Royale,Fortnite,Console,5.5,Fair,Often,Below Average,1.96,1,Depressed,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1,8.2,3,8.1,18.74,4,Low
+GD0734,23,Male,5.4,Battle Royale,Warzone,Multi-platform,6.7,Good,Often,Average,,9,Normal,Never,FALSE,FALSE,FALSE,TRUE,FALSE,0,7.2,3,12,101.27,10,Low
+GD0735,17,Female,4.4,FPS,Overwatch,Mobile,6.1,Fair,Never,Poor,1.03,,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,9.5,2,8.1,35.72,5,Low
+GD0736,18,Male,11.4,Battle Royale,Fortnite,Mobile,4.6,Very Poor,Sometimes,Below Average,1.61,,Anxious,Often,TRUE,FALSE,FALSE,FALSE,TRUE,2.5,5.1,8,0.2,151.46,5,High
+GD0737,17,Male,8.6,RPG,Skyrim,Multi-platform,4.9,Poor,Never,Poor,2.95,,Irritable,Often,TRUE,TRUE,TRUE,TRUE,TRUE,2.6,5.6,5,3.8,123.19,7,Severe
+GD0738,15,Female,7,Strategy,Civilization VI,PC,4,Poor,Rarely,Failing,1.93,,Anxious,Often,TRUE,FALSE,FALSE,TRUE,TRUE,0.1,8.4,4,3.7,65.22,5,Moderate
+GD0739,29,Male,5.8,MMO,World of Warcraft,Console,6.6,Good,Rarely,Poor,,1,Normal,Rarely,FALSE,TRUE,FALSE,FALSE,TRUE,0.5,7.7,4,9.5,27.31,4,Moderate
+GD0740,17,Male,6.2,Strategy,Civilization VI,PC,5.4,Poor,Rarely,Average,3.01,,Anxious,Never,FALSE,FALSE,FALSE,TRUE,FALSE,2.2,7,5,6.2,115.5,7,Low
+GD0741,17,Male,6.3,MMO,Elder Scrolls Online,PC,6.2,Very Poor,Often,Good,2.75,,Restless,Sometimes,FALSE,FALSE,FALSE,TRUE,TRUE,0.8,7.9,3,7.5,35.84,7,Low
+GD0742,22,Male,13.5,FPS,Overwatch,Mobile,4.3,Very Poor,Never,Poor,1.93,10,Restless,Often,FALSE,TRUE,FALSE,TRUE,FALSE,0.8,2,10,0,52.68,8,High
+GD0743,26,Male,7.4,Mobile Games,Genshin Impact,PC,3,Fair,Often,Poor,,3,Euphoric,Daily,TRUE,TRUE,FALSE,TRUE,FALSE,0.8,7.7,4,5,75.3,2,High
+GD0744,20,Male,1.2,MOBA,Dota 2,Multi-platform,8.2,Fair,Rarely,Average,1.86,10,Restless,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,9.7,1,15.1,39.28,1,Low
+GD0745,18,Male,2.3,Strategy,Age of Empires,Mobile,7.4,Fair,Often,Excellent,1.76,,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,10.2,2,12.9,35.69,6,Low
+GD0746,22,Female,4.6,MOBA,League of Legends,Console,6,Fair,Never,Excellent,1.71,2,Euphoric,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.5,7.5,3,9,46.89,11,Low
+GD0747,29,Male,0.7,MOBA,Mobile Legends,Multi-platform,7.3,Fair,Sometimes,Below Average,,4,Restless,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,8.5,1,11.8,46.38,15,Low
+GD0748,18,Male,0.6,Mobile Games,Candy Crush,Console,8.1,Fair,Often,Good,1.46,,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,10.8,1,13.5,36.92,8,Low
+GD0749,19,Male,4.8,Mobile Games,Genshin Impact,PC,6.8,Poor,Often,Average,3.46,6,Euphoric,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,1.3,8.4,3,11.1,47.78,4,Low
+GD0750,23,Male,5.5,MMO,World of Warcraft,Console,6.3,Poor,Never,Poor,,6,Excited,Rarely,FALSE,FALSE,FALSE,TRUE,TRUE,1.7,6.6,4,7.6,51.25,8,Low
+GD0751,18,Male,6.3,RPG,Skyrim,Multi-platform,5.6,Good,Never,Good,1.02,,Irritable,Often,FALSE,TRUE,FALSE,TRUE,FALSE,0.7,5.8,4,10.8,10.47,5,Moderate
+GD0752,21,Male,11.9,Strategy,StarCraft II,Console,4.2,Poor,Always,Poor,3.34,3,Anxious,Never,TRUE,TRUE,TRUE,TRUE,TRUE,2.6,4.1,8,2.6,374.32,10,Severe
+GD0753,21,Male,4.1,RPG,Elden Ring,PC,5.2,Fair,Always,Good,2.63,9,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1.3,8.7,3,11.2,45.63,2,Low
+GD0754,19,Female,0.8,FPS,Call of Duty,PC,7.4,Fair,Sometimes,Good,1.43,2,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,8.8,1,11.8,35.12,3,Low
+GD0755,17,Female,3.7,Strategy,StarCraft II,PC,5.5,Fair,Rarely,Average,1.86,,Euphoric,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,6.3,1,11,22.33,7,Low
+GD0756,23,Male,11,MOBA,League of Legends,Multi-platform,3.4,Very Poor,Always,Poor,,6,Restless,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,2.5,4.5,7,0,144.47,8,Severe
+GD0757,27,Male,1.5,FPS,Valorant,Mobile,9,Good,Sometimes,Average,,3,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,10.4,1,12,10.08,12,Low
+GD0758,17,Male,6.6,Mobile Games,Clash of Clans,PC,3.7,Poor,Always,Below Average,1.5,,Angry,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,1.2,5.5,6,5.3,29.91,7,High
+GD0759,16,Female,5.9,RPG,Skyrim,Console,6.6,Fair,Always,Below Average,1.77,,Anxious,Sometimes,FALSE,TRUE,FALSE,TRUE,TRUE,0.2,5.9,3,6.5,19.38,2,Moderate
+GD0760,33,Female,5.5,MOBA,League of Legends,PC,6.1,Good,Never,Below Average,,5,Normal,Never,FALSE,TRUE,FALSE,FALSE,FALSE,1.4,8.1,3,6.4,82.37,6,Moderate
+GD0761,16,Male,11.4,MOBA,League of Legends,Console,3,Poor,Always,Below Average,3.91,,Anxious,Sometimes,TRUE,FALSE,TRUE,FALSE,TRUE,1.5,5.6,7,3.1,73.87,2,Severe
+GD0762,18,Female,2.7,MMO,Elder Scrolls Online,Multi-platform,8.6,Good,Often,Excellent,3.85,,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,6.9,1,9.7,42.45,3,Low
+GD0763,22,Male,5.5,FPS,Valorant,Console,6,Insomnia,Often,Average,1.06,1,Normal,Never,FALSE,FALSE,FALSE,TRUE,FALSE,0.8,8.8,3,9.6,91.34,10,Low
+GD0764,15,Male,7.3,MOBA,Mobile Legends,Mobile,4.5,Very Poor,Never,Average,2.89,,Anxious,Daily,TRUE,TRUE,FALSE,TRUE,TRUE,1.6,4.9,5,6,115.77,1,High
+GD0765,24,Male,7.7,MMO,World of Warcraft,Mobile,3.2,Poor,Often,Failing,,8,Euphoric,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,1,5.7,3,4,30.64,7,High
+GD0766,19,Female,8.3,Battle Royale,Apex Legends,Console,5.5,Poor,Always,Average,1.44,10,Restless,Sometimes,TRUE,TRUE,TRUE,FALSE,TRUE,1.4,4.4,5,8.2,10.32,4,Severe
+GD0767,19,Male,9.5,MMO,Elder Scrolls Online,Multi-platform,4.6,Very Poor,Often,Below Average,3.65,1,Normal,Daily,TRUE,FALSE,FALSE,FALSE,TRUE,3.4,3.7,6,6.9,336.84,7,High
+GD0768,20,Female,10,Battle Royale,PUBG,Multi-platform,5.3,Very Poor,Never,Below Average,2.71,7,Irritable,Never,TRUE,FALSE,FALSE,FALSE,TRUE,5.7,6.9,5,2,386.2,4,High
+GD0769,27,Male,2.8,Battle Royale,Fortnite,Console,7.3,Good,Often,Average,,7,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,2.2,9.3,1,11.2,16.42,14,Low
+GD0770,21,Male,8.6,MOBA,League of Legends,Multi-platform,4,Fair,Sometimes,Poor,2.67,4,Anxious,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,1.6,6.9,5,1.7,471.04,2,Severe
+GD0771,16,Female,4.9,Strategy,StarCraft II,PC,5.1,Poor,Always,Average,3.44,,Euphoric,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.8,9.2,3,9.8,89.56,2,Low
+GD0772,17,Male,3.4,RPG,Skyrim,PC,8.8,Good,Sometimes,Good,2.86,,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,8.5,1,9.5,13.73,5,Low
+GD0773,19,Male,2.2,FPS,Valorant,Console,8.9,Good,Always,Good,1.03,10,Excited,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9,1,14,38.09,3,Low
+GD0774,20,Female,4.2,RPG,Elden Ring,Console,6.1,Fair,Often,Below Average,2.77,2,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.2,7.8,3,10.9,22.92,1,Low
+GD0775,18,Male,5,Strategy,Age of Empires,PC,6.4,Fair,Often,Below Average,2.76,,Restless,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.8,5.7,3,8.8,130.46,5,Low
+GD0776,21,Other,7.9,Strategy,StarCraft II,PC,5.1,Poor,Rarely,Poor,1.63,6,Anxious,Sometimes,FALSE,TRUE,FALSE,FALSE,FALSE,1.6,5.8,4,6.3,70.68,9,Moderate
+GD0777,21,Female,10.7,Mobile Games,PUBG Mobile,Console,3.7,Very Poor,Often,Average,1.13,6,Depressed,Sometimes,TRUE,FALSE,FALSE,TRUE,TRUE,0.1,5.7,8,0.7,394.92,2,High
+GD0778,25,Male,8.6,Battle Royale,Fortnite,PC,5.1,Poor,Often,Below Average,,9,Anxious,Daily,FALSE,FALSE,TRUE,FALSE,TRUE,2.8,6.6,6,5.5,141.47,5,High
+GD0779,28,Female,8.8,MOBA,League of Legends,Console,4.8,Poor,Rarely,Failing,,5,Irritable,Sometimes,FALSE,FALSE,TRUE,FALSE,TRUE,4.2,7.4,6,2.5,442.42,5,High
+GD0780,23,Male,3.4,Battle Royale,Fortnite,Mobile,7.5,Good,Sometimes,Good,,6,Irritable,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.9,1,13.9,36.34,9,Low
+GD0781,21,Female,6.3,FPS,Valorant,PC,6.1,Good,Never,Poor,1.67,4,Normal,Rarely,FALSE,TRUE,FALSE,TRUE,TRUE,4.1,5.1,2,9.6,120.62,11,Moderate
+GD0782,18,Male,2.1,FPS,Valorant,PC,7.4,Good,Never,Excellent,1.79,,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,10.6,2,11.1,39.9,3,Low
+GD0783,17,Male,4.6,RPG,Cyberpunk 2077,Multi-platform,5.1,Fair,Never,Below Average,1.44,,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,2,6.1,3,10.6,15.54,3,Low
+GD0784,25,Female,9.8,Mobile Games,Clash of Clans,Console,5.2,Fair,Always,Poor,,7,Euphoric,Often,TRUE,TRUE,TRUE,FALSE,FALSE,8.1,3.2,6,2.2,63.25,10,Severe
+GD0785,20,Male,3,Battle Royale,Fortnite,Mobile,8.1,Good,Never,Excellent,3.26,1,Excited,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,9.7,1,8.9,34.88,1,Low
+GD0786,14,Female,2.9,Mobile Games,Candy Crush,Mobile,8.7,Good,Always,Excellent,1.86,,Angry,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,9.2,1,12.3,0.78,4,Low
+GD0787,15,Male,5.8,MMO,Elder Scrolls Online,Multi-platform,6.6,Fair,Often,Good,1.45,,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,7.6,4,7.5,10.87,5,Low
+GD0788,22,Male,5.7,RPG,Elden Ring,PC,6.8,Fair,Always,Good,3.89,6,Depressed,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1.9,6.1,3,6.5,44.8,9,Low
+GD0789,19,Male,7,Strategy,Civilization VI,Console,3.8,Fair,Always,Excellent,3.08,1,Euphoric,Never,TRUE,TRUE,FALSE,FALSE,TRUE,3.3,7,2,9.2,61.59,8,High
+GD0790,15,Female,7.9,RPG,Skyrim,Multi-platform,4.3,Good,Often,Poor,3.4,,Euphoric,Often,FALSE,FALSE,FALSE,TRUE,TRUE,0.7,7.3,5,4.6,80.06,4,Low
+GD0791,20,Male,7,Strategy,Civilization VI,PC,3.6,Very Poor,Never,Poor,1.4,3,Angry,Often,FALSE,TRUE,FALSE,TRUE,TRUE,4,7.6,5,7.2,23.82,3,Moderate
+GD0792,34,Male,1.4,Mobile Games,PUBG Mobile,Multi-platform,8.3,Good,Often,Good,,9,Restless,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,10.4,1,13.5,48.31,16,Low
+GD0793,18,Female,8.7,MMO,Final Fantasy XIV,Console,6,Very Poor,Often,Below Average,2.87,,Depressed,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,6.7,6.6,5,2.6,486.6,1,Severe
+GD0794,16,Female,6,Battle Royale,Fortnite,Console,6,Fair,Always,Good,1.35,,Anxious,Never,FALSE,TRUE,FALSE,FALSE,TRUE,0.5,6,3,5.5,134.04,5,Moderate
+GD0795,17,Female,4.7,Strategy,Civilization VI,PC,5,Good,Never,Good,3.27,,Irritable,Often,FALSE,FALSE,FALSE,TRUE,FALSE,3.1,7.9,3,10.2,22.32,7,Low
+GD0796,20,Female,3.9,Strategy,StarCraft II,PC,6,Good,Often,Below Average,1.16,1,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.3,8.9,3,8.6,28.45,6,Low
+GD0797,18,Male,7.1,Battle Royale,Apex Legends,Multi-platform,4.4,Very Poor,Always,Below Average,1.49,,Anxious,Rarely,TRUE,TRUE,FALSE,TRUE,TRUE,0.4,6.3,4,6.8,94.86,2,High
+GD0798,20,Male,2.9,MMO,Elder Scrolls Online,Mobile,7.7,Good,Sometimes,Excellent,2.13,7,Euphoric,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,8.7,1,8.9,41.86,8,Low
+GD0799,22,Female,6.7,RPG,Cyberpunk 2077,Multi-platform,4,Poor,Sometimes,Below Average,3.55,4,Anxious,Daily,TRUE,FALSE,FALSE,TRUE,TRUE,3,4.6,4,8.1,59.16,11,Moderate
+GD0800,27,Male,7.6,MMO,World of Warcraft,Mobile,3.3,Poor,Often,Good,,5,Withdrawn,Often,TRUE,FALSE,FALSE,TRUE,TRUE,2.2,4.6,4,2.8,114.21,15,Moderate
+GD0801,17,Male,6.6,MMO,World of Warcraft,Mobile,5.8,Very Poor,Never,Below Average,3.68,,Anxious,Often,TRUE,FALSE,FALSE,TRUE,TRUE,0.3,5.3,5,6.4,59.22,4,Moderate
+GD0802,19,Male,5.3,RPG,Cyberpunk 2077,PC,5.5,Poor,Never,Average,2.26,2,Angry,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,5.6,3,9.2,112.89,6,Low
+GD0803,17,Other,5.6,RPG,Skyrim,Multi-platform,6.3,Very Poor,Often,Excellent,1.82,,Depressed,Often,FALSE,TRUE,FALSE,TRUE,FALSE,2.5,7.3,3,9.9,148.83,5,Moderate
+GD0804,15,Male,3.4,MOBA,Mobile Legends,Console,8.4,Good,Sometimes,Below Average,3.17,,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1,7.2,3,11.9,28.03,4,Low
+GD0805,15,Male,8.2,Strategy,StarCraft II,Mobile,5.3,Poor,Always,Below Average,2.36,,Anxious,Often,FALSE,FALSE,FALSE,TRUE,FALSE,1.6,5.8,5,4.6,88.12,1,Low
+GD0806,22,Male,10.5,FPS,Overwatch,Console,4.8,Very Poor,Always,Poor,1.41,6,Irritable,Often,TRUE,TRUE,TRUE,TRUE,FALSE,3.1,4.9,6,0.1,443.88,11,Severe
+GD0807,22,Male,7.4,RPG,Cyberpunk 2077,PC,3.2,Very Poor,Always,Below Average,2.8,5,Angry,Often,FALSE,TRUE,FALSE,TRUE,FALSE,2.6,8.2,4,4.6,20.41,6,Moderate
+GD0808,27,Male,4.7,Battle Royale,PUBG,Mobile,5.9,Poor,Never,Below Average,,6,Depressed,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,5.9,1,11.6,121.89,6,Low
+GD0809,16,Male,5,Mobile Games,PUBG Mobile,PC,6.1,Fair,Sometimes,Below Average,3.18,,Anxious,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,8.8,2,9.7,90.52,2,Low
+GD0810,22,Male,4.9,Strategy,StarCraft II,Mobile,5.3,Poor,Often,Below Average,3.98,9,Angry,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.4,8.9,5,8.9,40.15,6,Low
+GD0811,14,Male,8.7,RPG,Cyberpunk 2077,PC,5.1,Poor,Always,Below Average,2.07,,Euphoric,Sometimes,FALSE,TRUE,TRUE,TRUE,TRUE,1.5,7.2,6,5.2,259.52,3,Severe
+GD0812,19,Male,1.7,RPG,Cyberpunk 2077,Multi-platform,7.4,Poor,Sometimes,Good,2.27,3,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,9.3,1,11.2,16.37,5,Low
+GD0813,18,Male,6.8,Mobile Games,Genshin Impact,PC,5.2,Insomnia,Always,Failing,3.29,,Anxious,Often,TRUE,FALSE,FALSE,FALSE,TRUE,0.2,6.8,6,7.9,26.83,7,Moderate
+GD0814,24,Male,8.9,MMO,Final Fantasy XIV,PC,4.7,Very Poor,Never,Good,,4,Restless,Often,TRUE,TRUE,FALSE,TRUE,TRUE,5,4.3,7,2.8,391.6,5,Severe
+GD0815,25,Male,4.2,RPG,Elden Ring,Console,5.3,Good,Often,Excellent,,5,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,1.1,8.5,2,12.8,48.39,13,Low
+GD0816,18,Male,6.9,Strategy,Civilization VI,Console,5.7,Poor,Often,Below Average,3.77,,Restless,Sometimes,TRUE,TRUE,FALSE,FALSE,FALSE,3.6,7.5,3,9.4,146.82,7,High
+GD0817,27,Male,6,MOBA,Dota 2,Multi-platform,6.3,Very Poor,Rarely,Excellent,,10,Euphoric,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,1.1,5.6,3,9.4,107.64,10,Moderate
+GD0818,19,Male,11,Mobile Games,Clash of Clans,Console,5.3,Insomnia,Sometimes,Failing,1.88,9,Euphoric,Often,FALSE,FALSE,FALSE,TRUE,FALSE,1.4,4.7,6,0,341.34,1,Moderate
+GD0819,18,Male,11.9,MOBA,Dota 2,Multi-platform,5.7,Good,Always,Average,1.03,,Restless,Daily,TRUE,TRUE,FALSE,TRUE,FALSE,0.7,3.6,7,1.7,97.11,8,Severe
+GD0820,18,Male,6.3,RPG,Skyrim,Multi-platform,6,Fair,Often,Average,3.41,,Irritable,Rarely,FALSE,TRUE,FALSE,TRUE,FALSE,0.2,6.2,3,5.8,147.18,5,Moderate
+GD0821,21,Male,2.2,Mobile Games,Candy Crush,Console,7.7,Fair,Often,Excellent,3.16,1,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0,9.8,1,14.8,0.44,5,Low
+GD0822,23,Female,6.2,MOBA,Dota 2,Mobile,5.3,Good,Sometimes,Good,,10,Anxious,Daily,FALSE,TRUE,FALSE,FALSE,FALSE,2.7,8.6,3,5.9,130.71,5,Moderate
+GD0823,22,Female,9.3,FPS,Call of Duty,Multi-platform,5.4,Very Poor,Often,Poor,3.56,10,Restless,Often,TRUE,TRUE,TRUE,TRUE,TRUE,1.5,3.7,6,4,377.17,1,Severe
+GD0824,20,Male,5.6,MOBA,Mobile Legends,Multi-platform,5.9,Fair,Never,Poor,3.33,9,Anxious,Rarely,FALSE,TRUE,FALSE,TRUE,TRUE,1.9,8,4,9,141.67,1,Moderate
+GD0825,20,Male,6.2,Battle Royale,Fortnite,PC,5.6,Good,Always,Good,2.19,3,Euphoric,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,0.2,8.5,3,10,142.95,6,Moderate
+GD0826,19,Female,7.1,MOBA,Mobile Legends,Mobile,5.1,Very Poor,Never,Average,1.38,6,Anxious,Daily,TRUE,FALSE,FALSE,TRUE,TRUE,1,5.2,3,9.6,83.29,6,Moderate
+GD0827,30,Male,7,Battle Royale,PUBG,Console,3.7,Fair,Often,Below Average,,1,Anxious,Daily,TRUE,TRUE,FALSE,FALSE,TRUE,4.7,8.5,4,6.8,44.15,5,High
+GD0828,16,Male,3.7,Strategy,Age of Empires,Multi-platform,6.6,Good,Always,Good,2.89,,Euphoric,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,9.2,3,12.8,6.16,4,Low
+GD0829,23,Male,3.3,Battle Royale,PUBG,Console,7.4,Fair,Often,Excellent,,3,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,6.8,1,8.8,44.8,6,Low
+GD0830,21,Male,7.6,Mobile Games,PUBG Mobile,Console,5.7,Poor,Rarely,Good,3.53,6,Anxious,Often,FALSE,TRUE,FALSE,TRUE,FALSE,0.8,6.4,3,7.1,80.72,2,Moderate
+GD0831,22,Female,6.4,Battle Royale,Warzone,Multi-platform,5.4,Very Poor,Sometimes,Average,2.18,2,Excited,Sometimes,FALSE,TRUE,FALSE,TRUE,FALSE,1.6,7.3,4,10.3,18.13,5,Moderate
+GD0832,24,Male,5,Battle Royale,Warzone,Console,5.1,Poor,Never,Below Average,,7,Restless,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0,8.4,4,11.4,120.77,2,Low
+GD0833,19,Female,4.2,Strategy,Age of Empires,PC,5.3,Very Poor,Never,Average,3.38,8,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,7.5,1,8.3,28.98,5,Low
+GD0834,23,Female,10.2,Strategy,Civilization VI,Mobile,5.1,Very Poor,Never,Below Average,,5,Anxious,Sometimes,TRUE,FALSE,TRUE,TRUE,TRUE,1,3.1,8,0.7,307.08,9,Severe
+GD0835,19,Male,5.1,MOBA,Mobile Legends,Console,6.5,Fair,Often,Below Average,2.29,3,Normal,Never,FALSE,FALSE,FALSE,TRUE,FALSE,1.4,7.1,3,9.3,111.43,7,Low
+GD0836,20,Female,8.1,Battle Royale,Fortnite,Console,5.7,Very Poor,Never,Poor,1.79,5,Euphoric,Never,TRUE,TRUE,TRUE,FALSE,TRUE,0.8,7.8,6,7.9,47.01,7,Severe
+GD0837,19,Male,6.9,Mobile Games,Clash of Clans,PC,3.5,Very Poor,Sometimes,Poor,2.07,2,Restless,Sometimes,TRUE,TRUE,FALSE,TRUE,FALSE,4.3,5.2,3,7.6,127.17,7,High
+GD0838,24,Male,4.5,Mobile Games,Genshin Impact,Multi-platform,6.6,Fair,Sometimes,Average,,5,Normal,Often,FALSE,FALSE,FALSE,TRUE,FALSE,2.2,8.5,2,6.3,145.25,3,Low
+GD0839,18,Female,6.1,RPG,Elden Ring,Multi-platform,6.6,Fair,Rarely,Excellent,3.87,,Normal,Often,FALSE,TRUE,FALSE,TRUE,FALSE,2.2,7.4,4,6.9,31.46,4,Moderate
+GD0840,27,Other,8.8,FPS,Call of Duty,Console,3.4,Very Poor,Rarely,Average,,10,Irritable,Daily,TRUE,TRUE,TRUE,FALSE,TRUE,0.5,6,6,5.2,66.85,7,Severe
+GD0841,19,Female,5.3,MMO,World of Warcraft,Multi-platform,5.7,Fair,Often,Below Average,1.54,9,Restless,Never,FALSE,FALSE,FALSE,TRUE,FALSE,1.9,5.7,5,6.6,36.25,2,Low
+GD0842,16,Male,9,FPS,Call of Duty,Multi-platform,5.8,Poor,Rarely,Poor,2.8,,Irritable,Rarely,TRUE,TRUE,TRUE,FALSE,TRUE,0.3,7,6,3.8,315.72,5,Severe
+GD0843,23,Male,8.3,Strategy,StarCraft II,PC,3.8,Very Poor,Always,Failing,,4,Restless,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,7.6,7.6,5,3.1,14.06,10,Low
+GD0844,20,Male,0.7,FPS,CS:GO,Mobile,7,Good,Always,Good,2.36,5,Euphoric,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.3,1,14.2,16.79,2,Low
+GD0845,19,Male,10.9,Strategy,StarCraft II,Console,5.7,Very Poor,Always,Good,2.39,5,Anxious,Never,TRUE,FALSE,TRUE,TRUE,TRUE,3.7,4.6,7,0,486.86,8,Severe
+GD0846,21,Female,10.1,Strategy,Civilization VI,PC,4.1,Poor,Always,Below Average,3.04,2,Anxious,Rarely,FALSE,FALSE,TRUE,TRUE,TRUE,2.4,5.2,8,0.8,216.97,9,High
+GD0847,20,Female,5.7,MMO,Elder Scrolls Online,Mobile,6.1,Fair,Rarely,Below Average,3.04,9,Depressed,Sometimes,FALSE,FALSE,FALSE,TRUE,TRUE,0.7,5,4,6.2,45.63,4,Low
+GD0848,21,Male,7,MMO,World of Warcraft,Console,5.9,Insomnia,Rarely,Failing,3.46,6,Restless,Often,TRUE,TRUE,FALSE,TRUE,TRUE,1.4,5.6,5,6.1,100.91,11,High
+GD0849,23,Male,7.3,MOBA,League of Legends,Multi-platform,5.6,Very Poor,Often,Poor,,4,Restless,Sometimes,FALSE,FALSE,FALSE,FALSE,TRUE,0.4,8.5,3,5.2,29.85,9,Low
+GD0850,21,Female,6.1,Strategy,Civilization VI,PC,6.4,Very Poor,Never,Poor,3.62,8,Irritable,Often,FALSE,TRUE,FALSE,FALSE,TRUE,1.9,5.1,4,9.4,102.56,11,Moderate
+GD0851,23,Male,7.1,MOBA,League of Legends,Multi-platform,3.7,Good,Never,Average,,5,Euphoric,Never,TRUE,TRUE,FALSE,TRUE,FALSE,0.6,6.4,4,4.5,89.72,5,High
+GD0852,15,Female,4.1,RPG,Skyrim,Multi-platform,6.2,Fair,Rarely,Excellent,2.62,,Anxious,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1,9.6,3,9.5,47,1,Low
+GD0853,23,Female,4.5,MMO,Final Fantasy XIV,Console,5.7,Very Poor,Often,Average,,9,Restless,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.4,7.1,3,7.4,40.72,12,Low
+GD0854,21,Other,5.2,RPG,Cyberpunk 2077,Multi-platform,5.9,Poor,Rarely,Average,3.62,6,Anxious,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,1.3,6.8,3,8.5,27.48,3,Low
+GD0855,18,Male,2.3,Strategy,StarCraft II,Multi-platform,7.9,Good,Rarely,Excellent,3.38,,Euphoric,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,10.8,1,13.8,40.47,2,Low
+GD0856,26,Other,9.1,MOBA,Dota 2,Mobile,5.7,Poor,Never,Below Average,,9,Depressed,Never,FALSE,FALSE,FALSE,TRUE,FALSE,0.9,6.7,6,3.2,413.14,9,Moderate
+GD0857,18,Male,8.2,MMO,World of Warcraft,Console,5.2,Very Poor,Never,Below Average,3.83,,Irritable,Rarely,FALSE,TRUE,TRUE,TRUE,FALSE,0.7,6.1,8,2.6,75.11,3,High
+GD0858,20,Male,4.5,MMO,Final Fantasy XIV,Console,6.6,Fair,Often,Good,2.23,6,Restless,Often,FALSE,FALSE,FALSE,TRUE,FALSE,0.1,6.2,4,10.6,25.62,1,Low
+GD0859,30,Male,6.3,Battle Royale,Fortnite,Console,6.5,Good,Rarely,Excellent,,1,Angry,Sometimes,FALSE,TRUE,FALSE,TRUE,FALSE,0.3,5.1,3,8.8,90.63,16,Moderate
+GD0860,24,Female,6.1,MMO,Elder Scrolls Online,PC,5.9,Fair,Sometimes,Below Average,,1,Depressed,Often,FALSE,FALSE,FALSE,TRUE,FALSE,2.7,5.4,4,10.4,49.79,10,Low
+GD0861,20,Male,8.1,Mobile Games,Clash of Clans,Console,3.3,Fair,Always,Failing,3.11,3,Euphoric,Sometimes,TRUE,TRUE,TRUE,FALSE,FALSE,0.3,6.2,6,8,84.8,8,Severe
+GD0862,23,Female,5.6,Mobile Games,PUBG Mobile,Console,5.2,Fair,Never,Below Average,,5,Normal,Never,FALSE,TRUE,FALSE,FALSE,TRUE,1.7,5.2,4,9.9,98.62,13,Moderate
+GD0863,19,Male,0.6,MOBA,Mobile Legends,Console,7.8,Fair,Always,Average,3.18,1,Restless,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0,8.9,2,13.2,20.33,3,Low
+GD0864,19,Male,6.6,MOBA,League of Legends,PC,6,Very Poor,Sometimes,Below Average,2.36,3,Normal,Rarely,TRUE,FALSE,FALSE,TRUE,FALSE,1.8,6.7,5,6.9,60.38,4,Moderate
+GD0865,18,Male,8,Mobile Games,PUBG Mobile,Mobile,4.5,Fair,Often,Below Average,3,,Irritable,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,3.1,5.3,5,3.5,14.54,8,High
+GD0866,19,Male,14.7,Mobile Games,Genshin Impact,Multi-platform,3.5,Poor,Never,Below Average,2.28,5,Withdrawn,Often,FALSE,TRUE,FALSE,TRUE,TRUE,2.1,1.3,10,0,178.29,1,High
+GD0867,23,Female,8.2,Battle Royale,Apex Legends,Console,5,Fair,Often,Below Average,,5,Restless,Rarely,TRUE,TRUE,TRUE,TRUE,FALSE,2.7,5.7,5,8.4,140.71,8,Severe
+GD0868,19,Female,4.3,Mobile Games,Candy Crush,Console,6.3,Fair,Rarely,Below Average,3.87,3,Irritable,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,8.5,2,8.3,24.27,5,Low
+GD0869,14,Male,3.8,FPS,CS:GO,Console,6.3,Poor,Sometimes,Below Average,1.12,,Angry,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,9.3,2,8.9,26,4,Low
+GD0870,17,Male,5.8,Mobile Games,Genshin Impact,Multi-platform,6.4,Good,Always,Average,1.49,,Euphoric,Often,FALSE,FALSE,FALSE,TRUE,TRUE,3.1,6.8,4,5.8,10.29,6,Low
+GD0871,13,Male,2.9,MOBA,Mobile Legends,Multi-platform,8.5,Fair,Sometimes,Good,2.27,,Euphoric,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,9.1,2,9.8,36,3,Low
+GD0872,14,Male,4.9,Battle Royale,Warzone,Mobile,6.1,Poor,Often,Excellent,1.78,,Normal,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.4,7.1,3,7.9,128.35,4,Low
+GD0873,17,Male,6.7,Battle Royale,PUBG,PC,3.4,Good,Rarely,Below Average,2.99,,Withdrawn,Never,TRUE,FALSE,FALSE,TRUE,FALSE,2.7,7.5,4,6.2,10.6,3,Moderate
+GD0874,25,Female,9.5,Battle Royale,Fortnite,PC,4.7,Poor,Sometimes,Below Average,,1,Angry,Daily,TRUE,FALSE,TRUE,FALSE,FALSE,1.1,5.5,7,1.9,204.58,13,Severe
+GD0875,15,Male,5.7,MMO,World of Warcraft,PC,6,Poor,Often,Below Average,2.59,,Withdrawn,Never,FALSE,FALSE,FALSE,FALSE,TRUE,1.6,6.5,4,7.1,30.98,2,Low
+GD0876,20,Male,7.1,FPS,Overwatch,Mobile,4.2,Fair,Always,Failing,2.85,7,Depressed,Daily,TRUE,TRUE,FALSE,FALSE,TRUE,1.1,6.6,4,6.6,78.44,2,High
+GD0877,27,Female,7.5,Mobile Games,PUBG Mobile,Multi-platform,3.4,Poor,Often,Average,,3,Irritable,Sometimes,FALSE,TRUE,FALSE,TRUE,TRUE,0.2,6.4,5,4.4,143.89,12,Moderate
+GD0878,22,Female,4.9,RPG,Elden Ring,Multi-platform,6.9,Fair,Rarely,Average,1.42,3,Normal,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1,9,2,11.6,85.49,1,Low
+GD0879,20,Female,5,Battle Royale,Fortnite,PC,5.9,Poor,Never,Average,1.85,1,Anxious,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,0.7,8.2,3,9.3,48.66,6,Low
+GD0880,18,Female,2,Mobile Games,Candy Crush,PC,8.5,Fair,Sometimes,Good,3.34,,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,8.2,1,13,14.51,5,Low
+GD0881,17,Male,5.8,MMO,World of Warcraft,Mobile,5.8,Fair,Rarely,Average,2.9,,Restless,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,0.7,7.5,5,8,40.86,7,Moderate
+GD0882,19,Male,4.9,MMO,World of Warcraft,PC,6.6,Fair,Often,Average,1.5,1,Euphoric,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.1,7.2,5,8.8,104.88,3,Low
+GD0883,25,Female,1.9,Strategy,StarCraft II,Multi-platform,8.5,Good,Always,Good,,3,Depressed,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.2,7.5,1,13.4,19.61,1,Low
+GD0884,25,Female,4.9,MOBA,Dota 2,Console,6.9,Poor,Always,Good,,10,Angry,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,2.1,6.3,5,7.5,109.21,1,Low
+GD0885,21,Male,2.6,MMO,Elder Scrolls Online,Multi-platform,7.2,Fair,Often,Good,2.22,4,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.4,7.8,1,13.6,35.73,8,Low
+GD0886,17,Male,1,Strategy,Civilization VI,PC,8.2,Good,Sometimes,Poor,3.18,,Excited,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,11.3,1,15.7,42.85,6,Low
+GD0887,19,Female,3.9,Mobile Games,Genshin Impact,PC,5.9,Poor,Always,Below Average,3.15,7,Depressed,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,6.3,1,9.4,29.14,1,Low
+GD0888,19,Male,6.4,MMO,World of Warcraft,Console,5.6,Fair,Never,Average,1.88,10,Depressed,Often,FALSE,TRUE,FALSE,TRUE,TRUE,1.3,6,4,8,126.52,7,Moderate
+GD0889,15,Female,9.5,Strategy,Civilization VI,Console,4.4,Poor,Rarely,Good,1.61,,Irritable,Never,FALSE,FALSE,FALSE,TRUE,TRUE,2.9,4.7,6,2.9,133.69,5,Moderate
+GD0890,20,Other,7.4,Strategy,Civilization VI,Console,5.6,Insomnia,Never,Below Average,2.55,1,Angry,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,1.1,6.8,4,5.2,101.34,9,High
+GD0891,25,Female,6.1,Battle Royale,Apex Legends,PC,6.4,Fair,Rarely,Excellent,,7,Restless,Often,FALSE,FALSE,FALSE,TRUE,FALSE,3.3,5.6,5,8.1,67.49,4,Low
+GD0892,28,Male,5.4,Strategy,Age of Empires,Mobile,6.4,Poor,Rarely,Good,,2,Irritable,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.2,8.3,6,11.2,49.34,18,Low
+GD0893,17,Male,7.2,Strategy,Civilization VI,PC,4.6,Very Poor,Rarely,Poor,1.4,,Anxious,Often,TRUE,FALSE,FALSE,FALSE,FALSE,3.1,6.2,3,4.4,59.25,4,Moderate
+GD0894,21,Male,1.7,MMO,World of Warcraft,Mobile,8.3,Poor,Rarely,Below Average,1.44,9,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,8.8,1,13.7,0.8,9,Low
+GD0895,20,Male,9.5,FPS,Call of Duty,PC,5.4,Poor,Always,Poor,2.79,2,Anxious,Daily,FALSE,TRUE,TRUE,TRUE,FALSE,2.3,7.5,6,2.5,72.16,7,Severe
+GD0896,30,Male,14.7,FPS,Call of Duty,Console,4.2,Poor,Sometimes,Failing,,5,Angry,Daily,FALSE,TRUE,TRUE,FALSE,TRUE,5,2.4,10,0,380.97,19,Severe
+GD0897,22,Other,5.8,MOBA,Mobile Legends,Console,6.5,Fair,Never,Good,1.13,9,Withdrawn,Sometimes,FALSE,TRUE,FALSE,TRUE,FALSE,1.2,7.7,4,9.7,114.03,3,Moderate
+GD0898,24,Male,1.9,Strategy,Civilization VI,Mobile,7.2,Good,Often,Good,,6,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,10.9,2,13.5,5.62,12,Low
+GD0899,22,Male,4.3,Mobile Games,Candy Crush,Multi-platform,5.2,Good,Sometimes,Excellent,2.47,9,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,1.2,7.9,1,12.5,33.26,5,Low
+GD0900,15,Male,6.6,RPG,Elden Ring,Console,4.1,Poor,Never,Failing,1.3,,Anxious,Sometimes,FALSE,TRUE,FALSE,TRUE,FALSE,3.7,5.9,4,7.6,92.99,5,Moderate
+GD0901,21,Male,6.3,MMO,Final Fantasy XIV,PC,5.1,Poor,Always,Good,2.01,6,Irritable,Sometimes,FALSE,TRUE,FALSE,TRUE,TRUE,1.6,7,3,5.3,14.97,5,Moderate
+GD0902,17,Male,2.8,Mobile Games,Genshin Impact,PC,7.2,Good,Rarely,Good,3.36,,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.6,10.2,2,10.5,49.53,5,Low
+GD0903,15,Male,8.1,MOBA,Dota 2,Multi-platform,4.9,Very Poor,Often,Average,2.72,,Angry,Daily,FALSE,TRUE,TRUE,TRUE,FALSE,1.2,6.4,4,6.6,60.41,3,High
+GD0904,27,Male,6.6,Mobile Games,Candy Crush,Console,5.1,Poor,Sometimes,Poor,,6,Anxious,Rarely,TRUE,FALSE,FALSE,TRUE,FALSE,2.5,6.1,5,3.8,59.86,2,Moderate
+GD0905,21,Female,5.8,MOBA,League of Legends,Multi-platform,6.2,Good,Rarely,Average,3.39,9,Depressed,Often,FALSE,TRUE,FALSE,TRUE,TRUE,4.4,5.8,3,6.2,107.95,10,Moderate
+GD0906,19,Male,1.9,FPS,Call of Duty,Multi-platform,7.6,Good,Sometimes,Excellent,1.69,9,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.5,10.5,2,10.2,16.99,4,Low
+GD0907,24,Female,4.3,MOBA,Dota 2,Console,6.9,Good,Always,Excellent,,6,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,6.1,1,9.7,33.21,13,Low
+GD0908,20,Male,5.4,MMO,Elder Scrolls Online,PC,6.9,Very Poor,Sometimes,Excellent,2.08,8,Euphoric,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,0.1,8.6,3,8.9,69.06,7,Low
+GD0909,18,Male,12,Mobile Games,PUBG Mobile,Multi-platform,5.8,Very Poor,Rarely,Poor,3.02,,Restless,Daily,FALSE,TRUE,TRUE,TRUE,FALSE,2.2,2.4,7,2.2,405.19,3,Severe
+GD0910,19,Male,8.8,MMO,Final Fantasy XIV,PC,3.5,Insomnia,Sometimes,Below Average,3.73,10,Irritable,Sometimes,TRUE,FALSE,TRUE,TRUE,FALSE,2.1,6.5,6,1.6,456.77,9,Severe
+GD0911,20,Other,3.9,RPG,Elden Ring,Multi-platform,6.8,Poor,Sometimes,Average,3.63,1,Irritable,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,6.5,2,11.6,45.92,8,Low
+GD0912,21,Male,11.6,RPG,Cyberpunk 2077,Multi-platform,3.7,Poor,Never,Failing,2.96,8,Angry,Sometimes,FALSE,TRUE,FALSE,TRUE,FALSE,3.2,4.1,8,3.1,131.29,9,High
+GD0913,28,Male,5.2,FPS,Call of Duty,PC,5.3,Good,Often,Good,,2,Irritable,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,2.7,8.2,3,9.8,12.79,18,Low
+GD0914,19,Male,4.1,FPS,CS:GO,Mobile,5.2,Fair,Sometimes,Good,3.98,9,Anxious,Never,FALSE,FALSE,FALSE,FALSE,FALSE,2.8,6.1,3,7.7,1.99,3,Low
+GD0915,30,Male,9.3,MOBA,Mobile Legends,PC,4.4,Very Poor,Sometimes,Poor,,6,Anxious,Sometimes,TRUE,TRUE,TRUE,TRUE,FALSE,4.4,4,4,6.9,458.97,18,Severe
+GD0916,19,Male,2.5,Battle Royale,Warzone,PC,7.4,Fair,Never,Average,1.5,9,Excited,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,9.7,3,14.4,45.05,5,Low
+GD0917,22,Male,3.6,Battle Royale,Warzone,Multi-platform,5.6,Poor,Never,Below Average,1.76,10,Irritable,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,8.3,1,11.6,1.38,1,Low
+GD0918,19,Female,8.9,Strategy,StarCraft II,Console,5.9,Very Poor,Sometimes,Failing,2.44,5,Withdrawn,Rarely,TRUE,TRUE,FALSE,TRUE,FALSE,0.8,5.6,5,2.6,190.37,7,Severe
+GD0919,20,Male,4.7,MOBA,Mobile Legends,PC,5.9,Fair,Sometimes,Average,3.63,8,Anxious,Rarely,FALSE,FALSE,FALSE,TRUE,FALSE,0.4,8.2,4,9.6,79.06,9,Low
+GD0920,22,Female,6.3,FPS,Call of Duty,PC,6.8,Poor,Rarely,Average,2.05,2,Angry,Never,FALSE,TRUE,FALSE,TRUE,TRUE,0.4,7.8,5,6.3,50.08,4,Moderate
+GD0921,20,Female,1.8,MOBA,League of Legends,Mobile,8.8,Good,Rarely,Good,3.8,7,Excited,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,7.8,1,10.2,47.37,9,Low
+GD0922,27,Male,12.4,Mobile Games,Clash of Clans,PC,5.1,Poor,Rarely,Good,,7,Depressed,Rarely,TRUE,TRUE,TRUE,FALSE,FALSE,1.4,2.9,8,0,331.29,2,Severe
+GD0923,17,Male,4.1,Mobile Games,Genshin Impact,Mobile,6.4,Good,Sometimes,Average,1.12,,Anxious,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,6.8,2,11.2,12.42,1,Low
+GD0924,18,Male,8.1,RPG,Elden Ring,Mobile,4.5,Poor,Always,Below Average,3.42,,Anxious,Often,TRUE,TRUE,FALSE,TRUE,FALSE,2.6,5,6,8.2,82.51,7,High
+GD0925,20,Male,11.2,Strategy,StarCraft II,Mobile,5,Poor,Always,Below Average,1.12,2,Anxious,Often,TRUE,TRUE,FALSE,TRUE,TRUE,5.5,5.7,6,2.3,339.42,9,Severe
+GD0926,26,Male,11.3,MOBA,Dota 2,Multi-platform,3.2,Very Poor,Sometimes,Poor,,7,Restless,Sometimes,TRUE,FALSE,TRUE,TRUE,TRUE,2.1,6.2,7,1.2,334.36,3,Severe
+GD0927,20,Male,4.7,Strategy,StarCraft II,Mobile,5.7,Good,Never,Excellent,2.63,8,Normal,Often,FALSE,FALSE,FALSE,TRUE,FALSE,1.8,7.3,1,7.7,74.39,9,Low
+GD0928,17,Male,5.6,Strategy,StarCraft II,Console,6.2,Very Poor,Rarely,Average,3.11,,Irritable,Sometimes,FALSE,TRUE,FALSE,TRUE,FALSE,2.4,8.6,3,5.6,36.12,3,Moderate
+GD0929,20,Male,5.6,MOBA,League of Legends,PC,5.4,Good,Sometimes,Below Average,3.24,3,Depressed,Rarely,FALSE,FALSE,FALSE,TRUE,TRUE,0.7,8.4,3,5,68.45,1,Low
+GD0930,28,Male,7.7,FPS,Overwatch,PC,3.1,Good,Never,Poor,,3,Irritable,Never,TRUE,FALSE,FALSE,TRUE,TRUE,1.8,7.2,5,7.8,129.71,5,Moderate
+GD0931,15,Male,5,RPG,Elden Ring,Multi-platform,5.6,Fair,Always,Average,3.43,,Anxious,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,7.7,4,11.1,36.8,2,Low
+GD0932,20,Other,10.2,Strategy,Civilization VI,Console,4.8,Very Poor,Never,Below Average,3.81,8,Euphoric,Daily,TRUE,TRUE,FALSE,FALSE,FALSE,1.7,3.9,5,5.7,312.2,8,Severe
+GD0933,15,Male,11.4,RPG,Elden Ring,Mobile,3.9,Very Poor,Never,Average,2.48,,Irritable,Daily,TRUE,TRUE,FALSE,FALSE,FALSE,8.7,5.9,9,2.9,367.71,2,Severe
+GD0934,28,Female,10.1,RPG,Cyberpunk 2077,Console,3.2,Good,Rarely,Failing,,7,Restless,Often,FALSE,FALSE,TRUE,TRUE,FALSE,2.7,4.4,9,2.8,154.85,15,High
+GD0935,20,Female,6.1,Battle Royale,Warzone,Console,6.3,Fair,Rarely,Good,3.58,6,Anxious,Daily,FALSE,TRUE,FALSE,TRUE,TRUE,0.2,8.4,3,7.8,135.6,2,Moderate
+GD0936,20,Male,9.8,Strategy,Civilization VI,Console,6,Fair,Always,Poor,2.02,6,Anxious,Rarely,TRUE,FALSE,TRUE,TRUE,TRUE,1.7,5.2,6,2,444.67,6,Severe
+GD0937,27,Male,4.9,FPS,Valorant,Console,6.1,Good,Sometimes,Average,,8,Depressed,Never,FALSE,FALSE,FALSE,FALSE,FALSE,2.2,6.7,2,6.4,36.17,14,Low
+GD0938,22,Female,3.4,FPS,Overwatch,Mobile,7.3,Good,Rarely,Excellent,2.91,1,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,9.3,3,14.1,47.32,12,Low
+GD0939,22,Male,8.6,Battle Royale,Apex Legends,Mobile,3.8,Very Poor,Often,Below Average,1.31,6,Irritable,Daily,TRUE,FALSE,FALSE,TRUE,FALSE,0.1,4.2,6,4.3,455.29,1,High
+GD0940,25,Male,11.8,RPG,Skyrim,PC,3.5,Poor,Never,Failing,,4,Anxious,Rarely,TRUE,TRUE,TRUE,TRUE,TRUE,7.6,2,8,0,227.37,14,Severe
+GD0941,24,Female,5.4,Mobile Games,PUBG Mobile,Mobile,5.7,Fair,Rarely,Average,,9,Irritable,Never,FALSE,FALSE,FALSE,TRUE,FALSE,0.1,6.2,4,10.9,88.2,13,Low
+GD0942,18,Male,3.8,MOBA,League of Legends,PC,6.8,Good,Sometimes,Average,3.48,,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,8.8,1,12.8,46.64,3,Low
+GD0943,16,Male,8.7,MMO,Elder Scrolls Online,PC,4.3,Fair,Always,Below Average,1.65,,Restless,Sometimes,TRUE,FALSE,FALSE,TRUE,FALSE,2.1,4.6,7,5.1,466.73,5,High
+GD0944,19,Male,11.3,Battle Royale,Fortnite,PC,4.5,Very Poor,Sometimes,Average,2.06,7,Anxious,Sometimes,TRUE,FALSE,TRUE,TRUE,FALSE,6.8,3.4,6,1.1,446.72,3,Severe
+GD0945,25,Female,3.7,FPS,Overwatch,Mobile,6.8,Good,Often,Average,,5,Anxious,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.4,8.2,2,9.2,27.83,10,Low
+GD0946,23,Male,2.5,FPS,Valorant,Console,8.2,Good,Sometimes,Good,,8,Normal,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,10.2,1,11.1,16.97,4,Low
+GD0947,33,Male,8.9,MOBA,Dota 2,Multi-platform,5.5,Poor,Always,Below Average,,6,Irritable,Never,TRUE,FALSE,FALSE,TRUE,TRUE,5.3,7.5,4,3.6,129.13,1,High
+GD0948,29,Male,3.3,Strategy,Civilization VI,Mobile,8.5,Good,Always,Excellent,,1,Euphoric,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,7.3,3,13.4,24,17,Low
+GD0949,19,Male,7.7,Mobile Games,PUBG Mobile,Multi-platform,3.9,Poor,Sometimes,Below Average,2.53,1,Irritable,Rarely,TRUE,TRUE,FALSE,FALSE,FALSE,2.7,7.9,6,6.4,67.61,6,High
+GD0950,19,Male,1.1,Mobile Games,Candy Crush,Mobile,7.7,Good,Often,Excellent,1.78,4,Anxious,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.2,7.6,1,12.4,5.41,2,Low
+GD0951,24,Female,7.2,MOBA,Dota 2,Mobile,3.5,Poor,Sometimes,Poor,,7,Irritable,Never,TRUE,FALSE,FALSE,TRUE,TRUE,2.6,7.2,4,8.3,141.29,3,Moderate
+GD0952,21,Male,8.3,FPS,Overwatch,Multi-platform,3.7,Poor,Never,Failing,1.12,1,Irritable,Often,FALSE,FALSE,TRUE,TRUE,FALSE,0.7,6.8,7,2.7,17.93,5,Moderate
+GD0953,20,Male,2.8,FPS,Call of Duty,Console,8.2,Fair,Rarely,Good,1.64,1,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,2.3,6.9,1,11.5,18.69,9,Low
+GD0954,22,Female,5.5,RPG,Cyberpunk 2077,Multi-platform,5,Poor,Often,Good,3.13,2,Angry,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,1.5,9.3,3,11.8,33.67,10,Low
+GD0955,26,Male,5.7,RPG,Elden Ring,Multi-platform,5.4,Poor,Never,Good,,8,Irritable,Daily,FALSE,TRUE,FALSE,FALSE,TRUE,1.4,7.6,3,10.4,96.14,5,Moderate
+GD0956,23,Other,6,Battle Royale,Fortnite,PC,6.2,Fair,Always,Below Average,,2,Withdrawn,Sometimes,FALSE,FALSE,FALSE,TRUE,TRUE,1.4,6.8,4,5.9,28.31,11,Low
+GD0957,21,Male,5.9,MMO,Final Fantasy XIV,Mobile,6.2,Insomnia,Sometimes,Below Average,2.35,5,Angry,Rarely,FALSE,TRUE,FALSE,TRUE,TRUE,0.5,7.9,3,5.8,142.99,3,Moderate
+GD0958,20,Male,7.7,RPG,Elden Ring,Mobile,5.2,Very Poor,Never,Below Average,3.71,2,Irritable,Never,TRUE,FALSE,TRUE,TRUE,FALSE,0.4,6.2,6,7.7,37.02,5,High
+GD0959,25,Male,4.9,Battle Royale,Fortnite,PC,6.6,Fair,Often,Average,,2,Anxious,Sometimes,FALSE,FALSE,FALSE,TRUE,FALSE,1.2,6.1,3,10.7,21.48,9,Low
+GD0960,16,Male,7.6,FPS,CS:GO,Multi-platform,4,Poor,Sometimes,Poor,1.6,,Anxious,Daily,FALSE,TRUE,TRUE,TRUE,FALSE,2.5,6.6,4,5,138.82,1,High
+GD0961,15,Female,5.2,MOBA,Mobile Legends,PC,5.1,Good,Often,Average,3.82,,Normal,Daily,FALSE,FALSE,FALSE,TRUE,FALSE,1.1,6.4,4,9.8,77.03,3,Low
+GD0962,20,Female,6.8,Mobile Games,Candy Crush,Mobile,5.3,Very Poor,Sometimes,Poor,2.55,1,Restless,Never,TRUE,TRUE,FALSE,TRUE,FALSE,2.5,5.4,5,5.8,77.66,8,High
+GD0963,18,Female,10.8,FPS,CS:GO,Mobile,5,Very Poor,Rarely,Average,3.21,,Irritable,Rarely,TRUE,FALSE,FALSE,TRUE,TRUE,4.5,4,6,0.3,110.92,1,High
+GD0964,24,Male,3.6,MOBA,Dota 2,Mobile,5.6,Fair,Often,Average,,9,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,8.2,4,9.8,46.98,6,Low
+GD0965,19,Male,9.3,Battle Royale,Warzone,Mobile,5.1,Poor,Rarely,Poor,1.78,4,Restless,Never,FALSE,TRUE,TRUE,FALSE,TRUE,0.1,3.9,4,5.4,50.18,8,Severe
+GD0966,18,Other,7.6,FPS,Valorant,PC,4.8,Very Poor,Never,Excellent,1.05,,Anxious,Daily,TRUE,TRUE,FALSE,TRUE,TRUE,3.6,6.1,3,8.1,37.08,4,High
+GD0967,19,Male,7,Strategy,StarCraft II,Mobile,4,Very Poor,Often,Poor,3.3,3,Depressed,Daily,TRUE,TRUE,FALSE,FALSE,FALSE,0.2,7.3,5,7.4,54.91,1,High
+GD0968,23,Female,1,Battle Royale,Apex Legends,PC,7.9,Good,Often,Excellent,,8,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,10.9,1,15.2,8.43,1,Low
+GD0969,16,Female,2.8,Battle Royale,Warzone,PC,8.6,Good,Always,Good,1.4,,Excited,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.3,8.4,2,8.8,17.43,3,Low
+GD0970,17,Male,4.1,Mobile Games,Genshin Impact,PC,5.5,Poor,Rarely,Good,1.13,,Normal,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.7,6.4,2,12.4,32.97,5,Low
+GD0971,20,Female,6.3,Strategy,Civilization VI,Multi-platform,6.5,Fair,Sometimes,Good,1.24,6,Normal,Often,FALSE,FALSE,FALSE,TRUE,FALSE,2,7.4,4,8.6,70.66,1,Low
+GD0972,16,Female,8.5,Strategy,StarCraft II,Console,3.6,Poor,Never,Poor,2.36,,Anxious,Rarely,FALSE,FALSE,FALSE,TRUE,TRUE,2.1,5.8,5,2.2,231.04,1,Moderate
+GD0973,16,Male,7.4,Battle Royale,Apex Legends,Multi-platform,5.3,Poor,Often,Failing,2.66,,Euphoric,Often,TRUE,TRUE,FALSE,TRUE,TRUE,1.9,4.8,5,7.3,54.82,6,High
+GD0974,23,Male,11,FPS,CS:GO,Console,4.9,Fair,Always,Failing,,5,Normal,Daily,FALSE,TRUE,TRUE,FALSE,TRUE,3.2,5.7,6,0,388.42,9,Severe
+GD0975,20,Male,7.8,FPS,Call of Duty,Multi-platform,4.8,Very Poor,Never,Below Average,2.91,7,Depressed,Often,TRUE,FALSE,FALSE,TRUE,FALSE,1.5,5.2,3,7,146.41,5,Moderate
+GD0976,17,Female,8.3,MMO,Elder Scrolls Online,Console,4.9,Fair,Sometimes,Poor,2.73,,Anxious,Never,FALSE,FALSE,TRUE,TRUE,TRUE,0.8,4.8,7,7.6,59.04,2,Moderate
+GD0977,27,Female,4.2,RPG,Elden Ring,Mobile,5.9,Fair,Always,Average,,8,Normal,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1.4,8.7,4,8.9,30.61,6,Low
+GD0978,21,Female,7.4,FPS,CS:GO,PC,5.5,Very Poor,Rarely,Below Average,1.88,3,Anxious,Never,TRUE,TRUE,FALSE,TRUE,FALSE,1.5,7.4,5,4.8,113.01,6,High
+GD0979,19,Male,8.4,FPS,CS:GO,PC,5.9,Good,Often,Poor,2.33,9,Withdrawn,Never,TRUE,FALSE,TRUE,TRUE,FALSE,1.7,5.3,6,3.8,44.54,9,High
+GD0980,22,Female,8.7,Mobile Games,PUBG Mobile,Console,4.4,Poor,Never,Below Average,2.48,4,Excited,Sometimes,TRUE,TRUE,FALSE,TRUE,TRUE,3.1,6.9,5,2.4,107.16,12,Severe
+GD0981,25,Male,9.4,FPS,CS:GO,Multi-platform,4.5,Poor,Rarely,Average,,9,Depressed,Daily,TRUE,TRUE,FALSE,TRUE,TRUE,2.7,6.8,5,2.4,361.61,15,Severe
+GD0982,22,Female,13.6,Strategy,Civilization VI,Multi-platform,5.8,Poor,Rarely,Failing,2.92,5,Irritable,Often,TRUE,TRUE,FALSE,TRUE,FALSE,1.4,2.4,8,0,438.83,2,Severe
+GD0983,18,Male,7.1,Strategy,Age of Empires,Multi-platform,4.1,Insomnia,Sometimes,Failing,2.07,,Withdrawn,Never,FALSE,FALSE,FALSE,TRUE,FALSE,1,8.1,5,4.2,105.16,4,Low
+GD0984,23,Male,5.9,MOBA,Dota 2,PC,5,Good,Often,Good,,2,Restless,Never,FALSE,FALSE,FALSE,FALSE,TRUE,1.1,8.3,5,6.3,124.93,1,Low
+GD0985,30,Male,4.4,Battle Royale,Apex Legends,Console,6.5,Fair,Often,Failing,,8,Excited,Never,FALSE,FALSE,FALSE,FALSE,FALSE,0.9,8.5,4,13,20.1,8,Low
+GD0986,17,Male,7.3,Battle Royale,Warzone,Mobile,4,Fair,Always,Poor,2.9,,Anxious,Daily,FALSE,TRUE,FALSE,FALSE,FALSE,1.6,6.8,3,4.5,67.44,7,Moderate
+GD0987,18,Female,3.5,FPS,Overwatch,Mobile,6.1,Fair,Often,Average,3.68,,Angry,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,6.9,1,8.5,1.35,6,Low
+GD0988,19,Male,4.7,MOBA,Dota 2,Console,6.7,Fair,Often,Excellent,2.02,10,Restless,Often,FALSE,FALSE,FALSE,FALSE,FALSE,2.9,6.5,2,9,59.91,9,Low
+GD0989,20,Male,4.4,MMO,Final Fantasy XIV,PC,5.4,Very Poor,Sometimes,Good,2.26,5,Euphoric,Sometimes,FALSE,FALSE,FALSE,FALSE,FALSE,1,9.7,3,12.1,8.08,7,Low
+GD0990,16,Male,1.5,MOBA,League of Legends,Mobile,9,Good,Often,Good,2.91,,Excited,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0.1,9,1,12.2,45.29,2,Low
+GD0991,19,Female,7,FPS,Valorant,PC,3.2,Fair,Often,Poor,3,1,Anxious,Daily,FALSE,TRUE,FALSE,FALSE,TRUE,1.4,7.7,5,5.8,121.06,2,Moderate
+GD0992,24,Female,3.6,RPG,Cyberpunk 2077,Multi-platform,6.8,Fair,Never,Below Average,,8,Euphoric,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,1.5,7.7,1,9.5,31.45,1,Low
+GD0993,18,Male,6.1,MMO,Elder Scrolls Online,PC,5.5,Fair,Rarely,Below Average,1.11,,Irritable,Often,FALSE,FALSE,FALSE,TRUE,FALSE,1.8,8.3,3,8.2,143.48,8,Low
+GD0994,32,Female,4.9,RPG,Skyrim,Console,5.7,Poor,Always,Poor,,4,Euphoric,Never,FALSE,FALSE,FALSE,FALSE,FALSE,1.4,6.4,5,9.6,18.84,18,Low
+GD0995,20,Female,9.3,Battle Royale,Apex Legends,Console,5.8,Fair,Rarely,Poor,2.53,8,Angry,Never,FALSE,TRUE,TRUE,FALSE,FALSE,0.4,4.4,6,6.1,220.04,10,Severe
+GD0996,15,Female,8.6,Strategy,Age of Empires,PC,4.1,Very Poor,Always,Average,2.96,,Restless,Sometimes,TRUE,FALSE,TRUE,TRUE,TRUE,1.9,7.5,6,2.4,426.54,3,Severe
+GD0997,18,Male,5.4,MMO,Elder Scrolls Online,Multi-platform,6.5,Fair,Never,Excellent,3.42,,Angry,Often,FALSE,FALSE,FALSE,TRUE,FALSE,2.1,7.7,1,10.9,83.71,7,Low
+GD0998,23,Male,7.3,RPG,Skyrim,PC,3.9,Insomnia,Rarely,Poor,,3,Withdrawn,Daily,TRUE,TRUE,FALSE,FALSE,TRUE,0.5,8.1,5,6.7,88.6,5,High
+GD0999,18,Male,3.1,Strategy,StarCraft II,Console,8.2,Fair,Sometimes,Good,1.03,,Normal,Rarely,FALSE,FALSE,FALSE,FALSE,FALSE,0.8,8.4,1,12.7,22.02,8,Low
+GD1000,29,Male,3.5,RPG,Cyberpunk 2077,Multi-platform,7.4,Good,Sometimes,Below Average,,6,Normal,Daily,FALSE,FALSE,FALSE,FALSE,FALSE,0,9.3,2,10.9,25.2,19,Low
