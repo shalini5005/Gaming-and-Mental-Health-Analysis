@@ -1,30 +1,30 @@
 # Gaming and Mental Health Analysis
 
-# -----Project Description--------
+## Project Description
 This project analyzes the impact of gaming on mental health using Python.
 
-# ------------Objectives----------
+## Objectives
 - Analyze gaming time distribution
 - Study gaming vs social isolation
 - Study gaming vs sleep quality
 - Perform hypothesis testing
 - Apply linear regression
 
-# ------------Tools Used----------
+## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Scikit-learn
 
-# -------------Results-------------
+## Results
 - High gaming leads to higher social isolation
 - Gaming negatively affects sleep quality
 - Statistical tests confirm relationships
 
-# -------------Dataset-------------
+## Dataset
 Gaming and Mental Health Dataset
 
-# ---------Techniques Used---------
+## Techniques Used
 - Data Cleaning
 - Outlier Detection (IQR)
 - Visualization
